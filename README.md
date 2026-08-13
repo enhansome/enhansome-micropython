@@ -72,7 +72,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-osc](https://github.com/SpotlightKid/micropython-osc) ⭐ 75 | 🐛 3 | 🌐 Python | 📅 2023-11-15 - A minimal OSC client and server library for MicroPython.
 * [micropython-dfplayer](https://github.com/ShrimpingIt/micropython-dfplayer) ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2020-05-17 - Driver for DFPlayer Mini using UART.
 * [upy-rtttl](https://github.com/dhylands/upy-rtttl) ⭐ 43 | 🐛 2 | 🌐 Python | 📅 2025-02-17 - Python Parser for Ring Tone Text Transfer Language (RTTTL).
-* [umidiparser](https://github.com/bixb922/umidiparser) ⭐ 42 | 🐛 3 | 🌐 Python | 📅 2025-03-26 - MIDI file parser for MicroPython, CircuitPython and Python.
+* [umidiparser](https://github.com/bixb922/umidiparser) ⭐ 43 | 🐛 3 | 🌐 Python | 📅 2025-03-26 - MIDI file parser for MicroPython, CircuitPython and Python.
 * [micropython-vs1053](https://github.com/peterhinch/micropython-vs1053) ⭐ 35 | 🐛 4 | 🌐 Python | 📅 2023-05-14 - Asynchronous driver for VS1053b MP3 player.
 * [micropython-buzzer](https://github.com/fruch/micropython-buzzer) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2025-02-09 - Play Nokia compose and mid files on buzzers.
 * [micropython-dfplayer](https://github.com/redoxcode/micropython-dfplayer) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2025-11-16 - Library to control the DFPlayer mini MP3 player module.
@@ -483,7 +483,7 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-waveshare-epaper](https://github.com/mcauser/micropython-waveshare-epaper) ⭐ 393 | 🐛 22 | 🌐 Python | 📅 2021-09-01 - Drivers for various Waveshare ePaper modules.
 * [uc8151\_micropython](https://github.com/antirez/uc8151_micropython) ⭐ 169 | 🐛 4 | 🌐 Python | 📅 2024-04-05 - UC8151 / IL0373 MicroPython e-paper display driver with support for greyscales and fast updates.
-* [Inkplate-micropython](https://github.com/SolderedElectronics/Inkplate-micropython) ⭐ 91 | 🐛 0 | 🌐 Python | 📅 2026-08-10 - MicroPython driver for Inkplate boards.
+* [Inkplate-micropython](https://github.com/SolderedElectronics/Inkplate-micropython) ⭐ 90 | 🐛 0 | 🌐 Python | 📅 2026-08-10 - MicroPython driver for Inkplate boards.
 * [micropython-waveshare-epd](https://github.com/ayoy/micropython-waveshare-epd) ⭐ 59 | 🐛 3 | 🌐 Python | 📅 2018-04-03 - Waveshare ePaper Display driver for devices running Pycom-flavored MicroPython.
 * [uPyEINK](https://github.com/lemariva/uPyEINK) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2020-02-23 - Control a Waveshare 7.5" E-INK display using an ESP32 running MicroPython.
 * [eInk-micropython](https://github.com/dhallgb/eInk-micropython) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2025-05-31 - eInk library for Waveshare 4.3inch device on MicroPython.
@@ -557,7 +557,7 @@ Other places you can look for MicroPython Libraries:
 
 #### LCD TFT
 
-* [st7789\_mpy](https://github.com/russhughes/st7789_mpy) ⭐ 720 | 🐛 37 | 🌐 Python | 📅 2026-07-21 - Fast MicroPython driver for ST7789 display module written in C.
+* [st7789\_mpy](https://github.com/russhughes/st7789_mpy) ⭐ 721 | 🐛 37 | 🌐 Python | 📅 2026-07-21 - Fast MicroPython driver for ST7789 display module written in C.
 * [micropython-ili9341](https://github.com/rdagger/micropython-ili9341) ⭐ 305 | 🐛 4 | 🌐 Python | 📅 2025-03-02 - MicroPython ILI9341 display & XPT2046 touch screen driver.
 * [MicroPython-ST7735](https://github.com/boochow/MicroPython-ST7735) ⭐ 276 | 🐛 10 | 🌐 Python | 📅 2022-12-30 - ESP32 version of GuyCarvers's ST7735 TFT LCD driver.
 * [st7789py\_mpy](https://github.com/russhughes/st7789py_mpy) ⭐ 248 | 🐛 16 | 🌐 Python | 📅 2024-08-05 - Driver for 320x240, 240x240 and 135x240 ST7789 displays written in MicroPython.
@@ -1272,8 +1272,8 @@ Other places you can look for MicroPython Libraries:
 
 ## Resources
 
-* [MicroPython on GitHub](https://github.com/micropython/micropython) ⭐ 21,986 | 🐛 1,545 | 🌐 C | 📅 2026-08-13 - Submit bug reports, follow and join in development on GitHub.
-* [MicroPython Wiki](https://github.com/micropython/micropython/wiki) ⭐ 21,986 | 🐛 1,545 | 🌐 C | 📅 2026-08-13 - Community generated documentation and examples of the features of MicroPython and the Pyboard.
+* [MicroPython on GitHub](https://github.com/micropython/micropython) ⭐ 21,989 | 🐛 1,536 | 🌐 C | 📅 2026-08-13 - Submit bug reports, follow and join in development on GitHub.
+* [MicroPython Wiki](https://github.com/micropython/micropython/wiki) ⭐ 21,989 | 🐛 1,536 | 🌐 C | 📅 2026-08-13 - Community generated documentation and examples of the features of MicroPython and the Pyboard.
 * [awesome-micropythons](https://github.com/adafruit/awesome-micropythons) ⭐ 48 | 🐛 1 | 📅 2020-02-18 - The many forks & ports of MicroPython.
 * [MicroPython](https://micropython.org) - Project website. Test drive the Pyboard. Try MicroPython online with Unicorn.
 * [MicroPython Official Documentation](https://docs.micropython.org/) - For various ports, including quick reference, general information, examples and tutorials.
@@ -1344,7 +1344,7 @@ Other places you can look for MicroPython Libraries:
 
 #### On Host
 
-* [mpremote](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) ⭐ 21,986 | 🐛 1,545 | 🌐 C | 📅 2026-08-13 - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
+* [mpremote](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) ⭐ 21,989 | 🐛 1,536 | 🌐 C | 📅 2026-08-13 - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
 * [rshell](https://github.com/dhylands/rshell) ⭐ 1,041 | 🐛 132 | 🌐 Python | 📅 2024-12-04 - Copy or sync files to boards, enter REPL from your terminal.
 * [ampy](https://github.com/scientifichackers/ampy) ⭐ 758 | 🐛 40 | 🌐 Python | 📅 2026-04-16 - Utility to interact with a MicroPython board over a serial connection.
 * [mpfshell](https://github.com/wendlers/mpfshell) ⭐ 417 | 🐛 24 | 🌐 Python | 📅 2026-05-16 - A simple shell-based file explorer for ESP8266 and WiPy.
