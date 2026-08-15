@@ -3291,7 +3291,7 @@
             "last_commit": "2026-06-26T18:50:32Z",
             "owner": "kritishmohapatra",
             "repo": "micropidash",
-            "stars": 39
+            "stars": 40
           }
         },
         {
@@ -4769,7 +4769,7 @@
             "last_commit": "2019-07-03T01:02:28Z",
             "owner": "mcauser",
             "repo": "micropython-max7219",
-            "stars": 211
+            "stars": 212
           }
         },
         {
@@ -8713,7 +8713,7 @@
             "last_commit": "2024-03-01T23:22:35Z",
             "owner": "tuupola",
             "repo": "micropython-mpu9250",
-            "stars": 164
+            "stars": 163
           }
         },
         {
@@ -10528,7 +10528,7 @@
             "last_commit": "2026-07-17T11:45:15Z",
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1004
+            "stars": 1006
           }
         },
         {
@@ -10615,7 +10615,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T12:28:04Z",
+            "last_commit": "2026-08-15T12:55:55Z",
             "owner": "BxNxM",
             "repo": "micrOS",
             "stars": 137
@@ -10744,10 +10744,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T22:18:23Z",
+            "last_commit": "2026-08-14T22:04:27Z",
             "owner": "Josverl",
             "repo": "micropython-stubs",
-            "stars": 314
+            "stars": 315
           }
         },
         {
@@ -10775,7 +10775,7 @@
             "last_commit": "2026-08-05T11:00:06Z",
             "owner": "vshymanskyy",
             "repo": "wasm2mpy",
-            "stars": 153
+            "stars": 154
           }
         },
         {
@@ -11163,7 +11163,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T03:38:42Z",
+            "last_commit": "2026-08-15T08:02:28Z",
             "owner": "bulletmark",
             "repo": "mpr",
             "stars": 25
@@ -11269,7 +11269,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T16:08:06.856Z",
+    "last_updated": "2026-08-15T15:38:44.569Z",
     "original_repository": "mcauser/awesome-micropython",
     "original_repository_sha": "d81badbfbe9a83124ab35ef865a16cdd6a41c1c2",
     "enhanced_repository": "enhansome/enhansome-micropython",
