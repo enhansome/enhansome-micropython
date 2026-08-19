@@ -91,7 +91,7 @@ Other places you can look for MicroPython Libraries:
 
 #### APIs
 
-* [micropython-utelegram](https://github.com/jordiprats/micropython-utelegram) ⭐ 92 | 🐛 8 | 🌐 Python | 📅 2023-10-06 - Telegram API wrapper for MicroPython.
+* [micropython-utelegram](https://github.com/jordiprats/micropython-utelegram) ⭐ 91 | 🐛 8 | 🌐 Python | 📅 2023-10-06 - Telegram API wrapper for MicroPython.
 * [micropython-telegram-bot](https://github.com/antirez/micropython-telegram-bot) ⭐ 63 | 🐛 0 | 🌐 Python | 📅 2024-10-19 - MicroPython telegram bot library: simple way to put your IoT projects on the cloud.
 * [telegram-upy](https://github.com/gabrielebarola/telegram-upy) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2022-03-08 - Telegram API wrapper for MicroPython.
 * [micropython-spotify-web-api](https://github.com/tltx/micropython-spotify-web-api) ⭐ 24 | 🐛 1 | 🌐 Python | 📅 2021-02-08 - A library for using Spotify's web API from a IoT device with MicroPython.
@@ -136,7 +136,7 @@ Other places you can look for MicroPython Libraries:
 * [tamp](https://github.com/BrianPugh/tamp) ⭐ 74 | 🐛 7 | 🌐 C | 📅 2026-08-10 - A low-memory, MicroPython-optimized, DEFLATE-inspired lossless compression library.
 * [micropython-zipfile](https://github.com/jonnor/micropython-zipfile) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2026-07-18 - Read/write ZIP archive files. Ported from CPython, supports DEFLATE compression.
 * [ufastlz](https://github.com/dmazzella/ufastlz) ⭐ 19 | 🐛 1 | 🌐 Python | 📅 2022-06-11 - MicroPython wrapper for FastLZ, a lightning-fast lossless compression library.
-* [bitstruct-micropython](https://github.com/peterzuger/bitstruct-micropython) ⭐ 7 | 🐛 2 | 🌐 C | 📅 2026-07-03 - MicroPython port of [bitstruct](https://github.com/eerimoq/bitstruct) ⭐ 135 | 🐛 14 | 🌐 C | 📅 2026-08-15.
+* [bitstruct-micropython](https://github.com/peterzuger/bitstruct-micropython) ⭐ 7 | 🐛 2 | 🌐 C | 📅 2026-07-03 - MicroPython port of [bitstruct](https://github.com/eerimoq/bitstruct) ⭐ 135 | 🐛 15 | 🌐 C | 📅 2026-08-15.
 
 #### Cryptography
 
@@ -1264,7 +1264,7 @@ Other places you can look for MicroPython Libraries:
 
 ## Frameworks
 
-* [micrOS](https://github.com/BxNxM/micrOS) ⭐ 137 | 🐛 0 | 🌐 Python | 📅 2026-08-15 - MicroPython-based IoT Framework.
+* [micrOS](https://github.com/BxNxM/micrOS) ⭐ 137 | 🐛 0 | 🌐 Python | 📅 2026-08-19 - MicroPython-based IoT Framework.
 * [terkin-datalogger](https://github.com/hiveeyes/terkin-datalogger) ⭐ 64 | 🐛 32 | 🌐 Python | 📅 2022-12-03 - Flexible data logger application for MicroPython and CPython.
 * [meerkat](https://github.com/crdietrich/meerkat) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2023-03-19 - I2C Data Acquisition for MicroPython and Raspberry Pi.
 * [public-micropython-iot-platform](https://github.com/wolfen351/public-micropython-iot-platform) ⭐ 9 | 🐛 0 | 🌐 C | 📅 2025-07-21 - Project Fred MicroPython IOT Platform, code to control relays, temp sensors, buttons, touchscreen, GPS etc. Has a responsive Web UI, MQTT, Home Assistant and ThingsBoard support.
