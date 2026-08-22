@@ -4679,7 +4679,7 @@
                     "last_commit": "2026-07-21T19:35:11Z",
                     "owner": "russhughes",
                     "repo": "st7789_mpy",
-                    "stars": 722
+                    "stars": 723
                   }
                 },
                 {
@@ -11328,7 +11328,7 @@
             "last_commit": "2026-07-17T11:45:15Z",
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1025
+            "stars": 1026
           }
         },
         {
@@ -11490,7 +11490,7 @@
             "last_commit": "2026-08-18T14:36:09Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22003
+            "stars": 22005
           }
         },
         {
@@ -11505,7 +11505,7 @@
             "last_commit": "2026-08-18T14:36:09Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22003
+            "stars": 22005
           }
         },
         {
@@ -11932,7 +11932,7 @@
                     "last_commit": "2026-08-18T14:36:09Z",
                     "owner": "micropython",
                     "repo": "micropython",
-                    "stars": 22003
+                    "stars": 22005
                   }
                 },
                 {
@@ -12122,7 +12122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:51:10.042Z",
+    "last_updated": "2026-08-22T15:39:28.176Z",
     "original_repository": "mcauser/awesome-micropython",
     "original_repository_id": 123274703,
     "original_repository_sha": "d81badbfbe9a83124ab35ef865a16cdd6a41c1c2",
