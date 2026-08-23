@@ -378,7 +378,7 @@
                     "last_commit": "2024-10-19T16:25:24Z",
                     "owner": "antirez",
                     "repo": "micropython-telegram-bot",
-                    "stars": 63
+                    "stars": 64
                   }
                 },
                 {
@@ -2543,7 +2543,7 @@
                     "last_commit": "2026-08-17T12:49:53Z",
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2845
+                    "stars": 2846
                   }
                 },
                 {
@@ -2647,7 +2647,7 @@
                     "last_commit": "2026-08-17T12:49:53Z",
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2845
+                    "stars": 2846
                   }
                 },
                 {
@@ -3969,7 +3969,7 @@
                     "last_commit": "2025-05-28T09:18:59Z",
                     "owner": "peterhinch",
                     "repo": "micropython-font-to-py",
-                    "stars": 469
+                    "stars": 470
                   }
                 },
                 {
@@ -3984,7 +3984,7 @@
                     "last_commit": "2025-05-28T09:18:59Z",
                     "owner": "peterhinch",
                     "repo": "micropython-font-to-py",
-                    "stars": 469
+                    "stars": 470
                   }
                 },
                 {
@@ -4238,7 +4238,7 @@
                     "last_commit": "2026-06-13T14:52:57Z",
                     "owner": "peterhinch",
                     "repo": "micropython-nano-gui",
-                    "stars": 662
+                    "stars": 663
                   }
                 },
                 {
@@ -4552,7 +4552,7 @@
                     "last_commit": "2026-08-17T12:49:53Z",
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2845
+                    "stars": 2846
                   }
                 },
                 {
@@ -5607,7 +5607,7 @@
                     "last_commit": "2026-08-17T12:49:53Z",
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2845
+                    "stars": 2846
                   }
                 },
                 {
@@ -7622,7 +7622,7 @@
                     "last_commit": "2023-11-18T16:21:09Z",
                     "owner": "dafvid",
                     "repo": "micropython-bmp280",
-                    "stars": 117
+                    "stars": 118
                   }
                 },
                 {
@@ -8011,7 +8011,7 @@
                     "last_commit": "2026-01-12T04:57:52Z",
                     "owner": "cnadler86",
                     "repo": "micropython-camera-API",
-                    "stars": 160
+                    "stars": 161
                   }
                 },
                 {
@@ -8787,7 +8787,7 @@
                     "last_commit": "2020-11-02T14:23:48Z",
                     "owner": "Notthemarsian",
                     "repo": "CCS811",
-                    "stars": 32
+                    "stars": 33
                   }
                 },
                 {
@@ -9922,7 +9922,7 @@
                     "last_commit": "2026-08-17T12:49:53Z",
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2845
+                    "stars": 2846
                   }
                 },
                 {
@@ -9938,6 +9938,21 @@
                     "owner": "peterhinch",
                     "repo": "micropython-async",
                     "stars": 829
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "micropython_ahtx0",
+                  "description": "MicroPython driver for the AHT10 and AHT20 temperature and humidity sensors.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 319876173,
+                    "language": "Python",
+                    "last_commit": "2023-10-12T18:09:19Z",
+                    "owner": "targetblank",
+                    "repo": "micropython_ahtx0",
+                    "stars": 53
                   }
                 },
                 {
@@ -9967,21 +9982,6 @@
                     "last_commit": "2025-05-22T12:19:11Z",
                     "owner": "robert-hh",
                     "repo": "BME680-Micropython",
-                    "stars": 52
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "micropython_ahtx0",
-                  "description": "MicroPython driver for the AHT10 and AHT20 temperature and humidity sensors.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 319876173,
-                    "language": "Python",
-                    "last_commit": "2023-10-12T18:09:19Z",
-                    "owner": "targetblank",
-                    "repo": "micropython_ahtx0",
                     "stars": 52
                   }
                 },
@@ -11328,7 +11328,7 @@
             "last_commit": "2026-07-17T11:45:15Z",
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1026
+            "stars": 1035
           }
         },
         {
@@ -11421,7 +11421,7 @@
             "archived": false,
             "id": 106599127,
             "language": "Python",
-            "last_commit": "2026-08-20T19:53:09Z",
+            "last_commit": "2026-08-23T14:14:03Z",
             "owner": "BxNxM",
             "repo": "micrOS",
             "stars": 137
@@ -11490,7 +11490,7 @@
             "last_commit": "2026-08-18T14:36:09Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22005
+            "stars": 22009
           }
         },
         {
@@ -11505,7 +11505,7 @@
             "last_commit": "2026-08-18T14:36:09Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22005
+            "stars": 22009
           }
         },
         {
@@ -11558,7 +11558,7 @@
                 "last_commit": "2026-08-20T01:13:28Z",
                 "owner": "Josverl",
                 "repo": "micropython-stubs",
-                "stars": 316
+                "stars": 315
               }
             },
             {
@@ -11573,7 +11573,7 @@
                 "last_commit": "2026-08-07T21:51:13Z",
                 "owner": "Josverl",
                 "repo": "micropython-stubber",
-                "stars": 254
+                "stars": 255
               }
             },
             {
@@ -11932,7 +11932,7 @@
                     "last_commit": "2026-08-18T14:36:09Z",
                     "owner": "micropython",
                     "repo": "micropython",
-                    "stars": 22005
+                    "stars": 22009
                   }
                 },
                 {
@@ -12079,7 +12079,7 @@
                 "last_commit": "2026-03-03T23:30:40Z",
                 "owner": "BrianPugh",
                 "repo": "belay",
-                "stars": 272
+                "stars": 273
               }
             },
             {
@@ -12122,7 +12122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:39:28.176Z",
+    "last_updated": "2026-08-23T15:41:14.258Z",
     "original_repository": "mcauser/awesome-micropython",
     "original_repository_id": 123274703,
     "original_repository_sha": "d81badbfbe9a83124ab35ef865a16cdd6a41c1c2",
