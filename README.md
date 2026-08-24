@@ -1027,7 +1027,7 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-fusion](https://github.com/micropython-IMU/micropython-fusion) ⭐ 344 | 🐛 5 | 🌐 Python | 📅 2020-08-26 - Sensor fusion calculates heading, pitch and roll from the outputs of motion tracking devices.
 * [micropython-mpu9x50](https://github.com/micropython-IMU/micropython-mpu9x50) ⭐ 277 | 🐛 3 | 🌐 Python | 📅 2024-10-23 - Driver for the InvenSense MPU9250 inertial measurement unit.
-* [micropython-mpu9250](https://github.com/tuupola/micropython-mpu9250) ⭐ 163 | 🐛 7 | 🌐 Python | 📅 2024-03-01 - I2C driver for MPU9250 9-axis motion tracking device.
+* [micropython-mpu9250](https://github.com/tuupola/micropython-mpu9250) ⭐ 164 | 🐛 7 | 🌐 Python | 📅 2024-03-01 - I2C driver for MPU9250 9-axis motion tracking device.
 * [MPU6050-ESP8266-MicroPython](https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython) ⭐ 92 | 🐛 7 | 🌐 Python | 📅 2021-04-05 - ESP8266 driver for MPU6050 accelerometer/gyroscope.
 * [py-mpu6050](https://github.com/larsks/py-mpu6050) ⭐ 86 | 🐛 5 | 🌐 Python | 📅 2022-01-31 - ESP8266 driver for MPU6050 accelerometer/gyroscope.
 * [flight\_controller](https://github.com/wagnerc4/flight_controller) ⭐ 77 | 🐛 0 | 🌐 Python | 📅 2015-12-16 - MicroPython flight controller.
@@ -1264,7 +1264,7 @@ Other places you can look for MicroPython Libraries:
 
 ## Frameworks
 
-* [micrOS](https://github.com/BxNxM/micrOS) ⭐ 137 | 🐛 0 | 🌐 Python | 📅 2026-08-23 - MicroPython-based IoT Framework.
+* [micrOS](https://github.com/BxNxM/micrOS) ⭐ 137 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - MicroPython-based IoT Framework.
 * [terkin-datalogger](https://github.com/hiveeyes/terkin-datalogger) ⭐ 64 | 🐛 32 | 🌐 Python | 📅 2022-12-03 - Flexible data logger application for MicroPython and CPython.
 * [meerkat](https://github.com/crdietrich/meerkat) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2023-03-19 - I2C Data Acquisition for MicroPython and Raspberry Pi.
 * [public-micropython-iot-platform](https://github.com/wolfen351/public-micropython-iot-platform) ⭐ 9 | 🐛 0 | 🌐 C | 📅 2025-07-21 - Project Fred MicroPython IOT Platform, code to control relays, temp sensors, buttons, touchscreen, GPS etc. Has a responsive Web UI, MQTT, Home Assistant and ThingsBoard support.
@@ -1272,8 +1272,8 @@ Other places you can look for MicroPython Libraries:
 
 ## Resources
 
-* [MicroPython on GitHub](https://github.com/micropython/micropython) ⭐ 22,009 | 🐛 1,539 | 🌐 C | 📅 2026-08-24 - Submit bug reports, follow and join in development on GitHub.
-* [MicroPython Wiki](https://github.com/micropython/micropython/wiki) ⭐ 22,009 | 🐛 1,539 | 🌐 C | 📅 2026-08-24 - Community generated documentation and examples of the features of MicroPython and the Pyboard.
+* [MicroPython on GitHub](https://github.com/micropython/micropython) ⭐ 22,009 | 🐛 1,540 | 🌐 C | 📅 2026-08-24 - Submit bug reports, follow and join in development on GitHub.
+* [MicroPython Wiki](https://github.com/micropython/micropython/wiki) ⭐ 22,009 | 🐛 1,540 | 🌐 C | 📅 2026-08-24 - Community generated documentation and examples of the features of MicroPython and the Pyboard.
 * [awesome-micropythons](https://github.com/adafruit/awesome-micropythons) ⭐ 48 | 🐛 1 | 📅 2020-02-18 - The many forks & ports of MicroPython.
 * [MicroPython](https://micropython.org) - Project website. Test drive the Pyboard. Try MicroPython online with Unicorn.
 * [MicroPython Official Documentation](https://docs.micropython.org/) - For various ports, including quick reference, general information, examples and tutorials.
@@ -1344,7 +1344,7 @@ Other places you can look for MicroPython Libraries:
 
 #### On Host
 
-* [mpremote](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) ⭐ 22,009 | 🐛 1,539 | 🌐 C | 📅 2026-08-24 - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
+* [mpremote](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) ⭐ 22,009 | 🐛 1,540 | 🌐 C | 📅 2026-08-24 - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
 * [rshell](https://github.com/dhylands/rshell) ⭐ 1,041 | 🐛 132 | 🌐 Python | 📅 2024-12-04 - Copy or sync files to boards, enter REPL from your terminal.
 * [ampy](https://github.com/scientifichackers/ampy) ⭐ 758 | 🐛 40 | 🌐 Python | 📅 2026-04-16 - Utility to interact with a MicroPython board over a serial connection.
 * [mpfshell](https://github.com/wendlers/mpfshell) ⭐ 418 | 🐛 24 | 🌐 Python | 📅 2026-05-16 - A simple shell-based file explorer for ESP8266 and WiPy.

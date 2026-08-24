@@ -9942,7 +9942,7 @@
                     "last_commit": "2024-03-01T23:22:35Z",
                     "owner": "tuupola",
                     "repo": "micropython-mpu9250",
-                    "stars": 163
+                    "stars": 164
                   }
                 },
                 {
@@ -12125,7 +12125,7 @@
             "archived": false,
             "id": 106599127,
             "language": "Python",
-            "last_commit": "2026-08-23T18:35:54Z",
+            "last_commit": "2026-08-24T14:52:31Z",
             "owner": "BxNxM",
             "repo": "micrOS",
             "stars": 137
@@ -12848,7 +12848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:06:38.487Z",
+    "last_updated": "2026-08-24T15:58:29.104Z",
     "original_repository": "mcauser/awesome-micropython",
     "original_repository_id": 123274703,
     "original_repository_sha": "d81badbfbe9a83124ab35ef865a16cdd6a41c1c2",
