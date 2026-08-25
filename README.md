@@ -658,7 +658,7 @@ Other places you can look for MicroPython Libraries:
 
 #### ADC
 
-* [ads1x15](https://github.com/robert-hh/ads1x15) ⭐ 112 | 🐛 3 | 🌐 Python | 📅 2026-08-04 - Driver for the ADS1015/ADS1115 ADC, I2C interface.
+* [ads1x15](https://github.com/robert-hh/ads1x15) ⭐ 113 | 🐛 3 | 🌐 Python | 📅 2026-08-04 - Driver for the ADS1015/ADS1115 ADC, I2C interface.
 * [MicroPython-ADC\_Cal](https://github.com/matthias-bs/MicroPython-ADC_Cal) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2026-02-12 - ESP32 ADC driver using reference voltage calibration value from efuse.
 * [micropython-ads1220](https://github.com/rdagger/micropython-ads1220) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2021-08-13 - MicroPython library for ADS1220 24-bit analog-to-digital converter.
 * [CS1237](https://github.com/robert-hh/CS1237) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2025-08-08 - MicroPython driver for the CS1237 ADC.
@@ -1031,7 +1031,7 @@ Other places you can look for MicroPython Libraries:
 * [MPU6050-ESP8266-MicroPython](https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython) ⭐ 92 | 🐛 7 | 🌐 Python | 📅 2021-04-05 - ESP8266 driver for MPU6050 accelerometer/gyroscope.
 * [py-mpu6050](https://github.com/larsks/py-mpu6050) ⭐ 86 | 🐛 5 | 🌐 Python | 📅 2022-01-31 - ESP8266 driver for MPU6050 accelerometer/gyroscope.
 * [flight\_controller](https://github.com/wagnerc4/flight_controller) ⭐ 77 | 🐛 0 | 🌐 Python | 📅 2015-12-16 - MicroPython flight controller.
-* [micropython-bno055](https://github.com/micropython-IMU/micropython-bno055) ⭐ 61 | 🐛 2 | 🌐 Python | 📅 2026-05-28 - Bosch BNO055 driver for MicroPython. IMU with hardware sensor fusion.
+* [micropython-bno055](https://github.com/micropython-IMU/micropython-bno055) ⭐ 62 | 🐛 2 | 🌐 Python | 📅 2026-05-28 - Bosch BNO055 driver for MicroPython. IMU with hardware sensor fusion.
 * [upy-motion](https://github.com/OneMadGypsy/upy-motion) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2021-06-24 - A simple MPU6050 driver written in MicroPython.
 * [micropython-mpu6886](https://github.com/tuupola/micropython-mpu6886) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2020-03-27 - MicroPython I2C driver for MPU6886 6-axis motion tracking device.
 * [MicroPython\_ICM20948](https://github.com/jposada202020/MicroPython_ICM20948) ⚠️ Archived - ARCHIVED. MicroPython Driver for the TDK ICM20948 Accelerometer/Gyro Sensor.
@@ -1272,8 +1272,8 @@ Other places you can look for MicroPython Libraries:
 
 ## Resources
 
-* [MicroPython on GitHub](https://github.com/micropython/micropython) ⭐ 22,010 | 🐛 1,536 | 🌐 C | 📅 2026-08-25 - Submit bug reports, follow and join in development on GitHub.
-* [MicroPython Wiki](https://github.com/micropython/micropython/wiki) ⭐ 22,010 | 🐛 1,536 | 🌐 C | 📅 2026-08-25 - Community generated documentation and examples of the features of MicroPython and the Pyboard.
+* [MicroPython on GitHub](https://github.com/micropython/micropython) ⭐ 22,011 | 🐛 1,533 | 🌐 C | 📅 2026-08-25 - Submit bug reports, follow and join in development on GitHub.
+* [MicroPython Wiki](https://github.com/micropython/micropython/wiki) ⭐ 22,011 | 🐛 1,533 | 🌐 C | 📅 2026-08-25 - Community generated documentation and examples of the features of MicroPython and the Pyboard.
 * [awesome-micropythons](https://github.com/adafruit/awesome-micropythons) ⭐ 48 | 🐛 1 | 📅 2020-02-18 - The many forks & ports of MicroPython.
 * [MicroPython](https://micropython.org) - Project website. Test drive the Pyboard. Try MicroPython online with Unicorn.
 * [MicroPython Official Documentation](https://docs.micropython.org/) - For various ports, including quick reference, general information, examples and tutorials.
@@ -1286,7 +1286,7 @@ Other places you can look for MicroPython Libraries:
 ### Code Generation
 
 * [micropy-cli](https://github.com/BradenM/micropy-cli) ⭐ 337 | 🐛 54 | 🌐 Python | 📅 2026-08-24 - Micropy CLI is a project management/generation tool for writing MicroPython code in modern IDEs such as Visual Studio Code.
-* [micropython-stubs](https://github.com/Josverl/micropython-stubs) ⭐ 315 | 🐛 24 | 🌐 Python | 📅 2026-08-25 - Stubs of most MicroPython ports, boards and versions to make writing code that much simpler.
+* [micropython-stubs](https://github.com/Josverl/micropython-stubs) ⭐ 316 | 🐛 24 | 🌐 Python | 📅 2026-08-25 - Stubs of most MicroPython ports, boards and versions to make writing code that much simpler.
 * [micropython-stubber](https://github.com/Josverl/micropython-stubber) ⭐ 255 | 🐛 9 | 🌐 Python | 📅 2026-08-07 - Generate and use stubs for different MicroPython firmwares to use with Visual Studio Code or any IDE and linter.
 * [wasm2mpy](https://github.com/vshymanskyy/wasm2mpy) ⭐ 155 | 🐛 0 | 🌐 C | 📅 2026-08-05 - Compile WebAssembly to native MicroPython `.mpy` files. Allows writing code in various statically compiled languages, and translating them to C for near-native performance.
 * [micropy-stubs](https://github.com/BradenM/micropy-stubs) ⭐ 29 | 🐛 6 | 🌐 Python | 📅 2022-12-08 - Automatically Generated Stub Packages for Micropy-Cli and whomever else.
@@ -1344,7 +1344,7 @@ Other places you can look for MicroPython Libraries:
 
 #### On Host
 
-* [mpremote](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) ⭐ 22,010 | 🐛 1,536 | 🌐 C | 📅 2026-08-25 - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
+* [mpremote](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) ⭐ 22,011 | 🐛 1,533 | 🌐 C | 📅 2026-08-25 - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
 * [rshell](https://github.com/dhylands/rshell) ⭐ 1,041 | 🐛 132 | 🌐 Python | 📅 2024-12-04 - Copy or sync files to boards, enter REPL from your terminal.
 * [ampy](https://github.com/scientifichackers/ampy) ⭐ 758 | 🐛 40 | 🌐 Python | 📅 2026-04-16 - Utility to interact with a MicroPython board over a serial connection.
 * [mpfshell](https://github.com/wendlers/mpfshell) ⭐ 418 | 🐛 24 | 🌐 Python | 📅 2026-05-16 - A simple shell-based file explorer for ESP8266 and WiPy.

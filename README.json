@@ -6204,7 +6204,7 @@
                     "last_commit": "2026-08-04T06:23:49Z",
                     "owner": "robert-hh",
                     "repo": "ads1x15",
-                    "stars": 112
+                    "stars": 113
                   }
                 },
                 {
@@ -10002,7 +10002,7 @@
                     "last_commit": "2026-05-28T15:54:16Z",
                     "owner": "micropython-IMU",
                     "repo": "micropython-bno055",
-                    "stars": 61
+                    "stars": 62
                   }
                 },
                 {
@@ -12194,7 +12194,7 @@
             "last_commit": "2026-08-25T05:06:29Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22010
+            "stars": 22011
           }
         },
         {
@@ -12209,7 +12209,7 @@
             "last_commit": "2026-08-25T05:06:29Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22010
+            "stars": 22011
           }
         },
         {
@@ -12262,7 +12262,7 @@
                 "last_commit": "2026-08-25T05:10:58Z",
                 "owner": "Josverl",
                 "repo": "micropython-stubs",
-                "stars": 315
+                "stars": 316
               }
             },
             {
@@ -12658,7 +12658,7 @@
                     "last_commit": "2026-08-25T05:06:29Z",
                     "owner": "micropython",
                     "repo": "micropython",
-                    "stars": 22010
+                    "stars": 22011
                   }
                 },
                 {
@@ -12848,7 +12848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:02:33.315Z",
+    "last_updated": "2026-08-25T16:03:42.463Z",
     "original_repository": "mcauser/awesome-micropython",
     "original_repository_id": 123274703,
     "original_repository_sha": "d81badbfbe9a83124ab35ef865a16cdd6a41c1c2",
