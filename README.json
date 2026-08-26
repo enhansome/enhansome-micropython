@@ -231,7 +231,7 @@
                 "archived": false,
                 "id": 547209317,
                 "language": "JavaScript",
-                "last_commit": "2026-08-04T02:26:56Z",
+                "last_commit": "2026-08-26T02:44:25Z",
                 "owner": "QuirkyCort",
                 "repo": "IoTy",
                 "stars": 17
@@ -246,7 +246,7 @@
                 "archived": false,
                 "id": 547209317,
                 "language": "JavaScript",
-                "last_commit": "2026-08-04T02:26:56Z",
+                "last_commit": "2026-08-26T02:44:25Z",
                 "owner": "QuirkyCort",
                 "repo": "IoTy",
                 "stars": 17
@@ -1360,10 +1360,10 @@
                     "archived": false,
                     "id": 75714033,
                     "language": "Python",
-                    "last_commit": "2026-07-14T15:53:41Z",
+                    "last_commit": "2026-08-26T15:00:54Z",
                     "owner": "peterhinch",
                     "repo": "micropython-async",
-                    "stars": 829
+                    "stars": 828
                   }
                 },
                 {
@@ -1378,7 +1378,7 @@
                     "last_commit": "2023-02-18T17:59:57Z",
                     "owner": "inmcm",
                     "repo": "micropyGPS",
-                    "stars": 390
+                    "stars": 389
                   }
                 },
                 {
@@ -1430,7 +1430,7 @@
                     "last_commit": "2017-11-24T11:59:13Z",
                     "owner": "jeffmer",
                     "repo": "micropython-upyphone",
-                    "stars": 426
+                    "stars": 425
                   }
                 },
                 {
@@ -1579,7 +1579,7 @@
                     "last_commit": "2021-01-18T13:33:28Z",
                     "owner": "microhomie",
                     "repo": "microhomie",
-                    "stars": 82
+                    "stars": 81
                   }
                 },
                 {
@@ -2233,10 +2233,10 @@
                     "archived": false,
                     "id": 94690722,
                     "language": "Python",
-                    "last_commit": "2026-03-14T18:40:53Z",
+                    "last_commit": "2026-08-26T14:52:36Z",
                     "owner": "peterhinch",
                     "repo": "micropython-mqtt",
-                    "stars": 688
+                    "stars": 687
                   }
                 },
                 {
@@ -2266,7 +2266,7 @@
                     "last_commit": "2021-05-31T19:37:34Z",
                     "owner": "kevinkk525",
                     "repo": "pysmartnode",
-                    "stars": 117
+                    "stars": 116
                   }
                 },
                 {
@@ -2705,7 +2705,7 @@
                     "last_commit": "2022-03-09T04:29:43Z",
                     "owner": "rdehuyss",
                     "repo": "micropython-ota-updater",
-                    "stars": 380
+                    "stars": 379
                   }
                 },
                 {
@@ -3298,10 +3298,10 @@
                     "archived": false,
                     "id": 75714033,
                     "language": "Python",
-                    "last_commit": "2026-07-14T15:53:41Z",
+                    "last_commit": "2026-08-26T15:00:54Z",
                     "owner": "peterhinch",
                     "repo": "micropython-async",
-                    "stars": 829
+                    "stars": 828
                   }
                 },
                 {
@@ -3656,7 +3656,7 @@
                     "last_commit": "2026-08-09T11:20:15Z",
                     "owner": "miguelgrinberg",
                     "repo": "microdot",
-                    "stars": 2138
+                    "stars": 2140
                   }
                 },
                 {
@@ -4163,7 +4163,7 @@
                     "last_commit": "2021-09-01T19:10:33Z",
                     "owner": "mcauser",
                     "repo": "micropython-waveshare-epaper",
-                    "stars": 394
+                    "stars": 395
                   }
                 },
                 {
@@ -4634,7 +4634,7 @@
                     "last_commit": "2026-08-24T16:56:20Z",
                     "owner": "lvgl",
                     "repo": "lv_binding_micropython",
-                    "stars": 353
+                    "stars": 352
                   }
                 },
                 {
@@ -5165,7 +5165,7 @@
                     "last_commit": "2024-03-20T04:23:56Z",
                     "owner": "russhughes",
                     "repo": "s3lcd",
-                    "stars": 111
+                    "stars": 110
                   }
                 },
                 {
@@ -5749,7 +5749,7 @@
                     "last_commit": "2026-01-25T16:27:33Z",
                     "owner": "kritishmohapatra",
                     "repo": "micropython-sevenseg",
-                    "stars": 0
+                    "stars": 1
                   }
                 },
                 {
@@ -6768,7 +6768,7 @@
                     "archived": false,
                     "id": 547209317,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-04T02:26:56Z",
+                    "last_commit": "2026-08-26T02:44:25Z",
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
                     "stars": 17
@@ -6916,10 +6916,10 @@
                     "archived": false,
                     "id": 75714033,
                     "language": "Python",
-                    "last_commit": "2026-07-14T15:53:41Z",
+                    "last_commit": "2026-08-26T15:00:54Z",
                     "owner": "peterhinch",
                     "repo": "micropython-async",
-                    "stars": 829
+                    "stars": 828
                   }
                 },
                 {
@@ -6931,10 +6931,10 @@
                     "archived": false,
                     "id": 47072457,
                     "language": "Python",
-                    "last_commit": "2026-07-31T10:04:58Z",
+                    "last_commit": "2026-08-26T14:50:10Z",
                     "owner": "peterhinch",
                     "repo": "micropython-samples",
-                    "stars": 532
+                    "stars": 531
                   }
                 },
                 {
@@ -7212,10 +7212,10 @@
                 "archived": false,
                 "id": 47072457,
                 "language": "Python",
-                "last_commit": "2026-07-31T10:04:58Z",
+                "last_commit": "2026-08-26T14:50:10Z",
                 "owner": "peterhinch",
                 "repo": "micropython-samples",
-                "stars": 532
+                "stars": 531
               }
             },
             {
@@ -8462,7 +8462,7 @@
                     "archived": false,
                     "id": 547209317,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-04T02:26:56Z",
+                    "last_commit": "2026-08-26T02:44:25Z",
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
                     "stars": 17
@@ -8559,7 +8559,7 @@
                     "archived": false,
                     "id": 547209317,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-04T02:26:56Z",
+                    "last_commit": "2026-08-26T02:44:25Z",
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
                     "stars": 17
@@ -8574,7 +8574,7 @@
                     "archived": false,
                     "id": 547209317,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-04T02:26:56Z",
+                    "last_commit": "2026-08-26T02:44:25Z",
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
                     "stars": 17
@@ -8969,7 +8969,7 @@
                     "archived": false,
                     "id": 547209317,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-04T02:26:56Z",
+                    "last_commit": "2026-08-26T02:44:25Z",
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
                     "stars": 17
@@ -8984,7 +8984,7 @@
                     "archived": false,
                     "id": 547209317,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-04T02:26:56Z",
+                    "last_commit": "2026-08-26T02:44:25Z",
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
                     "stars": 17
@@ -8999,7 +8999,7 @@
                     "archived": false,
                     "id": 547209317,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-04T02:26:56Z",
+                    "last_commit": "2026-08-26T02:44:25Z",
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
                     "stars": 17
@@ -9014,7 +9014,7 @@
                     "archived": false,
                     "id": 547209317,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-04T02:26:56Z",
+                    "last_commit": "2026-08-26T02:44:25Z",
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
                     "stars": 17
@@ -9129,7 +9129,7 @@
                     "last_commit": "2023-03-08T19:08:28Z",
                     "owner": "rsc1975",
                     "repo": "micropython-hcsr04",
-                    "stars": 169
+                    "stars": 170
                   }
                 },
                 {
@@ -9439,7 +9439,7 @@
                     "archived": false,
                     "id": 547209317,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-04T02:26:56Z",
+                    "last_commit": "2026-08-26T02:44:25Z",
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
                     "stars": 17
@@ -9715,7 +9715,7 @@
                     "archived": false,
                     "id": 547209317,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-04T02:26:56Z",
+                    "last_commit": "2026-08-26T02:44:25Z",
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
                     "stars": 17
@@ -10231,7 +10231,7 @@
                     "archived": false,
                     "id": 547209317,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-04T02:26:56Z",
+                    "last_commit": "2026-08-26T02:44:25Z",
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
                     "stars": 17
@@ -10506,10 +10506,10 @@
                     "archived": false,
                     "id": 75714033,
                     "language": "Python",
-                    "last_commit": "2026-07-14T15:53:41Z",
+                    "last_commit": "2026-08-26T15:00:54Z",
                     "owner": "peterhinch",
                     "repo": "micropython-async",
-                    "stars": 829
+                    "stars": 828
                   }
                 },
                 {
@@ -11409,10 +11409,10 @@
                 "archived": false,
                 "id": 75714033,
                 "language": "Python",
-                "last_commit": "2026-07-14T15:53:41Z",
+                "last_commit": "2026-08-26T15:00:54Z",
                 "owner": "peterhinch",
                 "repo": "micropython-async",
-                "stars": 829
+                "stars": 828
               }
             },
             {
@@ -12044,10 +12044,10 @@
             "archived": false,
             "id": 75714033,
             "language": "Python",
-            "last_commit": "2026-07-14T15:53:41Z",
+            "last_commit": "2026-08-26T15:00:54Z",
             "owner": "peterhinch",
             "repo": "micropython-async",
-            "stars": 829
+            "stars": 828
           }
         },
         {
@@ -12059,10 +12059,10 @@
             "archived": false,
             "id": 75714033,
             "language": "Python",
-            "last_commit": "2026-07-14T15:53:41Z",
+            "last_commit": "2026-08-26T15:00:54Z",
             "owner": "peterhinch",
             "repo": "micropython-async",
-            "stars": 829
+            "stars": 828
           }
         },
         {
@@ -12074,10 +12074,10 @@
             "archived": false,
             "id": 47072457,
             "language": "Python",
-            "last_commit": "2026-07-31T10:04:58Z",
+            "last_commit": "2026-08-26T14:50:10Z",
             "owner": "peterhinch",
             "repo": "micropython-samples",
-            "stars": 532
+            "stars": 531
           }
         },
         {
@@ -12191,10 +12191,10 @@
             "archived": false,
             "id": 15337142,
             "language": "C",
-            "last_commit": "2026-08-25T05:06:29Z",
+            "last_commit": "2026-08-26T04:08:53Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22011
+            "stars": 22012
           }
         },
         {
@@ -12206,10 +12206,10 @@
             "archived": false,
             "id": 15337142,
             "language": "C",
-            "last_commit": "2026-08-25T05:06:29Z",
+            "last_commit": "2026-08-26T04:08:53Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22011
+            "stars": 22012
           }
         },
         {
@@ -12259,7 +12259,7 @@
                 "archived": false,
                 "id": 304969957,
                 "language": "Python",
-                "last_commit": "2026-08-25T05:10:58Z",
+                "last_commit": "2026-08-26T05:10:37Z",
                 "owner": "Josverl",
                 "repo": "micropython-stubs",
                 "stars": 316
@@ -12274,7 +12274,7 @@
                 "archived": false,
                 "id": 177823007,
                 "language": "Python",
-                "last_commit": "2026-08-07T21:51:13Z",
+                "last_commit": "2026-08-25T23:54:22Z",
                 "owner": "Josverl",
                 "repo": "micropython-stubber",
                 "stars": 255
@@ -12655,10 +12655,10 @@
                     "archived": false,
                     "id": 15337142,
                     "language": "C",
-                    "last_commit": "2026-08-25T05:06:29Z",
+                    "last_commit": "2026-08-26T04:08:53Z",
                     "owner": "micropython",
                     "repo": "micropython",
-                    "stars": 22011
+                    "stars": 22012
                   }
                 },
                 {
@@ -12848,7 +12848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:03:42.463Z",
+    "last_updated": "2026-08-26T16:35:10.967Z",
     "original_repository": "mcauser/awesome-micropython",
     "original_repository_id": 123274703,
     "original_repository_sha": "d81badbfbe9a83124ab35ef865a16cdd6a41c1c2",
