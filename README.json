@@ -4709,7 +4709,7 @@
                     "last_commit": "2020-11-30T14:26:57Z",
                     "owner": "peterhinch",
                     "repo": "micropython-lcd160cr-gui",
-                    "stars": 32
+                    "stars": 31
                   }
                 },
                 {
@@ -5090,7 +5090,7 @@
                     "last_commit": "2022-12-30T04:09:19Z",
                     "owner": "boochow",
                     "repo": "MicroPython-ST7735",
-                    "stars": 277
+                    "stars": 278
                   }
                 },
                 {
@@ -12032,7 +12032,7 @@
             "last_commit": "2026-07-17T11:45:15Z",
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1038
+            "stars": 1039
           }
         },
         {
@@ -12191,7 +12191,7 @@
             "archived": false,
             "id": 15337142,
             "language": "C",
-            "last_commit": "2026-08-26T04:08:53Z",
+            "last_commit": "2026-08-27T05:42:12Z",
             "owner": "micropython",
             "repo": "micropython",
             "stars": 22012
@@ -12206,7 +12206,7 @@
             "archived": false,
             "id": 15337142,
             "language": "C",
-            "last_commit": "2026-08-26T04:08:53Z",
+            "last_commit": "2026-08-27T05:42:12Z",
             "owner": "micropython",
             "repo": "micropython",
             "stars": 22012
@@ -12244,7 +12244,7 @@
                 "archived": false,
                 "id": 187111878,
                 "language": "Python",
-                "last_commit": "2026-08-24T18:07:22Z",
+                "last_commit": "2026-08-26T22:27:46Z",
                 "owner": "BradenM",
                 "repo": "micropy-cli",
                 "stars": 337
@@ -12259,7 +12259,7 @@
                 "archived": false,
                 "id": 304969957,
                 "language": "Python",
-                "last_commit": "2026-08-26T05:10:37Z",
+                "last_commit": "2026-08-27T07:32:59Z",
                 "owner": "Josverl",
                 "repo": "micropython-stubs",
                 "stars": 316
@@ -12655,7 +12655,7 @@
                     "archived": false,
                     "id": 15337142,
                     "language": "C",
-                    "last_commit": "2026-08-26T04:08:53Z",
+                    "last_commit": "2026-08-27T05:42:12Z",
                     "owner": "micropython",
                     "repo": "micropython",
                     "stars": 22012
@@ -12848,9 +12848,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:35:10.967Z",
-    "original_repository": "mcauser/awesome-micropython",
-    "original_repository_id": 123274703,
+    "last_updated": "2026-08-27T11:50:15.730Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 123274703,
+      "language": "HTML",
+      "last_commit": "2026-07-20T04:42:59Z",
+      "owner": "mcauser",
+      "repo": "awesome-micropython",
+      "stars": 1802
+    },
     "original_repository_sha": "d81badbfbe9a83124ab35ef865a16cdd6a41c1c2",
     "enhanced_repository": "enhansome/enhansome-micropython",
     "enhanced_repository_description": null,
