@@ -1363,7 +1363,7 @@
                     "last_commit": "2026-08-26T15:00:54Z",
                     "owner": "peterhinch",
                     "repo": "micropython-async",
-                    "stars": 828
+                    "stars": 829
                   }
                 },
                 {
@@ -3301,7 +3301,7 @@
                     "last_commit": "2026-08-26T15:00:54Z",
                     "owner": "peterhinch",
                     "repo": "micropython-async",
-                    "stars": 828
+                    "stars": 829
                   }
                 },
                 {
@@ -3656,7 +3656,7 @@
                     "last_commit": "2026-08-09T11:20:15Z",
                     "owner": "miguelgrinberg",
                     "repo": "microdot",
-                    "stars": 2140
+                    "stars": 2141
                   }
                 },
                 {
@@ -6919,7 +6919,7 @@
                     "last_commit": "2026-08-26T15:00:54Z",
                     "owner": "peterhinch",
                     "repo": "micropython-async",
-                    "stars": 828
+                    "stars": 829
                   }
                 },
                 {
@@ -10509,7 +10509,7 @@
                     "last_commit": "2026-08-26T15:00:54Z",
                     "owner": "peterhinch",
                     "repo": "micropython-async",
-                    "stars": 828
+                    "stars": 829
                   }
                 },
                 {
@@ -11412,7 +11412,7 @@
                 "last_commit": "2026-08-26T15:00:54Z",
                 "owner": "peterhinch",
                 "repo": "micropython-async",
-                "stars": 828
+                "stars": 829
               }
             },
             {
@@ -12032,7 +12032,7 @@
             "last_commit": "2026-07-17T11:45:15Z",
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1039
+            "stars": 1040
           }
         },
         {
@@ -12047,7 +12047,7 @@
             "last_commit": "2026-08-26T15:00:54Z",
             "owner": "peterhinch",
             "repo": "micropython-async",
-            "stars": 828
+            "stars": 829
           }
         },
         {
@@ -12062,7 +12062,7 @@
             "last_commit": "2026-08-26T15:00:54Z",
             "owner": "peterhinch",
             "repo": "micropython-async",
-            "stars": 828
+            "stars": 829
           }
         },
         {
@@ -12125,7 +12125,7 @@
             "archived": false,
             "id": 106599127,
             "language": "Python",
-            "last_commit": "2026-08-24T14:52:31Z",
+            "last_commit": "2026-08-27T21:31:01Z",
             "owner": "BxNxM",
             "repo": "micrOS",
             "stars": 137
@@ -12194,7 +12194,7 @@
             "last_commit": "2026-08-27T05:42:12Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22012
+            "stars": 22014
           }
         },
         {
@@ -12209,7 +12209,7 @@
             "last_commit": "2026-08-27T05:42:12Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22012
+            "stars": 22014
           }
         },
         {
@@ -12259,7 +12259,7 @@
                 "archived": false,
                 "id": 304969957,
                 "language": "Python",
-                "last_commit": "2026-08-27T07:32:59Z",
+                "last_commit": "2026-08-27T22:36:18Z",
                 "owner": "Josverl",
                 "repo": "micropython-stubs",
                 "stars": 316
@@ -12658,7 +12658,7 @@
                     "last_commit": "2026-08-27T05:42:12Z",
                     "owner": "micropython",
                     "repo": "micropython",
-                    "stars": 22012
+                    "stars": 22014
                   }
                 },
                 {
@@ -12848,7 +12848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:50:15.730Z",
+    "last_updated": "2026-08-28T00:26:33.393Z",
     "original_repository_info": {
       "archived": false,
       "id": 123274703,
