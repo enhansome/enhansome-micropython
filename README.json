@@ -5726,11 +5726,11 @@
                     "id": 176615332,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-28T23:40:58Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-08-29T11:26:16Z",
+                    "open_issues": 0,
                     "owner": "miguelgrinberg",
                     "repo": "microdot",
-                    "stars": 2141,
+                    "stars": 2142,
                     "topics": [
                       "http",
                       "micropython",
@@ -8018,7 +8018,7 @@
                     "open_issues": 37,
                     "owner": "russhughes",
                     "repo": "st7789_mpy",
-                    "stars": 723,
+                    "stars": 724,
                     "topics": [
                       "bitmap-font",
                       "driver",
@@ -10253,7 +10253,7 @@
                     "open_issues": 5,
                     "owner": "mcauser",
                     "repo": "micropython-mcp23017",
-                    "stars": 91,
+                    "stars": 92,
                     "topics": [
                       "esp32",
                       "esp8266",
@@ -18956,7 +18956,7 @@
             "open_issues": 0,
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1040,
+            "stars": 1044,
             "topics": [
               "100daysofcode",
               "adafruit",
@@ -19125,7 +19125,7 @@
             "id": 106599127,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-28T22:30:42Z",
+            "last_commit": "2026-08-29T17:16:34Z",
             "open_issues": 0,
             "owner": "BxNxM",
             "repo": "micrOS",
@@ -19264,7 +19264,7 @@
             "open_issues": 1534,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22019,
+            "stars": 22021,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19290,7 +19290,7 @@
             "open_issues": 1534,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22019,
+            "stars": 22021,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19380,11 +19380,11 @@
                 "id": 304969957,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-28T22:45:38Z",
+                "last_commit": "2026-08-29T08:16:25Z",
                 "open_issues": 24,
                 "owner": "Josverl",
                 "repo": "micropython-stubs",
-                "stars": 316,
+                "stars": 317,
                 "topics": [
                   "awesome-micropython",
                   "micropython",
@@ -19415,7 +19415,7 @@
                 "id": 177823007,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T19:43:40Z",
+                "last_commit": "2026-08-29T06:16:14Z",
                 "open_issues": 9,
                 "owner": "Josverl",
                 "repo": "micropython-stubber",
@@ -20023,7 +20023,7 @@
                     "open_issues": 1534,
                     "owner": "micropython",
                     "repo": "micropython",
-                    "stars": 22019,
+                    "stars": 22021,
                     "topics": [
                       "embedded",
                       "microcontroller",
@@ -20321,7 +20321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:28:37.160Z",
+    "last_updated": "2026-08-29T18:36:24.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
@@ -20333,7 +20333,7 @@
       "open_issues": 9,
       "owner": "mcauser",
       "repo": "awesome-micropython",
-      "stars": 1802,
+      "stars": 1803,
       "topics": [
         "awesome",
         "awesome-list",
