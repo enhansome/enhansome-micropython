@@ -994,7 +994,7 @@
                     "open_issues": 0,
                     "owner": "Heerkog",
                     "repo": "MicroPythonBLEHID",
-                    "stars": 324,
+                    "stars": 325,
                     "topics": [
                       "hid",
                       "joystick",
@@ -1944,7 +1944,7 @@
                     "open_issues": 2,
                     "owner": "przemobe",
                     "repo": "micropy-ENC28J60",
-                    "stars": 30,
+                    "stars": 31,
                     "topics": [
                       "enc28j60",
                       "ethernet",
@@ -18956,7 +18956,7 @@
             "open_issues": 0,
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1098,
+            "stars": 1117,
             "topics": [
               "100daysofcode",
               "adafruit",
@@ -19261,10 +19261,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-04T13:17:51Z",
-            "open_issues": 1522,
+            "open_issues": 1525,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22040,
+            "stars": 22045,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19287,10 +19287,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-04T13:17:51Z",
-            "open_issues": 1522,
+            "open_issues": 1525,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22040,
+            "stars": 22045,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19380,7 +19380,7 @@
                 "id": 304969957,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T23:46:40Z",
+                "last_commit": "2026-09-04T23:36:22Z",
                 "open_issues": 26,
                 "owner": "Josverl",
                 "repo": "micropython-stubs",
@@ -20020,10 +20020,10 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-04T13:17:51Z",
-                    "open_issues": 1522,
+                    "open_issues": 1525,
                     "owner": "micropython",
                     "repo": "micropython",
-                    "stars": 22040,
+                    "stars": 22045,
                     "topics": [
                       "embedded",
                       "microcontroller",
@@ -20321,7 +20321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T18:28:36.371Z",
+    "last_updated": "2026-09-05T17:23:07.335Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
