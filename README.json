@@ -3312,7 +3312,7 @@
                     "open_issues": 15,
                     "owner": "ehong-tl",
                     "repo": "micropySX126X",
-                    "stars": 168,
+                    "stars": 167,
                     "topics": [
                       "circuitpython",
                       "lora",
@@ -4168,7 +4168,7 @@
                     "open_issues": 238,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2852,
+                    "stars": 2853,
                     "topics": [
                       "micropython"
                     ]
@@ -4375,7 +4375,7 @@
                     "open_issues": 238,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2852,
+                    "stars": 2853,
                     "topics": [
                       "micropython"
                     ]
@@ -5730,7 +5730,7 @@
                     "open_issues": 0,
                     "owner": "miguelgrinberg",
                     "repo": "microdot",
-                    "stars": 2143,
+                    "stars": 2145,
                     "topics": [
                       "http",
                       "micropython",
@@ -5757,7 +5757,7 @@
                     "open_issues": 55,
                     "owner": "jczic",
                     "repo": "MicroWebSrv2",
-                    "stars": 719,
+                    "stars": 720,
                     "topics": [
                       "async",
                       "asynchronous",
@@ -7823,7 +7823,7 @@
                     "open_issues": 238,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2852,
+                    "stars": 2853,
                     "topics": [
                       "micropython"
                     ]
@@ -8289,7 +8289,7 @@
                     "open_issues": 7,
                     "owner": "russhughes",
                     "repo": "gc9a01py",
-                    "stars": 61,
+                    "stars": 62,
                     "topics": [
                       "gc9a01",
                       "micropython",
@@ -9472,7 +9472,7 @@
                     "open_issues": 238,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2852,
+                    "stars": 2853,
                     "topics": [
                       "micropython"
                     ]
@@ -16528,7 +16528,7 @@
                     "open_issues": 238,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2852,
+                    "stars": 2853,
                     "topics": [
                       "micropython"
                     ]
@@ -18956,7 +18956,7 @@
             "open_issues": 0,
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1190,
+            "stars": 1193,
             "topics": [
               "100daysofcode",
               "adafruit",
@@ -19261,7 +19261,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-09T05:55:46Z",
-            "open_issues": 1523,
+            "open_issues": 1525,
             "owner": "micropython",
             "repo": "micropython",
             "stars": 22054,
@@ -19287,7 +19287,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-09T05:55:46Z",
-            "open_issues": 1523,
+            "open_issues": 1525,
             "owner": "micropython",
             "repo": "micropython",
             "stars": 22054,
@@ -19346,7 +19346,7 @@
                 "id": 187111878,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-07T18:10:09Z",
+                "last_commit": "2026-09-09T21:00:26Z",
                 "open_issues": 56,
                 "owner": "BradenM",
                 "repo": "micropy-cli",
@@ -19380,7 +19380,7 @@
                 "id": 304969957,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-08T23:46:27Z",
+                "last_commit": "2026-09-09T23:41:18Z",
                 "open_issues": 25,
                 "owner": "Josverl",
                 "repo": "micropython-stubs",
@@ -20020,7 +20020,7 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-09T05:55:46Z",
-                    "open_issues": 1523,
+                    "open_issues": 1525,
                     "owner": "micropython",
                     "repo": "micropython",
                     "stars": 22054,
@@ -20321,7 +20321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T18:40:58.616Z",
+    "last_updated": "2026-09-10T18:31:57.762Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
