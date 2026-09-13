@@ -3950,7 +3950,7 @@
                     "open_issues": 5,
                     "owner": "Carglglz",
                     "repo": "NFC_PN532_SPI",
-                    "stars": 49,
+                    "stars": 50,
                     "topics": [
                       "micropython",
                       "nfc",
@@ -4775,7 +4775,7 @@
                     "open_issues": 21,
                     "owner": "wendlers",
                     "repo": "micropython-mfrc522",
-                    "stars": 188,
+                    "stars": 189,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -5894,7 +5894,7 @@
                     "open_issues": 3,
                     "owner": "troublegum",
                     "repo": "micropyserver",
-                    "stars": 157,
+                    "stars": 156,
                     "topics": [
                       "esp32",
                       "esp32-webserver",
@@ -13461,7 +13461,7 @@
                     "open_issues": 2,
                     "owner": "cnadler86",
                     "repo": "micropython-camera-API",
-                    "stars": 166,
+                    "stars": 165,
                     "topics": [
                       "camera",
                       "esp32-cam",
@@ -18956,7 +18956,7 @@
             "open_issues": 0,
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1196,
+            "stars": 1197,
             "topics": [
               "100daysofcode",
               "adafruit",
@@ -19261,10 +19261,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-11T14:21:56Z",
-            "open_issues": 1524,
+            "open_issues": 1525,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22059,
+            "stars": 22060,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19287,10 +19287,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-11T14:21:56Z",
-            "open_issues": 1524,
+            "open_issues": 1525,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22059,
+            "stars": 22060,
             "topics": [
               "embedded",
               "microcontroller",
@@ -20020,10 +20020,10 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-11T14:21:56Z",
-                    "open_issues": 1524,
+                    "open_issues": 1525,
                     "owner": "micropython",
                     "repo": "micropython",
-                    "stars": 22059,
+                    "stars": 22060,
                     "topics": [
                       "embedded",
                       "microcontroller",
@@ -20321,7 +20321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:45:43.846Z",
+    "last_updated": "2026-09-13T18:14:25.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",

@@ -291,7 +291,7 @@ Other places you can look for MicroPython Libraries:
 
 #### NFC
 
-* [NFC\_PN532\_SPI](https://github.com/Carglglz/NFC_PN532_SPI) ⭐ 49 | 🐛 5 | 🌐 Python | 📅 2023-07-17 - Partial port of Adafruit CircuitPython to MicroPython of PN532 NFC/RFID control library (SPI).
+* [NFC\_PN532\_SPI](https://github.com/Carglglz/NFC_PN532_SPI) ⭐ 50 | 🐛 5 | 🌐 Python | 📅 2023-07-17 - Partial port of Adafruit CircuitPython to MicroPython of PN532 NFC/RFID control library (SPI).
 * [micropython-nfc](https://github.com/rolandvs/micropython-nfc) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-01-12 - Using NFC with MicroPython.
 * [micropython\_pn532](https://github.com/luiz-brandao/micropython_pn532) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2022-03-23 - Driver for PN532 NFC/RFID breakout boards based on Adafruit CircuitPython (UART).
 
@@ -358,7 +358,7 @@ Other places you can look for MicroPython Libraries:
 
 #### RFID
 
-* [micropython-mfrc522](https://github.com/wendlers/micropython-mfrc522) ⭐ 188 | 🐛 21 | 🌐 Python | 📅 2024-01-18 - Driver for NXP MFRC522 RFID reader/writer.
+* [micropython-mfrc522](https://github.com/wendlers/micropython-mfrc522) ⭐ 189 | 🐛 21 | 🌐 Python | 📅 2024-01-18 - Driver for NXP MFRC522 RFID reader/writer.
 * [micropython-wiegand](https://github.com/pjz/micropython-wiegand) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2022-10-27 - Wiegand protocol reader.
 * [urdm6300](https://github.com/membermatters/urdm6300) ⭐ 3 | 🐛 2 | 🌐 Python | 📅 2026-04-04 - A MicroPython driver for the popular RDM6300 RFID card reader.
 
@@ -439,7 +439,7 @@ Other places you can look for MicroPython Libraries:
 * [MicroWebSrv](https://github.com/jczic/MicroWebSrv) ⭐ 661 | 🐛 13 | 🌐 Python | 📅 2023-01-17 - A micro HTTP web server that supports WebSockets, HTML/Python language templating and routing handlers, for MicroPython (used on Pycom modules & ESP32).
 * [tinyweb](https://github.com/belyalov/tinyweb) ⭐ 278 | 🐛 19 | 🌐 Python | 📅 2024-05-14 - Simple and lightweight HTTP async server for MicroPython.
 * [uwebsockets](https://github.com/danni/uwebsockets) ⭐ 218 | 🐛 15 | 🌐 Python | 📅 2023-06-09 - MicroPython WebSocket implementation for ESP8266.
-* [micropyserver](https://github.com/troublegum/micropyserver) ⭐ 157 | 🐛 3 | 🌐 Python | 📅 2025-01-12 - MicroPyServer is a simple HTTP server for MicroPython projects.
+* [micropyserver](https://github.com/troublegum/micropyserver) ⭐ 156 | 🐛 3 | 🌐 Python | 📅 2025-01-12 - MicroPyServer is a simple HTTP server for MicroPython projects.
 * [micropython-nanoweb](https://github.com/hugokernel/micropython-nanoweb) ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2025-11-14 - Full async MicroPython web server with small memory footprint.
 * [upy-websocket-server](https://github.com/BetaRavener/upy-websocket-server) ⭐ 83 | 🐛 3 | 🌐 Python | 📅 2023-03-15 - MicroPython (ESP8266) WebSocket server implementation.
 * [microCoAPy](https://github.com/insighio/microCoAPy) ⭐ 68 | 🐛 5 | 🌐 Python | 📅 2025-06-20 - A mini client/server implementation of CoAP (Constrained Application Protocol) into MicroPython.
@@ -890,7 +890,7 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-camera-driver](https://github.com/lemariva/micropython-camera-driver) ⭐ 567 | 🐛 34 | 🌐 C | 📅 2023-10-22 - OV2640 camera driver for MicroPython on ESP32.
 * [uPyCam](https://github.com/lemariva/uPyCam) ⭐ 168 | 🐛 11 | 🌐 Python | 📅 2022-02-02 - Take a photo with an ESP32-CAM running MicroPython.
-* [micropython-camera-API](https://github.com/cnadler86/micropython-camera-API) ⭐ 166 | 🐛 2 | 🌐 C | 📅 2026-01-12 - Project with the aim of supporting cameras across various ports in MicroPython, starting with the ESP32 port and Omnivision cameras (OV2640 & OV5640).
+* [micropython-camera-API](https://github.com/cnadler86/micropython-camera-API) ⭐ 165 | 🐛 2 | 🌐 C | 📅 2026-01-12 - Project with the aim of supporting cameras across various ports in MicroPython, starting with the ESP32 port and Omnivision cameras (OV2640 & OV5640).
 * [micropython-ov2640](https://github.com/namato/micropython-ov2640) ⭐ 124 | 🐛 8 | 🌐 Python | 📅 2022-10-05 - MicroPython class for OV2640 camera.
 * [esp32-cam-micropython](https://github.com/shariltumin/esp32-cam-micropython) ⭐ 95 | 🐛 11 | 🌐 Makefile | 📅 2022-06-13 - MicroPython ESP32-CAM.
 * [IoTy huskylib](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/huskylib.py) ⭐ 17 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-03 - MicroPython driver for the DFRobot Husky Lens. An easy-to-use AI Camera / Vision Sensor, featuring face recognition, object tracking, object recognition, line tracking, color recognition, and QR code recognition.
@@ -1237,7 +1237,7 @@ Other places you can look for MicroPython Libraries:
 
 ## Tutorials
 
-* [100 Days 100 IoT Projects](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects) ⭐ 1,196 | 🐛 0 | 🌐 Python | 📅 2026-07-17 - A 100-day challenge building real-world IoT projects with MicroPython on ESP32, ESP8266 and Raspberry Pi Pico 2W. Step-by-step documented with wiring diagrams and code for beginners.
+* [100 Days 100 IoT Projects](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects) ⭐ 1,197 | 🐛 0 | 🌐 Python | 📅 2026-07-17 - A 100-day challenge building real-world IoT projects with MicroPython on ESP32, ESP8266 and Raspberry Pi Pico 2W. Step-by-step documented with wiring diagrams and code for beginners.
 * [asyncio](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/TUTORIAL.md) ⭐ 830 | 🐛 4 | 🌐 Python | 📅 2026-08-26 - Write asynchronous code which interfaces to hardware devices.
 * [Asynchronous drivers](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/DRIVERS.md) ⭐ 830 | 🐛 4 | 🌐 Python | 📅 2026-08-26 - Tutorial and code for asynchronous interfaces to switches, pushbuttons, encoders and ADCs.
 * [3D rotation with quaternions](https://github.com/peterhinch/micropython-samples/blob/master/QUATERNIONS.md) ⭐ 531 | 🐛 13 | 🌐 Python | 📅 2026-08-26 - Tutorial and code for the easy way to do 3D rotation.
@@ -1272,8 +1272,8 @@ Other places you can look for MicroPython Libraries:
 
 ## Resources
 
-* [MicroPython on GitHub](https://github.com/micropython/micropython) ⭐ 22,059 | 🐛 1,524 | 🌐 C | 📅 2026-09-11 - Submit bug reports, follow and join in development on GitHub.
-* [MicroPython Wiki](https://github.com/micropython/micropython/wiki) ⭐ 22,059 | 🐛 1,524 | 🌐 C | 📅 2026-09-11 - Community generated documentation and examples of the features of MicroPython and the Pyboard.
+* [MicroPython on GitHub](https://github.com/micropython/micropython) ⭐ 22,060 | 🐛 1,525 | 🌐 C | 📅 2026-09-11 - Submit bug reports, follow and join in development on GitHub.
+* [MicroPython Wiki](https://github.com/micropython/micropython/wiki) ⭐ 22,060 | 🐛 1,525 | 🌐 C | 📅 2026-09-11 - Community generated documentation and examples of the features of MicroPython and the Pyboard.
 * [awesome-micropythons](https://github.com/adafruit/awesome-micropythons) ⭐ 48 | 🐛 1 | 📅 2020-02-18 - The many forks & ports of MicroPython.
 * [MicroPython](https://micropython.org) - Project website. Test drive the Pyboard. Try MicroPython online with Unicorn.
 * [MicroPython Official Documentation](https://docs.micropython.org/) - For various ports, including quick reference, general information, examples and tutorials.
@@ -1344,7 +1344,7 @@ Other places you can look for MicroPython Libraries:
 
 #### On Host
 
-* [mpremote](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) ⭐ 22,059 | 🐛 1,524 | 🌐 C | 📅 2026-09-11 - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
+* [mpremote](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) ⭐ 22,060 | 🐛 1,525 | 🌐 C | 📅 2026-09-11 - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
 * [rshell](https://github.com/dhylands/rshell) ⭐ 1,041 | 🐛 132 | 🌐 Python | 📅 2024-12-04 - Copy or sync files to boards, enter REPL from your terminal.
 * [ampy](https://github.com/scientifichackers/ampy) ⭐ 758 | 🐛 40 | 🌐 Python | 📅 2026-04-16 - Utility to interact with a MicroPython board over a serial connection.
 * [mpfshell](https://github.com/wendlers/mpfshell) ⭐ 418 | 🐛 24 | 🌐 Python | 📅 2026-05-16 - A simple shell-based file explorer for ESP8266 and WiPy.
@@ -1373,4 +1373,4 @@ I will keep some pull requests open if I'm not sure whether those libraries are 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
