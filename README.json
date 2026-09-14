@@ -4164,11 +4164,11 @@
                     "id": 18326156,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-11T14:42:43Z",
-                    "open_issues": 229,
+                    "last_commit": "2026-09-14T00:11:49Z",
+                    "open_issues": 227,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2853,
+                    "stars": 2854,
                     "topics": [
                       "micropython"
                     ]
@@ -4371,11 +4371,11 @@
                     "id": 18326156,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-11T14:42:43Z",
-                    "open_issues": 229,
+                    "last_commit": "2026-09-14T00:11:49Z",
+                    "open_issues": 227,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2853,
+                    "stars": 2854,
                     "topics": [
                       "micropython"
                     ]
@@ -6132,7 +6132,7 @@
                     "open_issues": 0,
                     "owner": "kritishmohapatra",
                     "repo": "micropidash",
-                    "stars": 40,
+                    "stars": 41,
                     "topics": [
                       "adafruit",
                       "adafruit-io",
@@ -6616,7 +6616,7 @@
                     "open_issues": 22,
                     "owner": "mcauser",
                     "repo": "micropython-waveshare-epaper",
-                    "stars": 396,
+                    "stars": 398,
                     "topics": [
                       "eink",
                       "epaper",
@@ -6660,7 +6660,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-11T07:31:58Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "SolderedElectronics",
                     "repo": "Inkplate-micropython",
                     "stars": 92,
@@ -7819,11 +7819,11 @@
                     "id": 18326156,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-11T14:42:43Z",
-                    "open_issues": 229,
+                    "last_commit": "2026-09-14T00:11:49Z",
+                    "open_issues": 227,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2853,
+                    "stars": 2854,
                     "topics": [
                       "micropython"
                     ]
@@ -9468,11 +9468,11 @@
                     "id": 18326156,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-11T14:42:43Z",
-                    "open_issues": 229,
+                    "last_commit": "2026-09-14T00:11:49Z",
+                    "open_issues": 227,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2853,
+                    "stars": 2854,
                     "topics": [
                       "micropython"
                     ]
@@ -10955,7 +10955,7 @@
                     "open_issues": 2,
                     "owner": "sgall17a",
                     "repo": "encodermenu",
-                    "stars": 116,
+                    "stars": 117,
                     "topics": [
                       "asyncio",
                       "encoder",
@@ -16524,11 +16524,11 @@
                     "id": 18326156,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-11T14:42:43Z",
-                    "open_issues": 229,
+                    "last_commit": "2026-09-14T00:11:49Z",
+                    "open_issues": 227,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2853,
+                    "stars": 2854,
                     "topics": [
                       "micropython"
                     ]
@@ -19264,7 +19264,7 @@
             "open_issues": 1525,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22060,
+            "stars": 22064,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19290,7 +19290,7 @@
             "open_issues": 1525,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22060,
+            "stars": 22064,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19346,7 +19346,7 @@
                 "id": 187111878,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-11T15:52:24Z",
+                "last_commit": "2026-09-14T18:10:23Z",
                 "open_issues": 56,
                 "owner": "BradenM",
                 "repo": "micropy-cli",
@@ -20023,7 +20023,7 @@
                     "open_issues": 1525,
                     "owner": "micropython",
                     "repo": "micropython",
-                    "stars": 22060,
+                    "stars": 22064,
                     "topics": [
                       "embedded",
                       "microcontroller",
@@ -20321,7 +20321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T18:14:25.831Z",
+    "last_updated": "2026-09-14T19:51:59.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
@@ -20333,7 +20333,7 @@
       "open_issues": 9,
       "owner": "mcauser",
       "repo": "awesome-micropython",
-      "stars": 1806,
+      "stars": 1807,
       "topics": [
         "awesome",
         "awesome-list",
