@@ -4775,7 +4775,7 @@
                     "open_issues": 21,
                     "owner": "wendlers",
                     "repo": "micropython-mfrc522",
-                    "stars": 189,
+                    "stars": 190,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -5636,7 +5636,7 @@
                     "open_issues": 0,
                     "owner": "jacklinquan",
                     "repo": "micropython-samtts",
-                    "stars": 8,
+                    "stars": 9,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -5726,7 +5726,7 @@
                     "id": 176615332,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-18T09:15:02Z",
+                    "last_commit": "2026-09-19T11:20:06Z",
                     "open_issues": 0,
                     "owner": "miguelgrinberg",
                     "repo": "microdot",
@@ -5757,7 +5757,7 @@
                     "open_issues": 55,
                     "owner": "jczic",
                     "repo": "MicroWebSrv2",
-                    "stars": 719,
+                    "stars": 720,
                     "topics": [
                       "async",
                       "asynchronous",
@@ -6898,7 +6898,7 @@
                     "open_issues": 9,
                     "owner": "peterhinch",
                     "repo": "micropython-font-to-py",
-                    "stars": 471,
+                    "stars": 472,
                     "topics": [
                       "fonts",
                       "micropython",
@@ -6923,7 +6923,7 @@
                     "open_issues": 9,
                     "owner": "peterhinch",
                     "repo": "micropython-font-to-py",
-                    "stars": 471,
+                    "stars": 472,
                     "topics": [
                       "fonts",
                       "micropython",
@@ -7588,7 +7588,7 @@
                     "open_issues": 17,
                     "owner": "dhylands",
                     "repo": "python_lcd",
-                    "stars": 332,
+                    "stars": 333,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -7621,6 +7621,40 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "micropython-i2c-lcd",
+                  "description": "MicroPython package to control HD44780 LCD displays 1602 and 2004 via I2C.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Micropython package to control HD44780 LCD displays 1602 and 2004 via I2C",
+                    "homepage": null,
+                    "id": 611620187,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2023-10-21T15:05:13Z",
+                    "open_issues": 4,
+                    "owner": "brainelectronics",
+                    "repo": "micropython-i2c-lcd",
+                    "stars": 22,
+                    "topics": [
+                      "hd44780",
+                      "hd44780-display",
+                      "i2c",
+                      "i2c-display",
+                      "lcd",
+                      "lcd1602",
+                      "lcd16x2",
+                      "lcd2004",
+                      "lcd20x4",
+                      "library",
+                      "micropython",
+                      "package"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:02:05.246Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "micropython-lcd",
                   "description": "Class for controlling the HD44780 from a MicroPython Pyboard.",
                   "children": [],
@@ -7637,40 +7671,6 @@
                     "repo": "micropython-lcd",
                     "stars": 21,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:02:05.246Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "micropython-i2c-lcd",
-                  "description": "MicroPython package to control HD44780 LCD displays 1602 and 2004 via I2C.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Micropython package to control HD44780 LCD displays 1602 and 2004 via I2C",
-                    "homepage": null,
-                    "id": 611620187,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2023-10-21T15:05:13Z",
-                    "open_issues": 4,
-                    "owner": "brainelectronics",
-                    "repo": "micropython-i2c-lcd",
-                    "stars": 21,
-                    "topics": [
-                      "hd44780",
-                      "hd44780-display",
-                      "i2c",
-                      "i2c-display",
-                      "lcd",
-                      "lcd1602",
-                      "lcd16x2",
-                      "lcd2004",
-                      "lcd20x4",
-                      "library",
-                      "micropython",
-                      "package"
-                    ]
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
                 },
@@ -8101,7 +8101,7 @@
                     "open_issues": 16,
                     "owner": "russhughes",
                     "repo": "st7789py_mpy",
-                    "stars": 248,
+                    "stars": 249,
                     "topics": [
                       "bitmap-fonts",
                       "driver",
@@ -8128,7 +8128,7 @@
                     "open_issues": 10,
                     "owner": "devbis",
                     "repo": "st7789_mpy",
-                    "stars": 229,
+                    "stars": 228,
                     "topics": [
                       "esp32",
                       "esp8266",
@@ -15765,7 +15765,7 @@
                     "open_issues": 2,
                     "owner": "micropython-IMU",
                     "repo": "micropython-bno055",
-                    "stars": 62,
+                    "stars": 63,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -18185,7 +18185,7 @@
                     "open_issues": 26,
                     "owner": "spatialdude",
                     "repo": "usqlite",
-                    "stars": 127,
+                    "stars": 126,
                     "topics": [
                       "micropython",
                       "micropython-library",
@@ -18956,7 +18956,7 @@
             "open_issues": 0,
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1201,
+            "stars": 1203,
             "topics": [
               "100daysofcode",
               "adafruit",
@@ -19125,7 +19125,7 @@
             "id": 106599127,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-17T21:12:15Z",
+            "last_commit": "2026-09-19T17:19:26Z",
             "open_issues": 0,
             "owner": "BxNxM",
             "repo": "micrOS",
@@ -19260,8 +19260,8 @@
             "id": 15337142,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T23:31:27Z",
-            "open_issues": 1534,
+            "last_commit": "2026-09-19T06:11:45Z",
+            "open_issues": 1531,
             "owner": "micropython",
             "repo": "micropython",
             "stars": 22073,
@@ -19286,8 +19286,8 @@
             "id": 15337142,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T23:31:27Z",
-            "open_issues": 1534,
+            "last_commit": "2026-09-19T06:11:45Z",
+            "open_issues": 1531,
             "owner": "micropython",
             "repo": "micropython",
             "stars": 22073,
@@ -19384,7 +19384,7 @@
                 "open_issues": 25,
                 "owner": "Josverl",
                 "repo": "micropython-stubs",
-                "stars": 319,
+                "stars": 320,
                 "topics": [
                   "awesome-micropython",
                   "micropython",
@@ -19881,8 +19881,8 @@
                     "id": 627606378,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-18T01:35:02Z",
-                    "open_issues": 13,
+                    "last_commit": "2026-09-19T01:56:11Z",
+                    "open_issues": 14,
                     "owner": "Josverl",
                     "repo": "micropython-magic",
                     "stars": 32,
@@ -20019,8 +20019,8 @@
                     "id": 15337142,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-16T23:31:27Z",
-                    "open_issues": 1534,
+                    "last_commit": "2026-09-19T06:11:45Z",
+                    "open_issues": 1531,
                     "owner": "micropython",
                     "repo": "micropython",
                     "stars": 22073,
@@ -20091,7 +20091,7 @@
                     "open_issues": 24,
                     "owner": "wendlers",
                     "repo": "mpfshell",
-                    "stars": 418,
+                    "stars": 419,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -20321,7 +20321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T18:32:03.639Z",
+    "last_updated": "2026-09-19T18:05:40.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
@@ -20333,7 +20333,7 @@
       "open_issues": 9,
       "owner": "mcauser",
       "repo": "awesome-micropython",
-      "stars": 1807,
+      "stars": 1806,
       "topics": [
         "awesome",
         "awesome-list",
