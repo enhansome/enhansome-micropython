@@ -2891,7 +2891,7 @@
                     "open_issues": 0,
                     "owner": "mcauser",
                     "repo": "micropython-ys-irtm",
-                    "stars": 35,
+                    "stars": 36,
                     "topics": [
                       "esp32",
                       "infrared",
@@ -4168,7 +4168,7 @@
                     "open_issues": 232,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2856,
+                    "stars": 2855,
                     "topics": [
                       "micropython"
                     ]
@@ -4375,7 +4375,7 @@
                     "open_issues": 232,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2856,
+                    "stars": 2855,
                     "topics": [
                       "micropython"
                     ]
@@ -6092,32 +6092,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "uPyPortal",
-                  "description": "A captive portal for MicroPython using ESP32 (Wemos).",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A captive portal for MicroPython using ESP32 (WeMos)",
-                    "homepage": null,
-                    "id": 108895392,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2017-11-12T17:09:30Z",
-                    "open_issues": 1,
-                    "owner": "lemariva",
-                    "repo": "uPyPortal",
-                    "stars": 41,
-                    "topics": [
-                      "esp32",
-                      "hacking",
-                      "micropython",
-                      "wifi-hacking"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T00:02:05.246Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "micropidash",
                   "description": "Simple web dashboard served directly from MicroPython boards (ESP32, Pico W).",
                   "children": [],
@@ -6144,6 +6118,32 @@
                       "raspberry",
                       "raspberry-pi-pico",
                       "uasyncio"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:02:05.246Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "uPyPortal",
+                  "description": "A captive portal for MicroPython using ESP32 (Wemos).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A captive portal for MicroPython using ESP32 (WeMos)",
+                    "homepage": null,
+                    "id": 108895392,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2017-11-12T17:09:30Z",
+                    "open_issues": 1,
+                    "owner": "lemariva",
+                    "repo": "uPyPortal",
+                    "stars": 40,
+                    "topics": [
+                      "esp32",
+                      "hacking",
+                      "micropython",
+                      "wifi-hacking"
                     ]
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -7357,7 +7357,7 @@
                     "language": "C",
                     "license": "MIT",
                     "last_commit": "2026-09-06T15:09:39Z",
-                    "open_issues": 64,
+                    "open_issues": 65,
                     "owner": "lvgl",
                     "repo": "lv_binding_micropython",
                     "stars": 354,
@@ -7823,7 +7823,7 @@
                     "open_issues": 232,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2856,
+                    "stars": 2855,
                     "topics": [
                       "micropython"
                     ]
@@ -8725,7 +8725,7 @@
                     "open_issues": 8,
                     "owner": "mcauser",
                     "repo": "micropython-max7219",
-                    "stars": 212,
+                    "stars": 211,
                     "topics": [
                       "framebuf",
                       "led-matrix",
@@ -8963,7 +8963,7 @@
                     "open_issues": 4,
                     "owner": "pdwerryhouse",
                     "repo": "max7219_8digit",
-                    "stars": 25,
+                    "stars": 26,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -9472,7 +9472,7 @@
                     "open_issues": 232,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2856,
+                    "stars": 2855,
                     "topics": [
                       "micropython"
                     ]
@@ -11379,7 +11379,7 @@
                 "open_issues": 50,
                 "owner": "v923z",
                 "repo": "micropython-ulab",
-                "stars": 500,
+                "stars": 501,
                 "topics": [
                   "circuitpython",
                   "circuitpython-ulab",
@@ -11909,7 +11909,7 @@
                     "open_issues": 3,
                     "owner": "pedromneto97",
                     "repo": "AccelStepper-MicroPython",
-                    "stars": 45,
+                    "stars": 44,
                     "topics": [
                       "accelstepper",
                       "esp32",
@@ -16528,7 +16528,7 @@
                     "open_issues": 232,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2856,
+                    "stars": 2855,
                     "topics": [
                       "micropython"
                     ]
@@ -18956,7 +18956,7 @@
             "open_issues": 0,
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1216,
+            "stars": 1219,
             "topics": [
               "100daysofcode",
               "adafruit",
@@ -19264,7 +19264,7 @@
             "open_issues": 1525,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22076,
+            "stars": 22082,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19290,7 +19290,7 @@
             "open_issues": 1525,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22076,
+            "stars": 22082,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19380,7 +19380,7 @@
                 "id": 304969957,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T23:48:38Z",
+                "last_commit": "2026-09-22T00:24:48Z",
                 "open_issues": 25,
                 "owner": "Josverl",
                 "repo": "micropython-stubs",
@@ -20023,7 +20023,7 @@
                     "open_issues": 1525,
                     "owner": "micropython",
                     "repo": "micropython",
-                    "stars": 22076,
+                    "stars": 22082,
                     "topics": [
                       "embedded",
                       "microcontroller",
@@ -20321,7 +20321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:00:48.898Z",
+    "last_updated": "2026-09-22T18:58:45.088Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
