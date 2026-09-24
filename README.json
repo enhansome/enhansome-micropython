@@ -4168,7 +4168,7 @@
                     "open_issues": 230,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2855,
+                    "stars": 2856,
                     "topics": [
                       "micropython"
                     ]
@@ -4375,7 +4375,7 @@
                     "open_issues": 230,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2855,
+                    "stars": 2856,
                     "topics": [
                       "micropython"
                     ]
@@ -7823,7 +7823,7 @@
                     "open_issues": 230,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2855,
+                    "stars": 2856,
                     "topics": [
                       "micropython"
                     ]
@@ -7874,7 +7874,7 @@
                     "open_issues": 1,
                     "owner": "nquest",
                     "repo": "micropython-st7565",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": [
                       "lcd",
                       "micropython",
@@ -9472,7 +9472,7 @@
                     "open_issues": 230,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2855,
+                    "stars": 2856,
                     "topics": [
                       "micropython"
                     ]
@@ -10892,7 +10892,7 @@
                     "open_issues": 13,
                     "owner": "peterhinch",
                     "repo": "micropython-samples",
-                    "stars": 531,
+                    "stars": 532,
                     "topics": [
                       "embedded",
                       "esp32",
@@ -11352,7 +11352,7 @@
                 "open_issues": 13,
                 "owner": "peterhinch",
                 "repo": "micropython-samples",
-                "stars": 531,
+                "stars": 532,
                 "topics": [
                   "embedded",
                   "esp32",
@@ -11375,8 +11375,8 @@
                 "id": 205409848,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-08-04T18:57:58Z",
-                "open_issues": 50,
+                "last_commit": "2026-09-23T19:07:48Z",
+                "open_issues": 52,
                 "owner": "v923z",
                 "repo": "micropython-ulab",
                 "stars": 501,
@@ -16528,7 +16528,7 @@
                     "open_issues": 230,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2855,
+                    "stars": 2856,
                     "topics": [
                       "micropython"
                     ]
@@ -18956,7 +18956,7 @@
             "open_issues": 0,
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1224,
+            "stars": 1225,
             "topics": [
               "100daysofcode",
               "adafruit",
@@ -19047,7 +19047,7 @@
             "open_issues": 13,
             "owner": "peterhinch",
             "repo": "micropython-samples",
-            "stars": 531,
+            "stars": 532,
             "topics": [
               "embedded",
               "esp32",
@@ -19261,10 +19261,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-21T13:34:32Z",
-            "open_issues": 1524,
+            "open_issues": 1527,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22089,
+            "stars": 22091,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19287,10 +19287,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-21T13:34:32Z",
-            "open_issues": 1524,
+            "open_issues": 1527,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22089,
+            "stars": 22091,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19380,7 +19380,7 @@
                 "id": 304969957,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-22T23:57:16Z",
+                "last_commit": "2026-09-24T15:02:51Z",
                 "open_issues": 25,
                 "owner": "Josverl",
                 "repo": "micropython-stubs",
@@ -20020,10 +20020,10 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-21T13:34:32Z",
-                    "open_issues": 1524,
+                    "open_issues": 1527,
                     "owner": "micropython",
                     "repo": "micropython",
-                    "stars": 22089,
+                    "stars": 22091,
                     "topics": [
                       "embedded",
                       "microcontroller",
@@ -20321,7 +20321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T19:06:24.323Z",
+    "last_updated": "2026-09-24T19:15:38.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
