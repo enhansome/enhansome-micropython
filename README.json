@@ -179,7 +179,7 @@
                 "open_issues": 3,
                 "owner": "SpotlightKid",
                 "repo": "micropython-osc",
-                "stars": 75,
+                "stars": 74,
                 "topics": [
                   "micropython",
                   "open-sound-control",
@@ -3568,7 +3568,7 @@
                     "id": 94690722,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-03T13:51:25Z",
+                    "last_commit": "2026-09-27T16:17:48Z",
                     "open_issues": 24,
                     "owner": "peterhinch",
                     "repo": "micropython-mqtt",
@@ -4562,6 +4562,31 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "pico_jjy_tx",
+                  "description": "JJY transmitter for Raspberry Pi Pico W.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "JJY transmitter for Raspberry Pi Pico W",
+                    "homepage": null,
+                    "id": 643042892,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2024-03-08T13:10:33Z",
+                    "open_issues": 0,
+                    "owner": "elehobica",
+                    "repo": "pico_jjy_tx",
+                    "stars": 12,
+                    "topics": [
+                      "jjy",
+                      "micropython",
+                      "raspberry-pi-pico-w"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:02:05.246Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "micropython-ppm-decoder",
                   "description": "Utility for decoding an R/C receiver PPM frame signal.",
                   "children": [],
@@ -4578,31 +4603,6 @@
                     "repo": "micropython-ppm-decoder",
                     "stars": 11,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:02:05.246Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "pico_jjy_tx",
-                  "description": "JJY transmitter for Raspberry Pi Pico W.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "JJY transmitter for Raspberry Pi Pico W",
-                    "homepage": null,
-                    "id": 643042892,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2024-03-08T13:10:33Z",
-                    "open_issues": 0,
-                    "owner": "elehobica",
-                    "repo": "pico_jjy_tx",
-                    "stars": 11,
-                    "topics": [
-                      "jjy",
-                      "micropython",
-                      "raspberry-pi-pico-w"
-                    ]
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
                 },
@@ -11375,8 +11375,8 @@
                 "id": 205409848,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-23T19:07:48Z",
-                "open_issues": 52,
+                "last_commit": "2026-09-27T15:38:29Z",
+                "open_issues": 46,
                 "owner": "v923z",
                 "repo": "micropython-ulab",
                 "stars": 502,
@@ -14422,8 +14422,8 @@
                     "homepage": null,
                     "id": 605064875,
                     "language": "Python",
-                    "license": null,
-                    "last_commit": "2023-02-22T12:58:18Z",
+                    "license": "MIT",
+                    "last_commit": "2026-09-27T11:43:24Z",
                     "open_issues": 0,
                     "owner": "HowManyOliversAreThere",
                     "repo": "micropython-i2c-ultrasonic",
@@ -18956,7 +18956,7 @@
             "open_issues": 0,
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1243,
+            "stars": 1267,
             "topics": [
               "100daysofcode",
               "adafruit",
@@ -19261,10 +19261,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-21T13:34:32Z",
-            "open_issues": 1531,
+            "open_issues": 1533,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22094,
+            "stars": 22097,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19287,10 +19287,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-21T13:34:32Z",
-            "open_issues": 1531,
+            "open_issues": 1533,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22094,
+            "stars": 22097,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19380,7 +19380,7 @@
                 "id": 304969957,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-26T09:59:57Z",
+                "last_commit": "2026-09-27T14:09:40Z",
                 "open_issues": 24,
                 "owner": "Josverl",
                 "repo": "micropython-stubs",
@@ -19415,8 +19415,8 @@
                 "id": 177823007,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-30T14:23:43Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-27T10:59:01Z",
+                "open_issues": 8,
                 "owner": "Josverl",
                 "repo": "micropython-stubber",
                 "stars": 255,
@@ -20020,10 +20020,10 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-21T13:34:32Z",
-                    "open_issues": 1531,
+                    "open_issues": 1533,
                     "owner": "micropython",
                     "repo": "micropython",
-                    "stars": 22094,
+                    "stars": 22097,
                     "topics": [
                       "embedded",
                       "microcontroller",
@@ -20321,7 +20321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T18:38:02.762Z",
+    "last_updated": "2026-09-27T19:01:16.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
