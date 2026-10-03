@@ -3569,7 +3569,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-27T16:17:48Z",
-                    "open_issues": 24,
+                    "open_issues": 25,
                     "owner": "peterhinch",
                     "repo": "micropython-mqtt",
                     "stars": 688,
@@ -4168,7 +4168,7 @@
                     "open_issues": 234,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2858,
+                    "stars": 2859,
                     "topics": [
                       "micropython"
                     ]
@@ -4375,7 +4375,7 @@
                     "open_issues": 234,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2858,
+                    "stars": 2859,
                     "topics": [
                       "micropython"
                     ]
@@ -7823,7 +7823,7 @@
                     "open_issues": 234,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2858,
+                    "stars": 2859,
                     "topics": [
                       "micropython"
                     ]
@@ -9472,7 +9472,7 @@
                     "open_issues": 234,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2858,
+                    "stars": 2859,
                     "topics": [
                       "micropython"
                     ]
@@ -16528,7 +16528,7 @@
                     "open_issues": 234,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2858,
+                    "stars": 2859,
                     "topics": [
                       "micropython"
                     ]
@@ -19264,7 +19264,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T07:05:46Z",
-            "open_issues": 1530,
+            "open_issues": 1532,
             "owner": "micropython",
             "repo": "micropython",
             "stars": 22105,
@@ -19290,7 +19290,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T07:05:46Z",
-            "open_issues": 1530,
+            "open_issues": 1532,
             "owner": "micropython",
             "repo": "micropython",
             "stars": 22105,
@@ -19383,7 +19383,7 @@
                 "id": 304969957,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T23:27:42Z",
+                "last_commit": "2026-10-03T00:50:44Z",
                 "open_issues": 19,
                 "owner": "Josverl",
                 "repo": "micropython-stubs",
@@ -19418,7 +19418,7 @@
                 "id": 177823007,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T14:01:13Z",
+                "last_commit": "2026-10-02T22:05:21Z",
                 "open_issues": 6,
                 "owner": "Josverl",
                 "repo": "micropython-stubber",
@@ -20023,7 +20023,7 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-02T07:05:46Z",
-                    "open_issues": 1530,
+                    "open_issues": 1532,
                     "owner": "micropython",
                     "repo": "micropython",
                     "stars": 22105,
@@ -20324,7 +20324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:58:37.819Z",
+    "last_updated": "2026-10-03T04:55:42.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
