@@ -1381,7 +1381,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-18T15:10:41Z",
-                    "open_issues": 67,
+                    "open_issues": 66,
                     "owner": "diybitcoinhardware",
                     "repo": "embit",
                     "stars": 118,
@@ -3568,8 +3568,8 @@
                     "id": 94690722,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-27T16:17:48Z",
-                    "open_issues": 25,
+                    "last_commit": "2026-10-04T17:03:23Z",
+                    "open_issues": 24,
                     "owner": "peterhinch",
                     "repo": "micropython-mqtt",
                     "stars": 688,
@@ -13422,6 +13422,34 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "micropython-camera-API",
+                  "description": "Project with the aim of supporting cameras across various ports in MicroPython, starting with the ESP32 port and Omnivision cameras (OV2640 & OV5640).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Camera API for micropython as user module, with precompiled FW, starting with the esp32 port.",
+                    "homepage": null,
+                    "id": 853594877,
+                    "language": "C",
+                    "license": "MIT",
+                    "last_commit": "2026-01-12T04:57:52Z",
+                    "open_issues": 2,
+                    "owner": "cnadler86",
+                    "repo": "micropython-camera-API",
+                    "stars": 168,
+                    "topics": [
+                      "camera",
+                      "esp32-cam",
+                      "espcam",
+                      "micropython",
+                      "ov2640",
+                      "ov5640"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:02:05.246Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "uPyCam",
                   "description": "Take a photo with an ESP32-CAM running MicroPython.",
                   "children": [],
@@ -13441,34 +13469,6 @@
                       "esp32",
                       "esp32-cam",
                       "micropython"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T00:02:05.246Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "micropython-camera-API",
-                  "description": "Project with the aim of supporting cameras across various ports in MicroPython, starting with the ESP32 port and Omnivision cameras (OV2640 & OV5640).",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Camera API for micropython as user module, with precompiled FW, starting with the esp32 port.",
-                    "homepage": null,
-                    "id": 853594877,
-                    "language": "C",
-                    "license": "MIT",
-                    "last_commit": "2026-01-12T04:57:52Z",
-                    "open_issues": 2,
-                    "owner": "cnadler86",
-                    "repo": "micropython-camera-API",
-                    "stars": 167,
-                    "topics": [
-                      "camera",
-                      "esp32-cam",
-                      "espcam",
-                      "micropython",
-                      "ov2640",
-                      "ov5640"
                     ]
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -18959,7 +18959,7 @@
             "open_issues": 0,
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1298,
+            "stars": 1300,
             "topics": [
               "100daysofcode",
               "adafruit",
@@ -19264,10 +19264,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-03T07:13:43Z",
-            "open_issues": 1532,
+            "open_issues": 1533,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22106,
+            "stars": 22108,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19290,10 +19290,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-03T07:13:43Z",
-            "open_issues": 1532,
+            "open_issues": 1533,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22106,
+            "stars": 22108,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19383,7 +19383,7 @@
                 "id": 304969957,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-03T00:50:44Z",
+                "last_commit": "2026-10-04T10:21:43Z",
                 "open_issues": 19,
                 "owner": "Josverl",
                 "repo": "micropython-stubs",
@@ -19418,7 +19418,7 @@
                 "id": 177823007,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T22:05:21Z",
+                "last_commit": "2026-10-03T21:27:40Z",
                 "open_issues": 6,
                 "owner": "Josverl",
                 "repo": "micropython-stubber",
@@ -20023,10 +20023,10 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-03T07:13:43Z",
-                    "open_issues": 1532,
+                    "open_issues": 1533,
                     "owner": "micropython",
                     "repo": "micropython",
-                    "stars": 22106,
+                    "stars": 22108,
                     "topics": [
                       "embedded",
                       "microcontroller",
@@ -20324,7 +20324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:42:43.557Z",
+    "last_updated": "2026-10-04T18:39:55.605Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
@@ -20336,7 +20336,7 @@
       "open_issues": 11,
       "owner": "mcauser",
       "repo": "awesome-micropython",
-      "stars": 1808,
+      "stars": 1809,
       "topics": [
         "awesome",
         "awesome-list",
