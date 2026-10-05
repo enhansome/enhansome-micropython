@@ -62,7 +62,7 @@
                 "open_issues": 11,
                 "owner": "emlearn",
                 "repo": "emlearn-micropython",
-                "stars": 166,
+                "stars": 167,
                 "topics": [
                   "embedded-systems",
                   "machine-learning",
@@ -2162,7 +2162,7 @@
                     "open_issues": 4,
                     "owner": "peterhinch",
                     "repo": "micropython-async",
-                    "stars": 831,
+                    "stars": 832,
                     "topics": [
                       "asyncio",
                       "embedded",
@@ -3145,7 +3145,7 @@
                     "open_issues": 0,
                     "owner": "xreef",
                     "repo": "EByte_LoRa_E22_micropython_library",
-                    "stars": 11,
+                    "stars": 12,
                     "topics": [
                       "arduino",
                       "e22",
@@ -4168,7 +4168,7 @@
                     "open_issues": 234,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2859,
+                    "stars": 2860,
                     "topics": [
                       "micropython"
                     ]
@@ -4375,7 +4375,7 @@
                     "open_issues": 234,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2859,
+                    "stars": 2860,
                     "topics": [
                       "micropython"
                     ]
@@ -5198,7 +5198,7 @@
                     "open_issues": 4,
                     "owner": "peterhinch",
                     "repo": "micropython-async",
-                    "stars": 831,
+                    "stars": 832,
                     "topics": [
                       "asyncio",
                       "embedded",
@@ -5757,7 +5757,7 @@
                     "open_issues": 55,
                     "owner": "jczic",
                     "repo": "MicroWebSrv2",
-                    "stars": 721,
+                    "stars": 722,
                     "topics": [
                       "async",
                       "asynchronous",
@@ -7386,7 +7386,7 @@
                     "open_issues": 12,
                     "owner": "peterhinch",
                     "repo": "micropython-micro-gui",
-                    "stars": 351,
+                    "stars": 352,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -7823,7 +7823,7 @@
                     "open_issues": 234,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2859,
+                    "stars": 2860,
                     "topics": [
                       "micropython"
                     ]
@@ -8155,7 +8155,7 @@
                     "open_issues": 24,
                     "owner": "russhughes",
                     "repo": "gc9a01_mpy",
-                    "stars": 214,
+                    "stars": 215,
                     "topics": [
                       "display-driver",
                       "driver",
@@ -9472,7 +9472,7 @@
                     "open_issues": 234,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2859,
+                    "stars": 2860,
                     "topics": [
                       "micropython"
                     ]
@@ -9537,7 +9537,7 @@
                     "open_issues": 3,
                     "owner": "rdagger",
                     "repo": "micropython-ssd1309",
-                    "stars": 55,
+                    "stars": 56,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -10867,7 +10867,7 @@
                     "open_issues": 4,
                     "owner": "peterhinch",
                     "repo": "micropython-async",
-                    "stars": 831,
+                    "stars": 832,
                     "topics": [
                       "asyncio",
                       "embedded",
@@ -16528,7 +16528,7 @@
                     "open_issues": 234,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2859,
+                    "stars": 2860,
                     "topics": [
                       "micropython"
                     ]
@@ -16551,7 +16551,7 @@
                     "open_issues": 4,
                     "owner": "peterhinch",
                     "repo": "micropython-async",
-                    "stars": 831,
+                    "stars": 832,
                     "topics": [
                       "asyncio",
                       "embedded",
@@ -18039,7 +18039,7 @@
                 "open_issues": 4,
                 "owner": "peterhinch",
                 "repo": "micropython-async",
-                "stars": 831,
+                "stars": 832,
                 "topics": [
                   "asyncio",
                   "embedded",
@@ -18959,7 +18959,7 @@
             "open_issues": 0,
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1300,
+            "stars": 1304,
             "topics": [
               "100daysofcode",
               "adafruit",
@@ -19000,7 +19000,7 @@
             "open_issues": 4,
             "owner": "peterhinch",
             "repo": "micropython-async",
-            "stars": 831,
+            "stars": 832,
             "topics": [
               "asyncio",
               "embedded",
@@ -19025,7 +19025,7 @@
             "open_issues": 4,
             "owner": "peterhinch",
             "repo": "micropython-async",
-            "stars": 831,
+            "stars": 832,
             "topics": [
               "asyncio",
               "embedded",
@@ -19264,7 +19264,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-03T07:13:43Z",
-            "open_issues": 1533,
+            "open_issues": 1534,
             "owner": "micropython",
             "repo": "micropython",
             "stars": 22108,
@@ -19290,7 +19290,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-03T07:13:43Z",
-            "open_issues": 1533,
+            "open_issues": 1534,
             "owner": "micropython",
             "repo": "micropython",
             "stars": 22108,
@@ -19349,7 +19349,7 @@
                 "id": 187111878,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T02:36:38Z",
+                "last_commit": "2026-10-05T18:57:40Z",
                 "open_issues": 56,
                 "owner": "BradenM",
                 "repo": "micropy-cli",
@@ -20023,7 +20023,7 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-03T07:13:43Z",
-                    "open_issues": 1533,
+                    "open_issues": 1534,
                     "owner": "micropython",
                     "repo": "micropython",
                     "stars": 22108,
@@ -20324,7 +20324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:39:55.605Z",
+    "last_updated": "2026-10-05T22:03:34.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
@@ -20336,7 +20336,7 @@
       "open_issues": 11,
       "owner": "mcauser",
       "repo": "awesome-micropython",
-      "stars": 1809,
+      "stars": 1810,
       "topics": [
         "awesome",
         "awesome-list",
