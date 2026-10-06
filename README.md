@@ -103,7 +103,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython\_esp8266\_tweetbot](https://github.com/ayoko/micropython_esp8266_tweetbot) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2016-10-04 - Tweet bot for MicroPython v1.8.4 (ESP8266).
 * [micropython-linenotify](https://github.com/PerfecXX/micropython-linenotify) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2023-09-20 - MicroPython library for sending notifications to Line Notify with ESP8266 and ESP32.
 * [uEagle](https://github.com/jcalbert/uEagle) ⭐ 5 | 🐛 3 | 🌐 Python | 📅 2021-04-27 - MicroPython Rainforest EAGLE client.
-* [micropython-basicdweet](https://github.com/jacklinquan/micropython-basicdweet) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2022-08-31 - A python module for very basic APIs of the free dweet service.
+* [micropython-basicdweet](https://github.com/jacklinquan/micropython-basicdweet) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2022-08-31 - A python module for very basic APIs of the free dweet service.
 * [micropython-dweeter](https://github.com/jacklinquan/micropython-dweeter) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2022-08-31 - A python module for messaging through the free dweet service.
 * [micropython\_pushbullet](https://github.com/gsampallo/micropython_pushbullet) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2019-06-11 - Simple example of how to use PushBullet with MicroPython on ESP8266.
 * [micropython-cryptodweet](https://github.com/jacklinquan/micropython-cryptodweet) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2022-08-30 - A python module for very basic APIs of the free dweet service with encryption.
@@ -347,7 +347,7 @@ Other places you can look for MicroPython Libraries:
 
 #### RC receiver
 
-* [micropython-ppm\_reader](https://github.com/redoxcode/micropython-ppm_reader) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2025-11-16 - Library to decode PPM signals coming from a RC receiver.
+* [micropython-ppm\_reader](https://github.com/redoxcode/micropython-ppm_reader) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2025-11-16 - Library to decode PPM signals coming from a RC receiver.
 
 #### REPL
 
@@ -372,8 +372,8 @@ Other places you can look for MicroPython Libraries:
 * [micropython-ds1302-rtc](https://github.com/omarbenhamid/micropython-ds1302-rtc) ⭐ 56 | 🐛 2 | 🌐 Python | 📅 2021-07-12 - DS1302 RTC Clock driver for MicroPython.
 * [micropython-DS3231-AT24C32](https://github.com/pangopi/micropython-DS3231-AT24C32) ⭐ 37 | 🐛 2 | 🌐 Python | 📅 2024-07-25 - MicroPython driver for DS3231 RTC.
 * [DS3231micro](https://github.com/notUnique/DS3231micro) ⭐ 16 | 🐛 3 | 🌐 Python | 📅 2023-03-06 - MicroPython library for DS3231.
-* [PCF8563\_PythonLibrary](https://github.com/lewisxhe/PCF8563_PythonLibrary) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2025-05-24 - MicroPython library for NXP PCF8563 Real-time clock/calendar.
-* [micropython-ds1307](https://github.com/brainelectronics/micropython-ds1307) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2023-06-12 - MicroPython driver for DS1307 RTC.
+* [PCF8563\_PythonLibrary](https://github.com/lewisxhe/PCF8563_PythonLibrary) ⭐ 11 | 🐛 2 | 🌐 Python | 📅 2025-05-24 - MicroPython library for NXP PCF8563 Real-time clock/calendar.
+* [micropython-ds1307](https://github.com/brainelectronics/micropython-ds1307) ⭐ 9 | 🐛 2 | 🌐 Python | 📅 2023-06-12 - MicroPython driver for DS1307 RTC.
 * [esp-ds3231-micropython](https://github.com/HAIZAKURA/esp-ds3231-micropython) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2025-05-22 - A DS3231 library for ESP8266/ESP32 with MicroPython.
 * [Micropython\_TinyRTC](https://github.com/AnthonyKNorman/Micropython_TinyRTC) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2016-11-03 - Driver for DS1307 RTC.
 * [DS1307](https://github.com/peter-l5/DS1307) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2023-05-24 - MicroPython driver for the DS1307 real time clock.
@@ -510,7 +510,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-stage](https://github.com/python-ugame/micropython-stage) ⭐ 45 | 🐛 1 | 🌐 Python | 📅 2021-09-02 - A MicroPython port of the Stage game library.
 * [mpy-img-decoder](https://github.com/remixer-dec/mpy-img-decoder) ⭐ 42 | 🐛 1 | 🌐 Python | 📅 2020-09-24 - PNG and JPEG decoder / parser / renderer in pure MicroPython.
 * [microplot](https://github.com/romilly/microplot) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2021-03-23 - Simple MicroPython plotting package.
-* [Tempe](https://github.com/unital/tempe) ⭐ 21 | 🐛 25 | 🌐 Python | 📅 2025-10-31 - Efficient MicroPython graphics library built on top of `framebuf`.
+* [Tempe](https://github.com/unital/tempe) ⭐ 22 | 🐛 25 | 🌐 Python | 📅 2025-10-31 - Efficient MicroPython graphics library built on top of `framebuf`.
 * [micropython-png](https://github.com/Ratfink/micropython-png) ⚠️ Archived - Derivative of PyPNG for use with MicroPython.
 * [micropython-oled-progressbars](https://github.com/follower46/micropython-oled-progressbars) ⭐ 13 | 🐛 4 | 🌐 Python | 📅 2019-08-01 - A collection of progress bars for use with ESP8266 and ESP32 on OLED displays.
 * [micropython-microbmp](https://github.com/jacklinquan/micropython-microbmp) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2025-04-23 - A small Python module for BMP image processing.
@@ -888,9 +888,9 @@ Other places you can look for MicroPython Libraries:
 
 #### Camera
 
-* [micropython-camera-driver](https://github.com/lemariva/micropython-camera-driver) ⭐ 567 | 🐛 34 | 🌐 C | 📅 2023-10-22 - OV2640 camera driver for MicroPython on ESP32.
-* [micropython-camera-API](https://github.com/cnadler86/micropython-camera-API) ⭐ 168 | 🐛 2 | 🌐 C | 📅 2026-01-12 - Project with the aim of supporting cameras across various ports in MicroPython, starting with the ESP32 port and Omnivision cameras (OV2640 & OV5640).
+* [micropython-camera-driver](https://github.com/lemariva/micropython-camera-driver) ⭐ 566 | 🐛 34 | 🌐 C | 📅 2023-10-22 - OV2640 camera driver for MicroPython on ESP32.
 * [uPyCam](https://github.com/lemariva/uPyCam) ⭐ 168 | 🐛 11 | 🌐 Python | 📅 2022-02-02 - Take a photo with an ESP32-CAM running MicroPython.
+* [micropython-camera-API](https://github.com/cnadler86/micropython-camera-API) ⭐ 167 | 🐛 2 | 🌐 C | 📅 2026-01-12 - Project with the aim of supporting cameras across various ports in MicroPython, starting with the ESP32 port and Omnivision cameras (OV2640 & OV5640).
 * [micropython-ov2640](https://github.com/namato/micropython-ov2640) ⭐ 124 | 🐛 8 | 🌐 Python | 📅 2022-10-05 - MicroPython class for OV2640 camera.
 * [esp32-cam-micropython](https://github.com/shariltumin/esp32-cam-micropython) ⭐ 95 | 🐛 11 | 🌐 Makefile | 📅 2022-06-13 - MicroPython ESP32-CAM.
 * [IoTy huskylib](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/huskylib.py) ⭐ 17 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-01 - MicroPython driver for the DFRobot Husky Lens. An easy-to-use AI Camera / Vision Sensor, featuring face recognition, object tracking, object recognition, line tracking, color recognition, and QR code recognition.
@@ -1088,7 +1088,7 @@ Other places you can look for MicroPython Libraries:
 * [BME680-Micropython](https://github.com/robert-hh/BME680-Micropython) ⭐ 52 | 🐛 3 | 🌐 Python | 📅 2025-05-22 - MicroPython driver for the BME680 sensor.
 * [micropython-sht31](https://github.com/kfricke/micropython-sht31) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2023-07-16 - Driver for the SHT31 temperature and humidity sensor.
 * [micropython-am2320](https://github.com/mcauser/micropython-am2320) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2024-02-16 - Aosong AM2320 temperature and humidity sensor, I2C interface.
-* [bme680-pure-mp](https://github.com/antirez/bme680-pure-mp) ⭐ 20 | 🐛 3 | 🌐 Python | 📅 2026-03-28 - Pure MicroPython Bosch BME680 sensor driver.
+* [bme680-pure-mp](https://github.com/antirez/bme680-pure-mp) ⭐ 21 | 🐛 3 | 🌐 Python | 📅 2026-03-28 - Pure MicroPython Bosch BME680 sensor driver.
 * [micropython-dht12](https://github.com/mcauser/micropython-dht12) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2024-02-16 - Aosong DHT12 temperature and humidity sensor, I2C interface.
 * [bme680-mqtt-micropython](https://github.com/robmarkcole/bme680-mqtt-micropython) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2018-11-09 - Driver for BME680 gas, pressure, temperature and humidity sensor.
 * [micropython-si7021](https://github.com/chrisbalmer/micropython-si7021) ⭐ 15 | 🐛 2 | 🌐 Python | 📅 2017-01-05 - SI7021 Temperature and humidity sensor, I2C interface.
@@ -1222,7 +1222,7 @@ Other places you can look for MicroPython Libraries:
 ### Utilities
 
 * [micropython-hexdump](https://github.com/mattytrentini/micropython-hexdump) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-05-22 - An implementation of Hexdump for MicroPython.
-* [mp\_wcwidth](https://github.com/Josverl/mp_wcwidth) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-01-27 - Python port of [wcwidth](https://github.com/jquast/wcwidth) ⭐ 465 | 🐛 1 | 🌐 C | 📅 2026-10-04 to handle wide unicode characters such as "你好世界" in terminal output.
+* [mp\_wcwidth](https://github.com/Josverl/mp_wcwidth) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-01-27 - Python port of [wcwidth](https://github.com/jquast/wcwidth) ⭐ 466 | 🐛 1 | 🌐 C | 📅 2026-10-04 to handle wide unicode characters such as "你好世界" in terminal output.
 * [micropython-units](https://github.com/WoolleySheep/micropython-units) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-08-15 - A library for working with physical quantities in MicroPython.
 
 ## Community
@@ -1237,7 +1237,7 @@ Other places you can look for MicroPython Libraries:
 
 ## Tutorials
 
-* [100 Days 100 IoT Projects](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects) ⭐ 1,304 | 🐛 0 | 🌐 Python | 📅 2026-07-17 - A 100-day challenge building real-world IoT projects with MicroPython on ESP32, ESP8266 and Raspberry Pi Pico 2W. Step-by-step documented with wiring diagrams and code for beginners.
+* [100 Days 100 IoT Projects](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects) ⭐ 1,313 | 🐛 0 | 🌐 Python | 📅 2026-07-17 - A 100-day challenge building real-world IoT projects with MicroPython on ESP32, ESP8266 and Raspberry Pi Pico 2W. Step-by-step documented with wiring diagrams and code for beginners.
 * [asyncio](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/TUTORIAL.md) ⭐ 832 | 🐛 4 | 🌐 Python | 📅 2026-08-26 - Write asynchronous code which interfaces to hardware devices.
 * [Asynchronous drivers](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/DRIVERS.md) ⭐ 832 | 🐛 4 | 🌐 Python | 📅 2026-08-26 - Tutorial and code for asynchronous interfaces to switches, pushbuttons, encoders and ADCs.
 * [3D rotation with quaternions](https://github.com/peterhinch/micropython-samples/blob/master/QUATERNIONS.md) ⭐ 532 | 🐛 13 | 🌐 Python | 📅 2026-08-26 - Tutorial and code for the easy way to do 3D rotation.
@@ -1373,4 +1373,4 @@ I will keep some pull requests open if I'm not sure whether those libraries are 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

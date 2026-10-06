@@ -860,7 +860,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2022-08-31T05:24:13Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "jacklinquan",
                     "repo": "micropython-basicdweet",
                     "stars": 5,
@@ -4715,7 +4715,7 @@
                     "open_issues": 1,
                     "owner": "redoxcode",
                     "repo": "micropython-ppm_reader",
-                    "stars": 13,
+                    "stars": 14,
                     "topics": [
                       "micropython",
                       "ppm",
@@ -4973,7 +4973,7 @@
                     "open_issues": 2,
                     "owner": "lewisxhe",
                     "repo": "PCF8563_PythonLibrary",
-                    "stars": 10,
+                    "stars": 11,
                     "topics": [
                       "micropython",
                       "pcf8563"
@@ -4997,7 +4997,7 @@
                     "open_issues": 2,
                     "owner": "brainelectronics",
                     "repo": "micropython-ds1307",
-                    "stars": 8,
+                    "stars": 9,
                     "topics": [
                       "ds1307",
                       "i2c",
@@ -7179,7 +7179,7 @@
                     "open_issues": 25,
                     "owner": "unital",
                     "repo": "tempe",
-                    "stars": 21,
+                    "stars": 22,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -13409,41 +13409,13 @@
                     "open_issues": 34,
                     "owner": "lemariva",
                     "repo": "micropython-camera-driver",
-                    "stars": 567,
+                    "stars": 566,
                     "topics": [
                       "esp32",
                       "esp32-cam",
                       "esp32-idf",
                       "m5camera",
                       "micropython"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T00:02:05.246Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "micropython-camera-API",
-                  "description": "Project with the aim of supporting cameras across various ports in MicroPython, starting with the ESP32 port and Omnivision cameras (OV2640 & OV5640).",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Camera API for micropython as user module, with precompiled FW, starting with the esp32 port.",
-                    "homepage": null,
-                    "id": 853594877,
-                    "language": "C",
-                    "license": "MIT",
-                    "last_commit": "2026-01-12T04:57:52Z",
-                    "open_issues": 2,
-                    "owner": "cnadler86",
-                    "repo": "micropython-camera-API",
-                    "stars": 168,
-                    "topics": [
-                      "camera",
-                      "esp32-cam",
-                      "espcam",
-                      "micropython",
-                      "ov2640",
-                      "ov5640"
                     ]
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -13469,6 +13441,34 @@
                       "esp32",
                       "esp32-cam",
                       "micropython"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:02:05.246Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "micropython-camera-API",
+                  "description": "Project with the aim of supporting cameras across various ports in MicroPython, starting with the ESP32 port and Omnivision cameras (OV2640 & OV5640).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Camera API for micropython as user module, with precompiled FW, starting with the esp32 port.",
+                    "homepage": null,
+                    "id": 853594877,
+                    "language": "C",
+                    "license": "MIT",
+                    "last_commit": "2026-01-12T04:57:52Z",
+                    "open_issues": 2,
+                    "owner": "cnadler86",
+                    "repo": "micropython-camera-API",
+                    "stars": 167,
+                    "topics": [
+                      "camera",
+                      "esp32-cam",
+                      "espcam",
+                      "micropython",
+                      "ov2640",
+                      "ov5640"
                     ]
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -16687,7 +16687,7 @@
                     "open_issues": 3,
                     "owner": "antirez",
                     "repo": "bme680-pure-mp",
-                    "stars": 20,
+                    "stars": 21,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -18959,7 +18959,7 @@
             "open_issues": 0,
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1304,
+            "stars": 1313,
             "topics": [
               "100daysofcode",
               "adafruit",
@@ -20324,7 +20324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T22:03:34.222Z",
+    "last_updated": "2026-10-06T10:57:55.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
