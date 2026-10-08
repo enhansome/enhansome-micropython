@@ -860,7 +860,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2022-08-31T05:24:13Z",
-                    "open_issues": 1,
+                    "open_issues": 0,
                     "owner": "jacklinquan",
                     "repo": "micropython-basicdweet",
                     "stars": 5,
@@ -1269,7 +1269,7 @@
                     "id": 628000508,
                     "language": "C",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-07T20:23:55Z",
+                    "last_commit": "2026-10-08T17:14:35Z",
                     "open_issues": 8,
                     "owner": "BrianPugh",
                     "repo": "tamp",
@@ -1716,7 +1716,7 @@
                     "open_issues": 3,
                     "owner": "jczic",
                     "repo": "MicroDNSSrv",
-                    "stars": 77,
+                    "stars": 76,
                     "topics": [
                       "captive-portal",
                       "dns",
@@ -5730,7 +5730,7 @@
                     "open_issues": 0,
                     "owner": "miguelgrinberg",
                     "repo": "microdot",
-                    "stars": 2148,
+                    "stars": 2149,
                     "topics": [
                       "http",
                       "micropython",
@@ -5757,7 +5757,7 @@
                     "open_issues": 55,
                     "owner": "jczic",
                     "repo": "MicroWebSrv2",
-                    "stars": 722,
+                    "stars": 723,
                     "topics": [
                       "async",
                       "asynchronous",
@@ -18420,7 +18420,7 @@
                     "open_issues": 0,
                     "owner": "TimonW-Dev",
                     "repo": "micropg_lite",
-                    "stars": 6,
+                    "stars": 7,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -18959,7 +18959,7 @@
             "open_issues": 0,
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1328,
+            "stars": 1334,
             "topics": [
               "100daysofcode",
               "adafruit",
@@ -19128,7 +19128,7 @@
             "id": 106599127,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-07T15:01:34Z",
+            "last_commit": "2026-10-08T18:34:48Z",
             "open_issues": 0,
             "owner": "BxNxM",
             "repo": "micrOS",
@@ -19267,7 +19267,7 @@
             "open_issues": 1535,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22109,
+            "stars": 22110,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19293,7 +19293,7 @@
             "open_issues": 1535,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22109,
+            "stars": 22110,
             "topics": [
               "embedded",
               "microcontroller",
@@ -20026,7 +20026,7 @@
                     "open_issues": 1535,
                     "owner": "micropython",
                     "repo": "micropython",
-                    "stars": 22109,
+                    "stars": 22110,
                     "topics": [
                       "embedded",
                       "microcontroller",
@@ -20324,7 +20324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T20:39:34.223Z",
+    "last_updated": "2026-10-08T20:42:46.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
