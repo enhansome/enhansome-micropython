@@ -1381,7 +1381,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-18T15:10:41Z",
-                    "open_issues": 69,
+                    "open_issues": 72,
                     "owner": "diybitcoinhardware",
                     "repo": "embit",
                     "stars": 118,
@@ -5730,7 +5730,7 @@
                     "open_issues": 0,
                     "owner": "miguelgrinberg",
                     "repo": "microdot",
-                    "stars": 2151,
+                    "stars": 2152,
                     "topics": [
                       "http",
                       "micropython",
@@ -5757,7 +5757,7 @@
                     "open_issues": 55,
                     "owner": "jczic",
                     "repo": "MicroWebSrv2",
-                    "stars": 723,
+                    "stars": 722,
                     "topics": [
                       "async",
                       "asynchronous",
@@ -6659,7 +6659,7 @@
                     "id": 296321490,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-15T13:31:30Z",
+                    "last_commit": "2026-10-15T07:11:52Z",
                     "open_issues": 1,
                     "owner": "SolderedElectronics",
                     "repo": "Inkplate-micropython",
@@ -8018,7 +8018,7 @@
                     "open_issues": 37,
                     "owner": "russhughes",
                     "repo": "st7789_mpy",
-                    "stars": 727,
+                    "stars": 728,
                     "topics": [
                       "bitmap-font",
                       "driver",
@@ -13409,7 +13409,7 @@
                     "open_issues": 34,
                     "owner": "lemariva",
                     "repo": "micropython-camera-driver",
-                    "stars": 567,
+                    "stars": 568,
                     "topics": [
                       "esp32",
                       "esp32-cam",
@@ -15671,7 +15671,7 @@
                     "open_issues": 7,
                     "owner": "tuupola",
                     "repo": "micropython-mpu9250",
-                    "stars": 164,
+                    "stars": 165,
                     "topics": [
                       "ak8963",
                       "micropython",
@@ -18959,7 +18959,7 @@
             "open_issues": 0,
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1343,
+            "stars": 1346,
             "topics": [
               "100daysofcode",
               "adafruit",
@@ -19263,11 +19263,11 @@
             "id": 15337142,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T01:31:42Z",
+            "last_commit": "2026-10-15T03:42:53Z",
             "open_issues": 1532,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22125,
+            "stars": 22130,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19289,11 +19289,11 @@
             "id": 15337142,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T01:31:42Z",
+            "last_commit": "2026-10-15T03:42:53Z",
             "open_issues": 1532,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22125,
+            "stars": 22130,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19383,7 +19383,7 @@
                 "id": 304969957,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-14T09:52:22Z",
+                "last_commit": "2026-10-15T00:11:57Z",
                 "open_issues": 19,
                 "owner": "Josverl",
                 "repo": "micropython-stubs",
@@ -19699,7 +19699,7 @@
                 "open_issues": 33,
                 "owner": "jczic",
                 "repo": "ESP32-MPY-Jama",
-                "stars": 500,
+                "stars": 501,
                 "topics": [
                   "app",
                   "boot",
@@ -20022,11 +20022,11 @@
                     "id": 15337142,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-14T01:31:42Z",
+                    "last_commit": "2026-10-15T03:42:53Z",
                     "open_issues": 1532,
                     "owner": "micropython",
                     "repo": "micropython",
-                    "stars": 22125,
+                    "stars": 22130,
                     "topics": [
                       "embedded",
                       "microcontroller",
@@ -20052,7 +20052,7 @@
                     "open_issues": 132,
                     "owner": "dhylands",
                     "repo": "rshell",
-                    "stars": 1041,
+                    "stars": 1040,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -20136,7 +20136,7 @@
                     "id": 507213540,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-08-17T03:17:43Z",
+                    "last_commit": "2026-10-15T03:42:36Z",
                     "open_issues": 0,
                     "owner": "bulletmark",
                     "repo": "mpr",
@@ -20324,7 +20324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T19:27:38.772Z",
+    "last_updated": "2026-10-15T19:13:26.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
