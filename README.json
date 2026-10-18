@@ -1273,7 +1273,7 @@
                     "open_issues": 2,
                     "owner": "BrianPugh",
                     "repo": "tamp",
-                    "stars": 75,
+                    "stars": 77,
                     "topics": [
                       "c",
                       "compression",
@@ -3568,7 +3568,7 @@
                     "id": 94690722,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-07T17:46:18Z",
+                    "last_commit": "2026-10-18T17:43:06Z",
                     "open_issues": 25,
                     "owner": "peterhinch",
                     "repo": "micropython-mqtt",
@@ -5757,7 +5757,7 @@
                     "open_issues": 55,
                     "owner": "jczic",
                     "repo": "MicroWebSrv2",
-                    "stars": 722,
+                    "stars": 721,
                     "topics": [
                       "async",
                       "asynchronous",
@@ -6106,7 +6106,7 @@
                     "open_issues": 0,
                     "owner": "kritishmohapatra",
                     "repo": "micropidash",
-                    "stars": 41,
+                    "stars": 42,
                     "topics": [
                       "adafruit",
                       "adafruit-io",
@@ -9914,27 +9914,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "MCP342x_LoPy",
-                  "description": "MicroPython driver for the MCP342x ADC.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "MicroPython driver for the MCP342x ADC.",
-                    "homepage": null,
-                    "id": 129376362,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2023-09-18T02:11:14Z",
-                    "open_issues": 3,
-                    "owner": "jajberni",
-                    "repo": "MCP342x_LoPy",
-                    "stars": 3,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:02:05.246Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "ADS1256",
                   "description": "Driver for the ADS1256 24-bit low noise ADC, both as a generic MicroPython version and using the RP2040/RP2350 PIO.",
                   "children": [],
@@ -9949,6 +9928,27 @@
                     "open_issues": 0,
                     "owner": "robert-hh",
                     "repo": "ADS1256-ADS1255",
+                    "stars": 4,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:02:05.246Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "MCP342x_LoPy",
+                  "description": "MicroPython driver for the MCP342x ADC.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "MicroPython driver for the MCP342x ADC.",
+                    "homepage": null,
+                    "id": 129376362,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2023-09-18T02:11:14Z",
+                    "open_issues": 3,
+                    "owner": "jajberni",
+                    "repo": "MCP342x_LoPy",
                     "stars": 3,
                     "topics": []
                   },
@@ -10592,7 +10592,7 @@
                     "open_issues": 2,
                     "owner": "PerfecXX",
                     "repo": "MicroPython-SimpleKeypad",
-                    "stars": 10,
+                    "stars": 11,
                     "topics": [
                       "4x4-keypad",
                       "esp32",
@@ -16562,27 +16562,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "BME680-Micropython",
-                  "description": "MicroPython driver for the BME680 sensor.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Micropython driver for the BME680 sensor",
-                    "homepage": null,
-                    "id": 275900157,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-05-22T12:19:11Z",
-                    "open_issues": 3,
-                    "owner": "robert-hh",
-                    "repo": "BME680-Micropython",
-                    "stars": 53,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:02:05.246Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "micropython_ahtx0",
                   "description": "MicroPython driver for the AHT10 and AHT20 temperature and humidity sensors.",
                   "children": [],
@@ -16597,6 +16576,27 @@
                     "open_issues": 0,
                     "owner": "targetblank",
                     "repo": "micropython_ahtx0",
+                    "stars": 54,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:02:05.246Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "BME680-Micropython",
+                  "description": "MicroPython driver for the BME680 sensor.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Micropython driver for the BME680 sensor",
+                    "homepage": null,
+                    "id": 275900157,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2025-05-22T12:19:11Z",
+                    "open_issues": 3,
+                    "owner": "robert-hh",
+                    "repo": "BME680-Micropython",
                     "stars": 53,
                     "topics": []
                   },
@@ -18959,7 +18959,7 @@
             "open_issues": 0,
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1348,
+            "stars": 1351,
             "topics": [
               "100daysofcode",
               "adafruit",
@@ -19264,7 +19264,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-17T00:21:43Z",
-            "open_issues": 1534,
+            "open_issues": 1536,
             "owner": "micropython",
             "repo": "micropython",
             "stars": 22134,
@@ -19290,7 +19290,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-17T00:21:43Z",
-            "open_issues": 1534,
+            "open_issues": 1536,
             "owner": "micropython",
             "repo": "micropython",
             "stars": 22134,
@@ -19383,7 +19383,7 @@
                 "id": 304969957,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-17T00:04:04Z",
+                "last_commit": "2026-10-18T08:26:42Z",
                 "open_issues": 19,
                 "owner": "Josverl",
                 "repo": "micropython-stubs",
@@ -20023,7 +20023,7 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-17T00:21:43Z",
-                    "open_issues": 1534,
+                    "open_issues": 1536,
                     "owner": "micropython",
                     "repo": "micropython",
                     "stars": 22134,
@@ -20324,7 +20324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:52:18.275Z",
+    "last_updated": "2026-10-18T18:11:04.998Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
