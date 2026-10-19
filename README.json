@@ -1269,8 +1269,8 @@
                     "id": 628000508,
                     "language": "C",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-16T13:23:07Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-10-19T16:21:33Z",
+                    "open_issues": 3,
                     "owner": "BrianPugh",
                     "repo": "tamp",
                     "stars": 77,
@@ -1381,7 +1381,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-18T15:10:41Z",
-                    "open_issues": 72,
+                    "open_issues": 74,
                     "owner": "diybitcoinhardware",
                     "repo": "embit",
                     "stars": 118,
@@ -3569,7 +3569,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-18T17:43:06Z",
-                    "open_issues": 25,
+                    "open_issues": 20,
                     "owner": "peterhinch",
                     "repo": "micropython-mqtt",
                     "stars": 687,
@@ -4165,10 +4165,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-12T01:59:40Z",
-                    "open_issues": 230,
+                    "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2863,
+                    "stars": 2864,
                     "topics": [
                       "micropython"
                     ]
@@ -4372,10 +4372,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-12T01:59:40Z",
-                    "open_issues": 230,
+                    "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2863,
+                    "stars": 2864,
                     "topics": [
                       "micropython"
                     ]
@@ -5300,7 +5300,7 @@
                     "id": 389690118,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-05-25T09:10:19Z",
+                    "last_commit": "2026-10-19T13:21:53Z",
                     "open_issues": 0,
                     "owner": "peterhinch",
                     "repo": "micropython-msgpack",
@@ -7418,6 +7418,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "micropython-touch",
+                  "description": "Derived from nano-gui and supporting the same displays and hosts, this offers touch input. Supports various touch controllers.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A GUI for touch panel displays.",
+                    "homepage": null,
+                    "id": 772990897,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-06-25T16:30:42Z",
+                    "open_issues": 0,
+                    "owner": "peterhinch",
+                    "repo": "micropython-touch",
+                    "stars": 64,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:02:05.246Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "micropython-core2",
                   "description": "Extends LV-MicroPython for the M5Stack CORE2 with MPU6886, ILI9342C, BM8563 and AXP192 drivers.",
                   "children": [],
@@ -7445,27 +7466,6 @@
                       "ns4168",
                       "spm1423"
                     ]
-                  },
-                  "first_seen": "2026-08-29T00:02:05.246Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "micropython-touch",
-                  "description": "Derived from nano-gui and supporting the same displays and hosts, this offers touch input. Supports various touch controllers.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A GUI for touch panel displays.",
-                    "homepage": null,
-                    "id": 772990897,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-06-25T16:30:42Z",
-                    "open_issues": 0,
-                    "owner": "peterhinch",
-                    "repo": "micropython-touch",
-                    "stars": 63,
-                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
                 },
@@ -7820,10 +7820,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-12T01:59:40Z",
-                    "open_issues": 230,
+                    "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2863,
+                    "stars": 2864,
                     "topics": [
                       "micropython"
                     ]
@@ -8056,7 +8056,7 @@
                     "open_issues": 4,
                     "owner": "rdagger",
                     "repo": "micropython-ili9341",
-                    "stars": 308,
+                    "stars": 309,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -9469,10 +9469,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-12T01:59:40Z",
-                    "open_issues": 230,
+                    "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2863,
+                    "stars": 2864,
                     "topics": [
                       "micropython"
                     ]
@@ -16525,10 +16525,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-12T01:59:40Z",
-                    "open_issues": 230,
+                    "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2863,
+                    "stars": 2864,
                     "topics": [
                       "micropython"
                     ]
@@ -18959,7 +18959,7 @@
             "open_issues": 0,
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1351,
+            "stars": 1355,
             "topics": [
               "100daysofcode",
               "adafruit",
@@ -19263,11 +19263,11 @@
             "id": 15337142,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-17T00:21:43Z",
-            "open_issues": 1536,
+            "last_commit": "2026-10-19T03:10:08Z",
+            "open_issues": 1538,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22134,
+            "stars": 22136,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19289,11 +19289,11 @@
             "id": 15337142,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-17T00:21:43Z",
-            "open_issues": 1536,
+            "last_commit": "2026-10-19T03:10:08Z",
+            "open_issues": 1538,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22134,
+            "stars": 22136,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19349,7 +19349,7 @@
                 "id": 187111878,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-13T11:13:13Z",
+                "last_commit": "2026-10-19T18:24:25Z",
                 "open_issues": 56,
                 "owner": "BradenM",
                 "repo": "micropy-cli",
@@ -19453,7 +19453,7 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-08-05T11:00:06Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "vshymanskyy",
                 "repo": "wasm2mpy",
                 "stars": 155,
@@ -20022,11 +20022,11 @@
                     "id": 15337142,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-17T00:21:43Z",
-                    "open_issues": 1536,
+                    "last_commit": "2026-10-19T03:10:08Z",
+                    "open_issues": 1538,
                     "owner": "micropython",
                     "repo": "micropython",
-                    "stars": 22134,
+                    "stars": 22136,
                     "topics": [
                       "embedded",
                       "microcontroller",
@@ -20324,7 +20324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T18:11:04.998Z",
+    "last_updated": "2026-10-19T20:37:29.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
@@ -20333,7 +20333,7 @@
       "language": "HTML",
       "license": "CC0-1.0",
       "last_commit": "2026-07-20T04:42:59Z",
-      "open_issues": 12,
+      "open_issues": 14,
       "owner": "mcauser",
       "repo": "awesome-micropython",
       "stars": 1811,
