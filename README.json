@@ -146,7 +146,7 @@
                 "open_issues": 14,
                 "owner": "miketeachman",
                 "repo": "micropython-i2s-examples",
-                "stars": 305,
+                "stars": 306,
                 "topics": [
                   "audio",
                   "esp32",
@@ -179,7 +179,7 @@
                 "open_issues": 3,
                 "owner": "SpotlightKid",
                 "repo": "micropython-osc",
-                "stars": 74,
+                "stars": 73,
                 "topics": [
                   "micropython",
                   "open-sound-control",
@@ -1273,7 +1273,7 @@
                     "open_issues": 3,
                     "owner": "BrianPugh",
                     "repo": "tamp",
-                    "stars": 77,
+                    "stars": 76,
                     "topics": [
                       "c",
                       "compression",
@@ -1381,7 +1381,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-18T15:10:41Z",
-                    "open_issues": 76,
+                    "open_issues": 79,
                     "owner": "diybitcoinhardware",
                     "repo": "embit",
                     "stars": 118,
@@ -7360,7 +7360,7 @@
                     "open_issues": 65,
                     "owner": "lvgl",
                     "repo": "lv_binding_micropython",
-                    "stars": 355,
+                    "stars": 356,
                     "topics": [
                       "gui",
                       "lvgl",
@@ -18959,7 +18959,7 @@
             "open_issues": 0,
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1362,
+            "stars": 1370,
             "topics": [
               "100daysofcode",
               "adafruit",
@@ -19264,10 +19264,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-19T03:10:08Z",
-            "open_issues": 1541,
+            "open_issues": 1550,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22141,
+            "stars": 22146,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19290,10 +19290,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-19T03:10:08Z",
-            "open_issues": 1541,
+            "open_issues": 1550,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22141,
+            "stars": 22146,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19383,7 +19383,7 @@
                 "id": 304969957,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-21T00:18:29Z",
+                "last_commit": "2026-10-22T00:23:45Z",
                 "open_issues": 19,
                 "owner": "Josverl",
                 "repo": "micropython-stubs",
@@ -20023,10 +20023,10 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-19T03:10:08Z",
-                    "open_issues": 1541,
+                    "open_issues": 1550,
                     "owner": "micropython",
                     "repo": "micropython",
-                    "stars": 22141,
+                    "stars": 22146,
                     "topics": [
                       "embedded",
                       "microcontroller",
@@ -20324,7 +20324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T19:20:52.640Z",
+    "last_updated": "2026-10-22T19:15:11.955Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
