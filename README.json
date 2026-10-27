@@ -2184,7 +2184,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2023-02-18T17:59:57Z",
-                    "open_issues": 15,
+                    "open_issues": 16,
                     "owner": "inmcm",
                     "repo": "micropyGPS",
                     "stars": 392,
@@ -3572,7 +3572,7 @@
                     "open_issues": 20,
                     "owner": "peterhinch",
                     "repo": "micropython-mqtt",
-                    "stars": 687,
+                    "stars": 688,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -4164,11 +4164,11 @@
                     "id": 18326156,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-12T01:59:40Z",
+                    "last_commit": "2026-10-27T02:45:36Z",
                     "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2867,
+                    "stars": 2868,
                     "topics": [
                       "micropython"
                     ]
@@ -4371,11 +4371,11 @@
                     "id": 18326156,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-12T01:59:40Z",
+                    "last_commit": "2026-10-27T02:45:36Z",
                     "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2867,
+                    "stars": 2868,
                     "topics": [
                       "micropython"
                     ]
@@ -5730,7 +5730,7 @@
                     "open_issues": 0,
                     "owner": "miguelgrinberg",
                     "repo": "microdot",
-                    "stars": 2154,
+                    "stars": 2155,
                     "topics": [
                       "http",
                       "micropython",
@@ -7819,11 +7819,11 @@
                     "id": 18326156,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-12T01:59:40Z",
+                    "last_commit": "2026-10-27T02:45:36Z",
                     "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2867,
+                    "stars": 2868,
                     "topics": [
                       "micropython"
                     ]
@@ -9468,11 +9468,11 @@
                     "id": 18326156,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-12T01:59:40Z",
+                    "last_commit": "2026-10-27T02:45:36Z",
                     "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2867,
+                    "stars": 2868,
                     "topics": [
                       "micropython"
                     ]
@@ -9495,7 +9495,7 @@
                     "open_issues": 4,
                     "owner": "robert-hh",
                     "repo": "SH1106",
-                    "stars": 253,
+                    "stars": 254,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -16524,11 +16524,11 @@
                     "id": 18326156,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-12T01:59:40Z",
+                    "last_commit": "2026-10-27T02:45:36Z",
                     "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2867,
+                    "stars": 2868,
                     "topics": [
                       "micropython"
                     ]
@@ -17862,6 +17862,32 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "micropython-ttp223",
+                  "description": "Examples using TTP223 capacitive touch module.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "MicroPython examples using TTP223 capacitive touch module",
+                    "homepage": null,
+                    "id": 125983706,
+                    "language": null,
+                    "license": "MIT",
+                    "last_commit": "2018-08-07T16:29:46Z",
+                    "open_issues": 0,
+                    "owner": "mcauser",
+                    "repo": "micropython-ttp223",
+                    "stars": 10,
+                    "topics": [
+                      "capacitive-touch-sensor",
+                      "micropython",
+                      "stm32f4",
+                      "ttp223"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:02:05.246Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "uFT6336U",
                   "description": "MicroPython I2C driver for the Focus LCDs FT6336U capacitive touch panel controller IC.",
                   "children": [],
@@ -17899,32 +17925,6 @@
                     "repo": "micropython-ft6x06",
                     "stars": 10,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:02:05.246Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "micropython-ttp223",
-                  "description": "Examples using TTP223 capacitive touch module.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "MicroPython examples using TTP223 capacitive touch module",
-                    "homepage": null,
-                    "id": 125983706,
-                    "language": null,
-                    "license": "MIT",
-                    "last_commit": "2018-08-07T16:29:46Z",
-                    "open_issues": 0,
-                    "owner": "mcauser",
-                    "repo": "micropython-ttp223",
-                    "stars": 9,
-                    "topics": [
-                      "capacitive-touch-sensor",
-                      "micropython",
-                      "stm32f4",
-                      "ttp223"
-                    ]
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
                 },
@@ -18959,7 +18959,7 @@
             "open_issues": 0,
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1392,
+            "stars": 1441,
             "topics": [
               "100daysofcode",
               "adafruit",
@@ -19263,11 +19263,11 @@
             "id": 15337142,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T01:04:23Z",
-            "open_issues": 1552,
+            "last_commit": "2026-10-27T13:09:20Z",
+            "open_issues": 1553,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22153,
+            "stars": 22161,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19289,11 +19289,11 @@
             "id": 15337142,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T01:04:23Z",
-            "open_issues": 1552,
+            "last_commit": "2026-10-27T13:09:20Z",
+            "open_issues": 1553,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22153,
+            "stars": 22161,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19349,7 +19349,7 @@
                 "id": 187111878,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-26T18:22:09Z",
+                "last_commit": "2026-10-27T01:50:53Z",
                 "open_issues": 56,
                 "owner": "BradenM",
                 "repo": "micropy-cli",
@@ -19383,7 +19383,7 @@
                 "id": 304969957,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-25T07:01:48Z",
+                "last_commit": "2026-10-27T10:09:32Z",
                 "open_issues": 19,
                 "owner": "Josverl",
                 "repo": "micropython-stubs",
@@ -19418,8 +19418,8 @@
                 "id": 177823007,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T19:38:50Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-27T00:12:51Z",
+                "open_issues": 7,
                 "owner": "Josverl",
                 "repo": "micropython-stubber",
                 "stars": 255,
@@ -20022,11 +20022,11 @@
                     "id": 15337142,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-26T01:04:23Z",
-                    "open_issues": 1552,
+                    "last_commit": "2026-10-27T13:09:20Z",
+                    "open_issues": 1553,
                     "owner": "micropython",
                     "repo": "micropython",
-                    "stars": 22153,
+                    "stars": 22161,
                     "topics": [
                       "embedded",
                       "microcontroller",
@@ -20324,7 +20324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:34:50.190Z",
+    "last_updated": "2026-10-27T20:07:24.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
