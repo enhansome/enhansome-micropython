@@ -484,7 +484,7 @@
             {
               "node_type": "item",
               "title": "micropython-sgtl5000",
-              "description": "Library for SGTL5000 Low Power Stereo Codec w/ Headphone Amp.",
+              "description": "Library for SGTL5000 low power stereo codec w/ headphone amp.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1469,7 +1469,7 @@
                 {
                   "node_type": "item",
                   "title": "microotp",
-                  "description": "An ESP8266 MicroPython OTP Generator.",
+                  "description": "An ESP8266 MicroPython OTP generator.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1845,7 +1845,7 @@
                 {
                   "node_type": "item",
                   "title": "Micropython-DNSServer-Captive-Portal",
-                  "description": "MicroPython WiFi AP Captive Portal with DNS and Web Server.",
+                  "description": "MicroPython WiFi AP captive portal with DNS and web server.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2158,7 +2158,7 @@
                     "id": 75714033,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-26T15:00:54Z",
+                    "last_commit": "2026-11-04T17:48:13Z",
                     "open_issues": 4,
                     "owner": "peterhinch",
                     "repo": "micropython-async",
@@ -2607,7 +2607,7 @@
                 {
                   "node_type": "item",
                   "title": "micropython-ha-mqtt-device",
-                  "description": "MicroPython module which allows creating Entites for HomeAssistant using MQTT Discovery.",
+                  "description": "MicroPython module which allows creating Entities for HomeAssistant using MQTT Discovery.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2846,7 +2846,7 @@
                     "open_issues": 14,
                     "owner": "peterhinch",
                     "repo": "micropython_ir",
-                    "stars": 312,
+                    "stars": 313,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -2950,6 +2950,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "micropython-necir",
+                  "description": "NEC infrared capture for TL1838 IR receiver LEDs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "NEC Infrared class for MicroPython board",
+                    "homepage": null,
+                    "id": 34667863,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2015-04-27T13:21:06Z",
+                    "open_issues": 0,
+                    "owner": "MattMatic",
+                    "repo": "micropython-necir",
+                    "stars": 14,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:02:05.246Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Micropython-IR",
                   "description": "Pyboard infrared remote sniff and replay.",
                   "children": [],
@@ -2965,27 +2986,6 @@
                     "owner": "designerPing",
                     "repo": "Micropython-IR",
                     "stars": 14,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:02:05.246Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "micropython-necir",
-                  "description": "NEC infrared capture for TL1838 IR receiver LEDs.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "NEC Infrared class for MicroPython board",
-                    "homepage": null,
-                    "id": 34667863,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2015-04-27T13:21:06Z",
-                    "open_issues": 0,
-                    "owner": "MattMatic",
-                    "repo": "micropython-necir",
-                    "stars": 13,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -3014,7 +3014,7 @@
                 {
                   "node_type": "item",
                   "title": "micropython_espX_IR_Transceiver",
-                  "description": "MicroPython ESP32 IR Transceiver.",
+                  "description": "MicroPython ESP32 IR transceiver.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3572,7 +3572,7 @@
                     "open_issues": 20,
                     "owner": "peterhinch",
                     "repo": "micropython-mqtt",
-                    "stars": 688,
+                    "stars": 689,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -3716,7 +3716,7 @@
                 {
                   "node_type": "item",
                   "title": "micropython-thingspeak-mqtt-esp8266",
-                  "description": "Publish and Subscribe to ThingSpeak using MQTT with MicroPython running on ESP8266/ESP32 platforms.",
+                  "description": "Publish and subscribe to ThingSpeak using MQTT with MicroPython running on ESP8266/ESP32 platforms.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3746,7 +3746,7 @@
                 {
                   "node_type": "item",
                   "title": "micropython-mqtt-thingspeak",
-                  "description": "Publish and Subscribe to ThingSpeak using MQTT with MicroPython.",
+                  "description": "Publish and subscribe to ThingSpeak using MQTT with MicroPython.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3881,7 +3881,7 @@
                 {
                   "node_type": "item",
                   "title": "mqtt_upython",
-                  "description": "MQTT Client using MicroPython on ESP8266.",
+                  "description": "MQTT client using MicroPython on ESP8266.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4168,7 +4168,7 @@
                     "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2868,
+                    "stars": 2867,
                     "topics": [
                       "micropython"
                     ]
@@ -4289,7 +4289,7 @@
                     "open_issues": 5,
                     "owner": "RangerDigital",
                     "repo": "senko",
-                    "stars": 105,
+                    "stars": 104,
                     "topics": [
                       "esp32",
                       "esp8266",
@@ -4375,7 +4375,7 @@
                     "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2868,
+                    "stars": 2867,
                     "topics": [
                       "micropython"
                     ]
@@ -4668,7 +4668,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython-BresserWeatherSensorReceiver",
-                  "description": "Bresser 5-in-1/6-in-1/7-in-1 868 MHz Weather Sensor Radio Receiver and Decoder.",
+                  "description": "Bresser 5-in-1 / 6-in-1 / 7-in-1 868 MHz weather sensor radio receiver and decoder.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4821,6 +4821,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "micropython-uhf-module",
+                  "description": "A MicroPython driver for the Tenhanyun TY928 UHF RFID embedded module.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A MicroPython driver for the Tenhanyun TY928 UHF Embedded Module",
+                    "homepage": null,
+                    "id": 1348840537,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-27T04:54:48Z",
+                    "open_issues": 0,
+                    "owner": "HowManyOliversAreThere",
+                    "repo": "micropython-uhf-module",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-04T21:21:13.965Z"
                 }
               ],
               "description": null,
@@ -5149,7 +5170,7 @@
                 {
                   "node_type": "item",
                   "title": "micropython_rx-8035",
-                  "description": "A MicroPython Driver for Seiko Epson's RTC, RX-8035SA/LC.",
+                  "description": "A MicroPython driver for Seiko Epson's RTC, RX-8035SA/LC.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5194,7 +5215,7 @@
                     "id": 75714033,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-26T15:00:54Z",
+                    "last_commit": "2026-11-04T17:48:13Z",
                     "open_issues": 4,
                     "owner": "peterhinch",
                     "repo": "micropython-async",
@@ -5353,6 +5374,48 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "micropython-msgpackc",
+                  "description": "Fast MessagePack in C, a drop-in replacement for umsgpack.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Fast MessagePack for MicroPython, written in C: a drop-in replacement for Peter Hinch's umsgpack, up to 120x faster dumps and 25x faster loads on ESP32. msgpack.org[MicroPython]",
+                    "homepage": null,
+                    "id": 1424583630,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-19T09:37:18Z",
+                    "open_issues": 0,
+                    "owner": "Tangerino",
+                    "repo": "micropython-msgpackc",
+                    "stars": 2,
+                    "topics": [
+                      "binary-serialization",
+                      "c",
+                      "embedded",
+                      "embedded-systems",
+                      "esp-idf",
+                      "esp32",
+                      "esp32-c3",
+                      "esp32-c6",
+                      "esp32-p4",
+                      "esp32-s3",
+                      "iot",
+                      "json-alternative",
+                      "messagepack",
+                      "micropython",
+                      "micropython-esp32",
+                      "micropython-module",
+                      "msgpack",
+                      "serialization",
+                      "umsgpack",
+                      "usermod"
+                    ]
+                  },
+                  "first_seen": "2026-11-04T21:21:13.965Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "upy-msgpack",
                   "description": "A lightweight MessagePack (de)serialization library (not only) for MicroPython.",
                   "children": [],
@@ -5436,7 +5499,7 @@
                 {
                   "node_type": "item",
                   "title": "XAsyncSockets",
-                  "description": "XAsyncSockets is an efficient Python/MicroPython library of managed asynchronous sockets.",
+                  "description": "An efficient Python/MicroPython library of managed asynchronous sockets.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5730,7 +5793,7 @@
                     "open_issues": 0,
                     "owner": "miguelgrinberg",
                     "repo": "microdot",
-                    "stars": 2158,
+                    "stars": 2157,
                     "topics": [
                       "http",
                       "micropython",
@@ -5880,8 +5943,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "micropyserver",
-                  "description": "MicroPyServer is a simple HTTP server for MicroPython projects.",
+                  "title": "MicroPyServer",
+                  "description": "A simple HTTP server for MicroPython projects.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6496,7 +6559,7 @@
                 {
                   "node_type": "item",
                   "title": "mpy-wpa_supplicant",
-                  "description": "MicroPython module to connect to the nearest known Wifi AP.",
+                  "description": "MicroPython module to connect to the nearest known WiFi AP.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7574,6 +7637,34 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "anx7625",
+                  "description": "MicroPython porting of video primitives for Portenta H7 via USBC (to HDMI adapter).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Micropython porting of video primitives for Portenta H7 via USBC (to HDMI adapter)",
+                    "homepage": null,
+                    "id": 530973361,
+                    "language": "C",
+                    "license": "MIT",
+                    "last_commit": "2026-08-04T07:36:22Z",
+                    "open_issues": 0,
+                    "owner": "dmazzella",
+                    "repo": "anx7625",
+                    "stars": 9,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-04T21:21:13.965Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "HDMI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "python_lcd",
                   "description": "Driver for HD44780-compatible dot matrix LCDs.",
                   "children": [],
@@ -7609,7 +7700,7 @@
                     "open_issues": 0,
                     "owner": "Bucknalla",
                     "repo": "micropython-i2c-lcd",
-                    "stars": 38,
+                    "stars": 39,
                     "topics": [
                       "i2c",
                       "lcd",
@@ -7782,7 +7873,7 @@
                 {
                   "node_type": "item",
                   "title": "pyboard-LCD-character-display",
-                  "description": "Pyboar driver for HDD44780-compatible 1602 LCDs.",
+                  "description": "Pyboard driver for HDD44780-compatible 1602 LCDs.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7823,7 +7914,7 @@
                     "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2868,
+                    "stars": 2867,
                     "topics": [
                       "micropython"
                     ]
@@ -7994,6 +8085,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "MicroPython-Sharp-Memory-Display",
+                  "description": "MicroPython driver for SHARP memory LCD displays.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "MicroPython driver for Sharp Memory Displays",
+                    "homepage": null,
+                    "id": 1309127202,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-08-12T23:19:36Z",
+                    "open_issues": 0,
+                    "owner": "peter-l5",
+                    "repo": "MicroPython-Sharp-Memory-Display",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-04T21:21:13.965Z"
                 }
               ],
               "description": null,
@@ -8168,7 +8280,7 @@
                 {
                   "node_type": "item",
                   "title": "micropython-ili9341",
-                  "description": "MicroPython Driver for ILI9341 display.",
+                  "description": "MicroPython driver for ILI9341 display.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8434,7 +8546,7 @@
                 {
                   "node_type": "item",
                   "title": "st7789s3_esp_lcd",
-                  "description": "Fast ESP_LCD based MicroPython driver for the TTGO T-Display-S3 st7789 display written in C.",
+                  "description": "Fast ESP_LCD based MicroPython driver for the TTGO T-Display-S3 ST7789 display written in C.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8684,7 +8796,7 @@
                 {
                   "node_type": "item",
                   "title": "mp-ili9341",
-                  "description": "MicroPython Driver for ILI9341 TFT Display.",
+                  "description": "MicroPython driver for ILI9341 TFT Display.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9472,7 +9584,7 @@
                     "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2868,
+                    "stars": 2867,
                     "topics": [
                       "micropython"
                     ]
@@ -9588,7 +9700,7 @@
                     "open_issues": 2,
                     "owner": "mcauser",
                     "repo": "micropython-ssd1327",
-                    "stars": 30,
+                    "stars": 31,
                     "topics": [
                       "grove",
                       "grove-oled-display",
@@ -9758,6 +9870,44 @@
                     ]
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "coffee-edition-kit",
+                  "description": "Pico W firmware that pulls print jobs from GitHub over HTTPS and streams them to a network printer over IPP, for a nightly newspaper.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A newspaper your printer prints every morning: a Claude routine writes it overnight from your notes, GitHub Actions lays it out and checks every page, a Raspberry Pi Pico W prints it.",
+                    "homepage": "https://erolsen.dev/writing/coffee-edition",
+                    "id": 1420473084,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-23T10:15:42Z",
+                    "open_issues": 0,
+                    "owner": "ierolsen",
+                    "repo": "coffee-edition-kit",
+                    "stars": 7,
+                    "topics": [
+                      "ai-agents",
+                      "airprint",
+                      "arxiv",
+                      "automation",
+                      "claude",
+                      "claude-code",
+                      "diy",
+                      "github-actions",
+                      "huggingface",
+                      "ipp",
+                      "llm",
+                      "micropython",
+                      "newspaper",
+                      "pico-w",
+                      "printer",
+                      "raspberry-pi-pico"
+                    ]
+                  },
+                  "first_seen": "2026-11-04T21:21:13.965Z"
                 }
               ],
               "description": null,
@@ -10212,7 +10362,7 @@
                 {
                   "node_type": "item",
                   "title": "micropython-debounce-switch",
-                  "description": "MicroPython Class for Debouncing Switches.",
+                  "description": "MicroPython class for debouncing switches.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10240,7 +10390,7 @@
                 {
                   "node_type": "item",
                   "title": "micropython-mcp23017",
-                  "description": "MicroPython driver for MCP23017 16-bit I/O Expander.",
+                  "description": "MicroPython driver for MCP23017 16-bit I/O expander.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10267,7 +10417,7 @@
                 {
                   "node_type": "item",
                   "title": "micropython-pcf8574",
-                  "description": "MicroPython driver for PCF8574 8-Bit I2C I/O Expander with Interrupt.",
+                  "description": "MicroPython driver for PCF8574 8-Bit I2C I/O expander with interrupt.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10313,7 +10463,7 @@
                 {
                   "node_type": "item",
                   "title": "micropython-pcf8575",
-                  "description": "MicroPython driver for PCF8575 16-Bit I2C I/O Expander with Interrupt.",
+                  "description": "MicroPython driver for PCF8575 16-Bit I2C I/O expander with interrupt.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10359,7 +10509,7 @@
                 {
                   "node_type": "item",
                   "title": "micropython-sx1509",
-                  "description": "MicroPython SX1509 I/O Expander Library.",
+                  "description": "MicroPython SX1509 I/O expander library.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10405,7 +10555,7 @@
                 {
                   "node_type": "item",
                   "title": "mcp23017",
-                  "description": "MicroPython module for MCP23017, 16-Bit I/O Expander with Serial Interface.",
+                  "description": "MicroPython module for MCP23017, 16-Bit I/O Expander with serial interface.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -10710,7 +10860,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_DS1841",
-                  "description": "MicroPython Driver for the DS1841 Potentiometer.",
+                  "description": "MicroPython driver for the DS1841 potentiometer.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -10736,7 +10886,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_DS3502",
-                  "description": "MicroPython Driver for the DS3502 Potentiometer.",
+                  "description": "MicroPython driver for the DS3502 potentiometer.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -10863,7 +11013,7 @@
                     "id": 75714033,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-26T15:00:54Z",
+                    "last_commit": "2026-11-04T17:48:13Z",
                     "open_issues": 4,
                     "owner": "peterhinch",
                     "repo": "micropython-async",
@@ -10971,7 +11121,7 @@
                 {
                   "node_type": "item",
                   "title": "AS5600",
-                  "description": "AS5600 MicroPython library for reading this magnetic sensor.",
+                  "description": "MicroPython library for reading the magnetic sensor AS5600.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11055,7 +11205,7 @@
                 {
                   "node_type": "item",
                   "title": "micropython-quiic-twist",
-                  "description": "MicroPython Driver for Quiic Twist RGB Rotary Encoder.",
+                  "description": "MicroPython driver for Quiic Twist RGB rotary encoder.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11379,7 +11529,7 @@
                 "open_issues": 45,
                 "owner": "v923z",
                 "repo": "micropython-ulab",
-                "stars": 502,
+                "stars": 503,
                 "topics": [
                   "circuitpython",
                   "circuitpython-ulab",
@@ -11534,7 +11684,7 @@
             {
               "node_type": "item",
               "title": "micropython-npyfile",
-              "description": "Numpy .npy file support for MicroPython, supports read/write/streaming.",
+              "description": "NumPy .npy file support for MicroPython, supports read/write/streaming.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11744,7 +11894,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_PCA9685",
-                  "description": "MicroPython Driver for the PCA9685 PWM control IC, commonly used to control servos, LEDs and motors.",
+                  "description": "MicroPython driver for the PCA9685 PWM control IC, commonly used to control servos, LEDs and motors.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -11821,7 +11971,7 @@
                 {
                   "node_type": "item",
                   "title": "pca9685",
-                  "description": "MicroPython module for managing a 16-channel SHIM controller, PCA9685",
+                  "description": "MicroPython module for managing a 16-channel SHIM controller, PCA9685.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12188,7 +12338,7 @@
                 {
                   "node_type": "item",
                   "title": "bma423-pure-mp",
-                  "description": "MicroPython Driver for the Bosch 423 accelerometer. Includes FIFO support. ⏩",
+                  "description": "MicroPython driver for the Bosch 423 accelerometer. Includes FIFO support. ⏩",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12280,7 +12430,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_LIS3DH",
-                  "description": "MicroPython Driver for the LIS3DH 3-axis accelerometer.",
+                  "description": "MicroPython driver for the LIS3DH 3-axis accelerometer.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -12308,7 +12458,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_KX132",
-                  "description": "MicroPython Driver for the Kionix KX132 Accelerometer.",
+                  "description": "MicroPython driver for the Kionix KX132 accelerometer.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -12339,7 +12489,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_QMC5883L",
-                  "description": "MicroPython Driver for the QMC5883L Accelerometer.",
+                  "description": "MicroPython driver for the QMC5883L accelerometer.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -12420,7 +12570,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_ADXL343",
-                  "description": "MicroPython Driver for the Analog Devices ADXL343 Accelerometer.",
+                  "description": "MicroPython driver for the Analog Devices ADXL343 accelerometer.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -12453,7 +12603,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_BMA220",
-                  "description": "MicroPython Driver for the Bosch BMA220 Accelerometer.",
+                  "description": "MicroPython driver for the Bosch BMA220 accelerometer.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -12480,7 +12630,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_BMA400",
-                  "description": "MicroPython Driver for the Bosch BMA400 Accelerometer.",
+                  "description": "MicroPython driver for the Bosch BMA400 accelerometer.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -12512,7 +12662,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_H3LIS200DL",
-                  "description": "MicroPython Driver for the ST H3LIS200DL Accelerometer.",
+                  "description": "MicroPython driver for the ST H3LIS200DL accelerometer.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -12540,7 +12690,7 @@
                 {
                   "node_type": "item",
                   "title": "Micropython_MC3479",
-                  "description": "MicroPython Driver for the MC3479 Accelerometer.",
+                  "description": "MicroPython driver for the MC3479 Accelerometer.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -12568,7 +12718,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_MMA8452Q",
-                  "description": "MicroPython Driver for the NXP MMA8452Q Accelerometer.",
+                  "description": "MicroPython driver for the NXP MMA8452Q Accelerometer.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -12700,7 +12850,7 @@
                 {
                   "node_type": "item",
                   "title": "CCS811",
-                  "description": "CCS811 Air Quality Sensor.",
+                  "description": "Air Quality Sensor CCS811.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -13038,7 +13188,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_DPS310",
-                  "description": "MicroPython Driver for the DPS310 Sensor. (Archived)",
+                  "description": "MicroPython driver for the DPS310 Sensor. (Archived)",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -13125,7 +13275,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_ICP10111",
-                  "description": "MicroPython Driver for the TDK ICP-10111 Barometric Pressure and Temperature sensor. (Archived)",
+                  "description": "MicroPython driver for the TDK ICP-10111 Barometric Pressure and Temperature sensor. (Archived)",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -13184,7 +13334,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_MMR902",
-                  "description": "MicroPython Driver for the Mitsumi MMR902 Micro Pressure Sensor. (Archived)",
+                  "description": "MicroPython driver for the Mitsumi MMR902 Micro Pressure Sensor. (Archived)",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -13246,7 +13396,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_MS5611",
-                  "description": "MicroPython Driver for the TE MS5611 Pressure and Temperature Sensor. (Archived)",
+                  "description": "MicroPython driver for the TE MS5611 Pressure and Temperature Sensor. (Archived)",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -13710,7 +13860,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_ISL29125",
-                  "description": "MicroPython Driver for the Intersil ISL29125 Color Sensor.",
+                  "description": "MicroPython driver for the Intersil ISL29125 color sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -13929,7 +14079,7 @@
                 {
                   "node_type": "item",
                   "title": "INA219",
-                  "description": "INA219 MicroPython driver.",
+                  "description": "MicroPython driver for INA219 current sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -14004,7 +14154,7 @@
                 {
                   "node_type": "item",
                   "title": "GP2Y0A21YK",
-                  "description": "GP2Y0A21YK MicroPython library.",
+                  "description": "MicroPython library for interfacing with the GP2Y0A21YK IR distance sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -14074,7 +14224,7 @@
                 {
                   "node_type": "item",
                   "title": "VL53L0X",
-                  "description": "MicroPython Library for LiDAR Sensor VL53L0X.",
+                  "description": "MicroPython library for LiDAR Sensor VL53L0X.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -14563,7 +14713,7 @@
                 {
                   "node_type": "item",
                   "title": "cs5490_micropython",
-                  "description": "MicroPython Driver for CS5490 Energy Monitor IC.",
+                  "description": "MicroPython driver for CS5490 energy monitor IC.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -14815,7 +14965,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_AGS02MA",
-                  "description": "MicroPython Driver for the AGS02MA TVOC sensor.",
+                  "description": "MicroPython driver for the AGS02MA TVOC sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -14880,7 +15030,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_HTS221",
-                  "description": "MicroPython Driver for the HTS221 Humidity Sensor.",
+                  "description": "MicroPython driver for the HTS221 Humidity Sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -14918,7 +15068,7 @@
                 {
                   "node_type": "item",
                   "title": "bh1750",
-                  "description": "BH1750 I2C digital light sensor driver.",
+                  "description": "MicroPython driver for BH1750 I2C digital light sensor driver.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -15295,7 +15445,7 @@
                 {
                   "node_type": "item",
                   "title": "hx711_mpy-driver",
-                  "description": "MicroPython Driver for the HX711 weighing sensor.",
+                  "description": "MicroPython driver for the HX711 weighing sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -15344,7 +15494,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_MLX90393",
-                  "description": "MicroPython Driver for the MLX90393 Magnetometer.",
+                  "description": "MicroPython driver for the MLX90393 magnetometer.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -15396,7 +15546,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_LIS3MDL",
-                  "description": "MicroPython Driver for the ST LIS3MDL magnetometer.",
+                  "description": "MicroPython driver for the ST LIS3MDL magnetometer.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -15424,7 +15574,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_MMC5603",
-                  "description": "MicroPython driver for the Memsic MMC5603 Magnetometer.",
+                  "description": "MicroPython driver for the Memsic MMC5603 magnetometer.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -15455,7 +15605,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_BMM150",
-                  "description": "MicroPython Driver for the Bosch BMM150 Magnetometer.",
+                  "description": "MicroPython driver for the Bosch BMM150 magnetometer.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -15486,7 +15636,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_LIS2MDL",
-                  "description": "MicroPython Driver for the ST LIS2MDL Magnetometer sensor.",
+                  "description": "MicroPython driver for the ST LIS2MDL magnetometer sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -15517,7 +15667,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_MMC5983",
-                  "description": "MicroPython Library for the Memsic MMC5983 Magnetometer.",
+                  "description": "MicroPython library for the Memsic MMC5983 magnetometer.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -15818,7 +15968,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_ICM20948",
-                  "description": "ARCHIVED. MicroPython Driver for the TDK ICM20948 Accelerometer/Gyro Sensor.",
+                  "description": "ARCHIVED. MicroPython driver for the TDK ICM20948 accelerometer/gyro Sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -15880,7 +16030,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_BMI270",
-                  "description": "ARCHIVED. MicroPython Driver for the Bosch BMI270 Accelerometer/Gyro Sensor.",
+                  "description": "ARCHIVED. MicroPython driver for the Bosch BMI270 accelerometer/gyro sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -16018,7 +16168,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_BMI160",
-                  "description": "ARCHIVED. MicroPython Driver for the Bosch BMI160 Accelerometer/Gyro Sensor.",
+                  "description": "ARCHIVED. MicroPython driver for the Bosch BMI160 accelerometer/gyro sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -16052,7 +16202,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_LSM6DSOX",
-                  "description": "ARCHIVED. MicroPython Library for the ST LSM6DSOX accelerometer/gyro Sensor.",
+                  "description": "ARCHIVED. MicroPython library for the ST LSM6DSOX accelerometer/gyro Sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -16101,7 +16251,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_ICG20660",
-                  "description": "ARCHIVED. MicroPython Driver for the TDK ICG20660 Accelerometer/Gyro sensor.",
+                  "description": "ARCHIVED. MicroPython driver for the TDK ICG20660 accelerometer/gyro sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -16142,7 +16292,7 @@
                 {
                   "node_type": "item",
                   "title": "apds9960",
-                  "description": "MicroPython Driver for the APDS9960, with simple gesture detection.",
+                  "description": "MicroPython driver for the APDS9960, with simple gesture detection.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -16184,7 +16334,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_VCNL4010",
-                  "description": "MicroPython Driver for the Vishay VCNL4010 Proximity and Ambient Light Sensor.",
+                  "description": "MicroPython driver for the Vishay VCNL4010 proximity and ambient light sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -16300,7 +16450,7 @@
                 {
                   "node_type": "item",
                   "title": "micropython-chirp",
-                  "description": "Driver for the Chirp Soil Moisture Sensor.",
+                  "description": "Driver for the Chirp soil moisture sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -16528,7 +16678,7 @@
                     "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2868,
+                    "stars": 2867,
                     "topics": [
                       "micropython"
                     ]
@@ -16547,7 +16697,7 @@
                     "id": 75714033,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-26T15:00:54Z",
+                    "last_commit": "2026-11-04T17:48:13Z",
                     "open_issues": 4,
                     "owner": "peterhinch",
                     "repo": "micropython-async",
@@ -16747,7 +16897,7 @@
                 {
                   "node_type": "item",
                   "title": "micropython-si7021",
-                  "description": "SI7021 Temperature and humidity sensor, I2C interface.",
+                  "description": "SI7021 temperature and humidity sensor, I2C interface.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -16768,7 +16918,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_SHT4X",
-                  "description": "MicroPython Driver for the Sensirion Temperature and Humidity SHT40 and SHT45 Sensor.",
+                  "description": "MicroPython driver for the Sensirion temperature and humidity SHT40 and SHT45 sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -16999,7 +17149,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_SHTC3",
-                  "description": "MicroPython Driver for the Sensirion SHTC3 Temperature and Humidity Sensor.",
+                  "description": "MicroPython driver for the Sensirion SHTC3 temperature and humidity sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -17139,7 +17289,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_TMP117",
-                  "description": "MicroPython Driver for the TMP117 Temperature Sensor.",
+                  "description": "MicroPython driver for the TMP117 temperature sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -17265,7 +17415,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_SHT20",
-                  "description": "MicroPython Driver for the Sensirion SHT20 Temperature Sensor.",
+                  "description": "MicroPython driver for the Sensirion SHT20 temperature sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -17297,7 +17447,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_MCP9808",
-                  "description": "MicroPython Driver for the Microchip MCP9808 Temperature Sensor.",
+                  "description": "MicroPython driver for the Microchip MCP9808 temperature sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -17328,7 +17478,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_HDC1080",
-                  "description": "MicroPython driver for the TI HDC1080 Temperature and Humidity sensor.",
+                  "description": "MicroPython driver for the TI HDC1080 temperature and humidity sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -17387,7 +17537,7 @@
                 {
                   "node_type": "item",
                   "title": "micropython-si7021",
-                  "description": "SI7021 Temperature and humidity sensor, I2C interface.",
+                  "description": "SI7021 temperature and humidity sensor, I2C interface.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -17477,7 +17627,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_SI7021",
-                  "description": "MicroPython Library for the Temperature and Humidity SI7021 Sensor.",
+                  "description": "MicroPython library for the temperature and humidity SI7021 sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -17508,7 +17658,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_ADT7410",
-                  "description": "MicroPython Driver for the Analog Devices ADT7410 Temperature Sensor.",
+                  "description": "MicroPython driver for the Analog Devices ADT7410 temperature sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -17539,7 +17689,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_WSENTIDS",
-                  "description": "MicroPython library for the WSEN WSEN-TIDS temperature Sensor.",
+                  "description": "MicroPython library for the WSEN WSEN-TIDS temperature sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -17570,7 +17720,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_HS3003",
-                  "description": "MicroPython Driver for the Renesas HS3003 Temperature and Humidity Sensor.",
+                  "description": "MicroPython driver for the Renesas HS3003 temperature and humidity sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -17602,7 +17752,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_STTS22H",
-                  "description": "MicroPython Driver for the STTS22H Temperature Sensor.",
+                  "description": "MicroPython driver for the STTS22H temperature sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -17632,7 +17782,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_HTU21DF",
-                  "description": "MicroPython HTU21D-F Temperature & Humidity driver.",
+                  "description": "MicroPython HTU21D-F temperature & humidity driver.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -17659,7 +17809,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_AS6212",
-                  "description": "MicroPython Library for the ASM AS6212 Temperature Sensor.",
+                  "description": "MicroPython library for the ASM AS6212 temperature sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -17690,7 +17840,7 @@
                 {
                   "node_type": "item",
                   "title": "MicroPython_PCT2075",
-                  "description": "MicroPython Driver for the NXP Semiconductors PCT2075 Temperature Sensor.",
+                  "description": "MicroPython driver for the NXP Semiconductors PCT2075 temperature sensor.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -18035,7 +18185,7 @@
                 "id": 75714033,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-26T15:00:54Z",
+                "last_commit": "2026-11-04T17:48:13Z",
                 "open_issues": 4,
                 "owner": "peterhinch",
                 "repo": "micropython-async",
@@ -18247,7 +18397,7 @@
                 {
                   "node_type": "item",
                   "title": "uPyMySQL",
-                  "description": "Pure MicroPython MySQL Client.",
+                  "description": "Pure MicroPython MySQL client.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -18424,6 +18574,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "ownSQL",
+                  "description": "A MySQL database driver for MicroPython, supporting MySQL Server 8.x and 9.x.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A MySQL database driver for MicroPython, supporting MySQL Server 8.x and 9.x.",
+                    "homepage": null,
+                    "id": 1416990999,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-13T13:38:41Z",
+                    "open_issues": 0,
+                    "owner": "TimonW-Dev",
+                    "repo": "ownSQL",
+                    "stars": 2,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-04T21:21:13.965Z"
                 },
                 {
                   "node_type": "item",
@@ -18831,7 +19002,7 @@
             {
               "node_type": "item",
               "title": "upymenu",
-              "description": "MicroPython Menu for LCD Displays.",
+              "description": "MicroPython menu for LCD displays.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -18959,7 +19130,7 @@
             "open_issues": 0,
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1551,
+            "stars": 1556,
             "topics": [
               "100daysofcode",
               "adafruit",
@@ -18996,7 +19167,7 @@
             "id": 75714033,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-26T15:00:54Z",
+            "last_commit": "2026-11-04T17:48:13Z",
             "open_issues": 4,
             "owner": "peterhinch",
             "repo": "micropython-async",
@@ -19021,7 +19192,7 @@
             "id": 75714033,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-26T15:00:54Z",
+            "last_commit": "2026-11-04T17:48:13Z",
             "open_issues": 4,
             "owner": "peterhinch",
             "repo": "micropython-async",
@@ -19226,6 +19397,44 @@
         },
         {
           "node_type": "item",
+          "title": "OreoOS",
+          "description": "Operating system for an open-hardware ESP32-S3 conference badge, with an app SDK, on-device app store, OTA updates and native video playback.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source MicroPython OS and hardware platform for an ESP32-S3 smart badge, featuring apps, OTA updates, device drivers, KiCad hardware, and the RV565 DMA-aware RGB565 video pipeline.",
+            "homepage": "https://oreo.elixpo.com",
+            "id": 1236345182,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-04T18:10:47Z",
+            "open_issues": 10,
+            "owner": "elixpo",
+            "repo": "oreo",
+            "stars": 10,
+            "topics": [
+              "conference-badge",
+              "dma",
+              "embedded-systems",
+              "esp32-s3",
+              "firmware",
+              "firmware-development",
+              "kicad",
+              "micropython",
+              "open-hardware",
+              "operating-system",
+              "ota-updates",
+              "research",
+              "rgb565",
+              "st7789",
+              "video-playback",
+              "wearable"
+            ]
+          },
+          "first_seen": "2026-11-04T21:21:13.965Z"
+        },
+        {
+          "node_type": "item",
           "title": "public-micropython-iot-platform",
           "description": "Project Fred MicroPython IOT Platform, code to control relays, temp sensors, buttons, touchscreen, GPS etc. Has a responsive Web UI, MQTT, Home Assistant and ThingsBoard support.",
           "children": [],
@@ -19244,6 +19453,40 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:05.246Z"
+        },
+        {
+          "node_type": "item",
+          "title": "openbricks",
+          "description": "Pybricks-style robotics firmware for ESP32: 1 kHz native drivebase control, serial bus servos, IMU gyro heading, line sensors, plus a MuJoCo simulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Pybricks-style MicroPython robot firmware for commodity ESP32 hardware — serial-bus motors, 1 kHz gyro DriveBase, BLE CLI, and a MuJoCo simulator with WRO mats",
+            "homepage": "https://openbricks.dev",
+            "id": 1215672612,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-30T11:25:58Z",
+            "open_issues": 3,
+            "owner": "1e0ng",
+            "repo": "openbricks",
+            "stars": 7,
+            "topics": [
+              "esp32",
+              "esp32-s3",
+              "firmware",
+              "fll",
+              "micropython",
+              "mujoco",
+              "pybricks",
+              "robot-framework",
+              "robotics",
+              "simulator",
+              "stem-education",
+              "wro"
+            ]
+          },
+          "first_seen": "2026-11-04T21:21:13.965Z"
         }
       ],
       "title": "Frameworks"
@@ -19264,10 +19507,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-11-03T03:35:46Z",
-            "open_issues": 1558,
+            "open_issues": 1580,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22179,
+            "stars": 22180,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19290,10 +19533,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-11-03T03:35:46Z",
-            "open_issues": 1558,
+            "open_issues": 1580,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22179,
+            "stars": 22180,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19383,8 +19626,8 @@
                 "id": 304969957,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-03T03:10:37Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-04T16:40:57Z",
+                "open_issues": 20,
                 "owner": "Josverl",
                 "repo": "micropython-stubs",
                 "stars": 321,
@@ -19579,7 +19822,7 @@
             {
               "node_type": "item",
               "title": "esp32-backtrace",
-              "description": "ESP32 Exception Stack Backtrace Analyzer.",
+              "description": "ESP32 exception stack backtrace analyzer.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -19727,27 +19970,6 @@
             },
             {
               "node_type": "item",
-              "title": "pye",
-              "description": "On device editor.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Small on-board editor for PyBoard, WiPy, ESP8266, ESP32, RP2040, W60x, XBEE 3, Sipeed K210, as well as PyCom and Adafruit devices written in Python",
-                "homepage": null,
-                "id": 36034940,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-07-19T18:55:13Z",
-                "open_issues": 3,
-                "owner": "robert-hh",
-                "repo": "Micropython-Editor",
-                "stars": 254,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:02:05.246Z"
-            },
-            {
-              "node_type": "item",
               "title": "uPIDE",
               "description": "µPIDE is a simple IDE for MicroPython.",
               "children": [],
@@ -19775,7 +19997,7 @@
             {
               "node_type": "item",
               "title": "Pyboard File Manager",
-              "description": "Pyboard File Manager: Windows GUI for Pyboard.py compatible devices.",
+              "description": "Windows GUI for Pyboard.py compatible devices.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -19824,7 +20046,7 @@
             {
               "node_type": "item",
               "title": "scd30logger",
-              "description": "Sensirion SCD30 based CO2, Humidity and Temperature Logger for MicroPython.",
+              "description": "Sensirion SCD30 based CO2, humidity and temperature logger for MicroPython.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -19845,7 +20067,7 @@
             {
               "node_type": "item",
               "title": "sht15logger",
-              "description": "MicroPython Temperature and Humidity Logger using Sensirion SHT15.",
+              "description": "MicroPython temperature and humidity logger using Sensirion SHT15.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -20023,10 +20245,10 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-03T03:35:46Z",
-                    "open_issues": 1558,
+                    "open_issues": 1580,
                     "owner": "micropython",
                     "repo": "micropython",
-                    "stars": 22179,
+                    "stars": 22180,
                     "topics": [
                       "embedded",
                       "microcontroller",
@@ -20242,7 +20464,7 @@
             {
               "node_type": "item",
               "title": "belay",
-              "description": "Belay is a Python library that enables the rapid development of projects that interact with hardware via a MicroPython-compatible board.",
+              "description": "A Python library that enables the rapid development of projects that interact with hardware via a MicroPython-compatible board.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -20313,6 +20535,48 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:05.246Z"
+            },
+            {
+              "node_type": "item",
+              "title": "thonny-ai",
+              "description": "Thonny plugin and MCP server that lets AI assistants run code, monitor long-running programs and sync projects on MicroPython boards, visibly and with optional approval.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MCP server + Thonny plugin: let Claude Code or any AI agent program Raspberry Pi Pico & ESP32 in MicroPython. Visible in the shell, approvable, auto-reconnect.",
+                "homepage": null,
+                "id": 1383599040,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-23T14:54:08Z",
+                "open_issues": 7,
+                "owner": "AstroQuestStudio",
+                "repo": "thonny-ai",
+                "stars": 0,
+                "topics": [
+                  "ai",
+                  "ai-agents",
+                  "claude",
+                  "claude-code",
+                  "claude-desktop",
+                  "cursor",
+                  "education",
+                  "embedded",
+                  "esp32",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "micropython",
+                  "model-context-protocol",
+                  "pico-w",
+                  "raspberry-pi-pico",
+                  "robotics",
+                  "rp2040",
+                  "thonny",
+                  "thonny-plugin"
+                ]
+              },
+              "first_seen": "2026-11-04T21:21:13.965Z"
             }
           ],
           "description": null,
@@ -20324,7 +20588,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T21:03:54.137Z",
+    "last_updated": "2026-11-04T21:21:13.965Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
@@ -20332,8 +20596,8 @@
       "id": 123274703,
       "language": "HTML",
       "license": "CC0-1.0",
-      "last_commit": "2026-07-20T04:42:59Z",
-      "open_issues": 15,
+      "last_commit": "2026-11-04T02:55:40Z",
+      "open_issues": 6,
       "owner": "mcauser",
       "repo": "awesome-micropython",
       "stars": 1817,
@@ -20344,7 +20608,7 @@
         "micropython"
       ]
     },
-    "original_repository_sha": "d81badbfbe9a83124ab35ef865a16cdd6a41c1c2",
+    "original_repository_sha": "82c805b6e8274fc307f7bebbcc78389114003cfa",
     "enhanced_repository": "enhansome/enhansome-micropython",
     "enhanced_repository_description": null,
     "title": "Awesome micropython with stars"
