@@ -388,7 +388,7 @@
                 "id": 547209317,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-31T14:55:23Z",
+                "last_commit": "2026-11-06T15:54:42Z",
                 "open_issues": 3,
                 "owner": "QuirkyCort",
                 "repo": "IoTy",
@@ -409,7 +409,7 @@
                 "id": 547209317,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-31T14:55:23Z",
+                "last_commit": "2026-11-06T15:54:42Z",
                 "open_issues": 3,
                 "owner": "QuirkyCort",
                 "repo": "IoTy",
@@ -1269,11 +1269,11 @@
                     "id": 628000508,
                     "language": "C",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-05T16:22:29Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-11-06T12:24:53Z",
+                    "open_issues": 9,
                     "owner": "BrianPugh",
                     "repo": "tamp",
-                    "stars": 77,
+                    "stars": 78,
                     "topics": [
                       "c",
                       "compression",
@@ -2162,7 +2162,7 @@
                     "open_issues": 4,
                     "owner": "peterhinch",
                     "repo": "micropython-async",
-                    "stars": 834,
+                    "stars": 833,
                     "topics": [
                       "asyncio",
                       "embedded",
@@ -4168,7 +4168,7 @@
                     "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2867,
+                    "stars": 2865,
                     "topics": [
                       "micropython"
                     ]
@@ -4375,7 +4375,7 @@
                     "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2867,
+                    "stars": 2865,
                     "topics": [
                       "micropython"
                     ]
@@ -4775,7 +4775,7 @@
                     "open_issues": 21,
                     "owner": "wendlers",
                     "repo": "micropython-mfrc522",
-                    "stars": 191,
+                    "stars": 190,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -5219,7 +5219,7 @@
                     "open_issues": 4,
                     "owner": "peterhinch",
                     "repo": "micropython-async",
-                    "stars": 834,
+                    "stars": 833,
                     "topics": [
                       "asyncio",
                       "embedded",
@@ -5936,7 +5936,7 @@
                     "open_issues": 15,
                     "owner": "danni",
                     "repo": "uwebsockets",
-                    "stars": 218,
+                    "stars": 219,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -7914,7 +7914,7 @@
                     "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2867,
+                    "stars": 2865,
                     "topics": [
                       "micropython"
                     ]
@@ -8168,7 +8168,7 @@
                     "open_issues": 4,
                     "owner": "rdagger",
                     "repo": "micropython-ili9341",
-                    "stars": 309,
+                    "stars": 310,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -9584,7 +9584,7 @@
                     "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2867,
+                    "stars": 2865,
                     "topics": [
                       "micropython"
                     ]
@@ -10794,7 +10794,7 @@
                     "id": 547209317,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-31T14:55:23Z",
+                    "last_commit": "2026-11-06T15:54:42Z",
                     "open_issues": 3,
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
@@ -11017,7 +11017,7 @@
                     "open_issues": 4,
                     "owner": "peterhinch",
                     "repo": "micropython-async",
-                    "stars": 834,
+                    "stars": 833,
                     "topics": [
                       "asyncio",
                       "embedded",
@@ -13527,7 +13527,7 @@
                     "id": 547209317,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-31T14:55:23Z",
+                    "last_commit": "2026-11-06T15:54:42Z",
                     "open_issues": 3,
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
@@ -13681,7 +13681,7 @@
                     "id": 547209317,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-31T14:55:23Z",
+                    "last_commit": "2026-11-06T15:54:42Z",
                     "open_issues": 3,
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
@@ -13702,7 +13702,7 @@
                     "id": 547209317,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-31T14:55:23Z",
+                    "last_commit": "2026-11-06T15:54:42Z",
                     "open_issues": 3,
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
@@ -14301,7 +14301,7 @@
                     "id": 547209317,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-31T14:55:23Z",
+                    "last_commit": "2026-11-06T15:54:42Z",
                     "open_issues": 3,
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
@@ -14322,7 +14322,7 @@
                     "id": 547209317,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-31T14:55:23Z",
+                    "last_commit": "2026-11-06T15:54:42Z",
                     "open_issues": 3,
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
@@ -14343,7 +14343,7 @@
                     "id": 547209317,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-31T14:55:23Z",
+                    "last_commit": "2026-11-06T15:54:42Z",
                     "open_issues": 3,
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
@@ -14364,7 +14364,7 @@
                     "id": 547209317,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-31T14:55:23Z",
+                    "last_commit": "2026-11-06T15:54:42Z",
                     "open_issues": 3,
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
@@ -15011,7 +15011,7 @@
                     "id": 547209317,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-31T14:55:23Z",
+                    "last_commit": "2026-11-06T15:54:42Z",
                     "open_issues": 3,
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
@@ -15433,7 +15433,7 @@
                     "id": 547209317,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-31T14:55:23Z",
+                    "last_commit": "2026-11-06T15:54:42Z",
                     "open_issues": 3,
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
@@ -16301,7 +16301,7 @@
                     "id": 547209317,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-31T14:55:23Z",
+                    "last_commit": "2026-11-06T15:54:42Z",
                     "open_issues": 3,
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
@@ -16678,7 +16678,7 @@
                     "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2867,
+                    "stars": 2865,
                     "topics": [
                       "micropython"
                     ]
@@ -16701,7 +16701,7 @@
                     "open_issues": 4,
                     "owner": "peterhinch",
                     "repo": "micropython-async",
-                    "stars": 834,
+                    "stars": 833,
                     "topics": [
                       "asyncio",
                       "embedded",
@@ -18189,7 +18189,7 @@
                 "open_issues": 4,
                 "owner": "peterhinch",
                 "repo": "micropython-async",
-                "stars": 834,
+                "stars": 833,
                 "topics": [
                   "asyncio",
                   "embedded",
@@ -19130,7 +19130,7 @@
             "open_issues": 0,
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1560,
+            "stars": 1565,
             "topics": [
               "100daysofcode",
               "adafruit",
@@ -19171,7 +19171,7 @@
             "open_issues": 4,
             "owner": "peterhinch",
             "repo": "micropython-async",
-            "stars": 834,
+            "stars": 833,
             "topics": [
               "asyncio",
               "embedded",
@@ -19196,7 +19196,7 @@
             "open_issues": 4,
             "owner": "peterhinch",
             "repo": "micropython-async",
-            "stars": 834,
+            "stars": 833,
             "topics": [
               "asyncio",
               "embedded",
@@ -19303,7 +19303,7 @@
             "open_issues": 0,
             "owner": "BxNxM",
             "repo": "micrOS",
-            "stars": 138,
+            "stars": 139,
             "topics": [
               "asyncio",
               "diy",
@@ -19381,7 +19381,7 @@
             "id": 1236345182,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-04T18:10:47Z",
+            "last_commit": "2026-11-06T18:37:40Z",
             "open_issues": 10,
             "owner": "elixpo",
             "repo": "oreo",
@@ -19506,8 +19506,8 @@
             "id": 15337142,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T03:35:46Z",
-            "open_issues": 1583,
+            "last_commit": "2026-11-06T12:22:36Z",
+            "open_issues": 1574,
             "owner": "micropython",
             "repo": "micropython",
             "stars": 22180,
@@ -19532,8 +19532,8 @@
             "id": 15337142,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T03:35:46Z",
-            "open_issues": 1583,
+            "last_commit": "2026-11-06T12:22:36Z",
+            "open_issues": 1574,
             "owner": "micropython",
             "repo": "micropython",
             "stars": 22180,
@@ -19626,7 +19626,7 @@
                 "id": 304969957,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-05T01:54:28Z",
+                "last_commit": "2026-11-06T01:59:12Z",
                 "open_issues": 20,
                 "owner": "Josverl",
                 "repo": "micropython-stubs",
@@ -19662,7 +19662,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-27T00:12:51Z",
-                "open_issues": 7,
+                "open_issues": 9,
                 "owner": "Josverl",
                 "repo": "micropython-stubber",
                 "stars": 255,
@@ -20244,8 +20244,8 @@
                     "id": 15337142,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-03T03:35:46Z",
-                    "open_issues": 1583,
+                    "last_commit": "2026-11-06T12:22:36Z",
+                    "open_issues": 1574,
                     "owner": "micropython",
                     "repo": "micropython",
                     "stars": 22180,
@@ -20588,7 +20588,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:29:14.610Z",
+    "last_updated": "2026-11-06T20:56:19.902Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
@@ -20597,10 +20597,10 @@
       "language": "HTML",
       "license": "CC0-1.0",
       "last_commit": "2026-11-04T02:55:40Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "mcauser",
       "repo": "awesome-micropython",
-      "stars": 1817,
+      "stars": 1816,
       "topics": [
         "awesome",
         "awesome-list",
