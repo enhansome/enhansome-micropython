@@ -1269,8 +1269,8 @@
                     "id": 628000508,
                     "language": "C",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-08T13:02:19Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-11-09T20:02:01Z",
+                    "open_issues": 2,
                     "owner": "BrianPugh",
                     "repo": "tamp",
                     "stars": 78,
@@ -3106,6 +3106,42 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "EByte_LoRa_E22_micropython_library",
+                  "description": "MicroPython LoRa EBYTE E22 devices.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "MicroPython LoRa EBYTE E22 device library complete and tested with Arduino SAMD, esp8266, esp32, Raspberry, rp2040 and STM32. sx1262/sx1268",
+                    "homepage": "https://www.mischianti.org/category/my-libraries/ebyte-lora-e22-devices/",
+                    "id": 617682731,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2025-02-23T20:56:49Z",
+                    "open_issues": 0,
+                    "owner": "xreef",
+                    "repo": "EByte_LoRa_E22_micropython_library",
+                    "stars": 14,
+                    "topics": [
+                      "arduino",
+                      "e22",
+                      "ebyte",
+                      "esp32",
+                      "esp8266",
+                      "lora",
+                      "micropython",
+                      "raspberry-pi-pico",
+                      "rp2040",
+                      "samd",
+                      "stm32",
+                      "sx1262",
+                      "sx1268",
+                      "uart"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:02:05.246Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "loraE22",
                   "description": "A MicroPython class for the Ebyte E22 Series LoRa modules.",
                   "children": [],
@@ -3125,42 +3161,6 @@
                       "gps",
                       "lora",
                       "micropython"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T00:02:05.246Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "EByte_LoRa_E22_micropython_library",
-                  "description": "MicroPython LoRa EBYTE E22 devices.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "MicroPython LoRa EBYTE E22 device library complete and tested with Arduino SAMD, esp8266, esp32, Raspberry, rp2040 and STM32. sx1262/sx1268",
-                    "homepage": "https://www.mischianti.org/category/my-libraries/ebyte-lora-e22-devices/",
-                    "id": 617682731,
-                    "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2025-02-23T20:56:49Z",
-                    "open_issues": 0,
-                    "owner": "xreef",
-                    "repo": "EByte_LoRa_E22_micropython_library",
-                    "stars": 13,
-                    "topics": [
-                      "arduino",
-                      "e22",
-                      "ebyte",
-                      "esp32",
-                      "esp8266",
-                      "lora",
-                      "micropython",
-                      "raspberry-pi-pico",
-                      "rp2040",
-                      "samd",
-                      "stm32",
-                      "sx1262",
-                      "sx1268",
-                      "uart"
                     ]
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -4168,7 +4168,7 @@
                     "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2865,
+                    "stars": 2867,
                     "topics": [
                       "micropython"
                     ]
@@ -4375,7 +4375,7 @@
                     "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2865,
+                    "stars": 2867,
                     "topics": [
                       "micropython"
                     ]
@@ -5388,7 +5388,7 @@
                     "open_issues": 0,
                     "owner": "Tangerino",
                     "repo": "micropython-msgpackc",
-                    "stars": 2,
+                    "stars": 3,
                     "topics": [
                       "binary-serialization",
                       "c",
@@ -5820,7 +5820,7 @@
                     "open_issues": 55,
                     "owner": "jczic",
                     "repo": "MicroWebSrv2",
-                    "stars": 721,
+                    "stars": 722,
                     "topics": [
                       "async",
                       "asynchronous",
@@ -7402,7 +7402,7 @@
                     "open_issues": 3,
                     "owner": "peterhinch",
                     "repo": "micropython-nano-gui",
-                    "stars": 669,
+                    "stars": 670,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -7449,7 +7449,7 @@
                     "open_issues": 12,
                     "owner": "peterhinch",
                     "repo": "micropython-micro-gui",
-                    "stars": 352,
+                    "stars": 353,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -7914,7 +7914,7 @@
                     "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2865,
+                    "stars": 2867,
                     "topics": [
                       "micropython"
                     ]
@@ -8127,7 +8127,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-25T01:34:37Z",
-                    "open_issues": 37,
+                    "open_issues": 36,
                     "owner": "russhughes",
                     "repo": "st7789_mpy",
                     "stars": 730,
@@ -9584,7 +9584,7 @@
                     "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2865,
+                    "stars": 2867,
                     "topics": [
                       "micropython"
                     ]
@@ -9607,7 +9607,7 @@
                     "open_issues": 4,
                     "owner": "robert-hh",
                     "repo": "SH1106",
-                    "stars": 254,
+                    "stars": 253,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -9649,7 +9649,7 @@
                     "open_issues": 3,
                     "owner": "rdagger",
                     "repo": "micropython-ssd1309",
-                    "stars": 56,
+                    "stars": 55,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -16678,7 +16678,7 @@
                     "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2865,
+                    "stars": 2867,
                     "topics": [
                       "micropython"
                     ]
@@ -19130,7 +19130,7 @@
             "open_issues": 0,
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1568,
+            "stars": 1574,
             "topics": [
               "100daysofcode",
               "adafruit",
@@ -19507,10 +19507,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-11-08T12:20:57Z",
-            "open_issues": 1579,
+            "open_issues": 1587,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22180,
+            "stars": 22183,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19533,10 +19533,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-11-08T12:20:57Z",
-            "open_issues": 1579,
+            "open_issues": 1587,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22180,
+            "stars": 22183,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19592,7 +19592,7 @@
                 "id": 187111878,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-07T15:15:26Z",
+                "last_commit": "2026-11-09T18:16:04Z",
                 "open_issues": 57,
                 "owner": "BradenM",
                 "repo": "micropy-cli",
@@ -19626,7 +19626,7 @@
                 "id": 304969957,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-08T10:52:49Z",
+                "last_commit": "2026-11-09T01:19:31Z",
                 "open_issues": 20,
                 "owner": "Josverl",
                 "repo": "micropython-stubs",
@@ -19942,7 +19942,7 @@
                 "open_issues": 33,
                 "owner": "jczic",
                 "repo": "ESP32-MPY-Jama",
-                "stars": 502,
+                "stars": 501,
                 "topics": [
                   "app",
                   "boot",
@@ -20245,10 +20245,10 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-08T12:20:57Z",
-                    "open_issues": 1579,
+                    "open_issues": 1587,
                     "owner": "micropython",
                     "repo": "micropython",
-                    "stars": 22180,
+                    "stars": 22183,
                     "topics": [
                       "embedded",
                       "microcontroller",
@@ -20588,7 +20588,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T19:44:36.389Z",
+    "last_updated": "2026-11-09T23:47:32.382Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
