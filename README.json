@@ -1380,7 +1380,7 @@
                     "id": 235800674,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-13T20:36:18Z",
+                    "last_commit": "2026-11-14T13:08:24Z",
                     "open_issues": 89,
                     "owner": "diybitcoinhardware",
                     "repo": "embit",
@@ -7011,7 +7011,7 @@
                     "open_issues": 3,
                     "owner": "antirez",
                     "repo": "microfont",
-                    "stars": 74,
+                    "stars": 75,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -8213,7 +8213,7 @@
                     "open_issues": 16,
                     "owner": "russhughes",
                     "repo": "st7789py_mpy",
-                    "stars": 252,
+                    "stars": 253,
                     "topics": [
                       "bitmap-fonts",
                       "driver",
@@ -8314,7 +8314,7 @@
                     "open_issues": 11,
                     "owner": "russhughes",
                     "repo": "s3lcd",
-                    "stars": 113,
+                    "stars": 112,
                     "topics": [
                       "display-driver",
                       "esp-lcd",
@@ -11526,7 +11526,7 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-09-27T15:38:29Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "v923z",
                 "repo": "micropython-ulab",
                 "stars": 503,
@@ -19130,7 +19130,7 @@
             "open_issues": 0,
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1581,
+            "stars": 1583,
             "topics": [
               "100daysofcode",
               "adafruit",
@@ -19508,10 +19508,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-11-12T12:22:11Z",
-            "open_issues": 1601,
+            "open_issues": 1605,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22195,
+            "stars": 22198,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19534,10 +19534,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-11-12T12:22:11Z",
-            "open_issues": 1601,
+            "open_issues": 1605,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22195,
+            "stars": 22198,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19943,7 +19943,7 @@
                 "open_issues": 33,
                 "owner": "jczic",
                 "repo": "ESP32-MPY-Jama",
-                "stars": 502,
+                "stars": 503,
                 "topics": [
                   "app",
                   "boot",
@@ -20246,10 +20246,10 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-12T12:22:11Z",
-                    "open_issues": 1601,
+                    "open_issues": 1605,
                     "owner": "micropython",
                     "repo": "micropython",
-                    "stars": 22195,
+                    "stars": 22198,
                     "topics": [
                       "embedded",
                       "microcontroller",
@@ -20589,7 +20589,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T21:27:09.128Z",
+    "last_updated": "2026-11-14T19:57:39.294Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
