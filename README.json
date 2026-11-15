@@ -59,7 +59,7 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-07-30T19:15:30Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "emlearn",
                 "repo": "emlearn-micropython",
                 "stars": 169,
@@ -1037,6 +1037,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "BTHome-MicroPython",
+                  "description": "MicroPython module to format sensor readings for BTHome BLE advertising payloads.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "MicroPython module to format sensor readings for BTHome BLE advertising payloads",
+                    "homepage": null,
+                    "id": 953647213,
+                    "language": "Python",
+                    "license": "BSD-2-Clause",
+                    "last_commit": "2026-07-30T21:33:42Z",
+                    "open_issues": 6,
+                    "owner": "DavesCodeMusings",
+                    "repo": "BTHome-MicroPython",
+                    "stars": 23,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:02:05.246Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "upyble",
                   "description": "Command line tool for Bluetooth Low Energy MicroPython devices.",
                   "children": [],
@@ -1063,27 +1084,6 @@
                       "shell",
                       "terminal"
                     ]
-                  },
-                  "first_seen": "2026-08-29T00:02:05.246Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "BTHome-MicroPython",
-                  "description": "MicroPython module to format sensor readings for BTHome BLE advertising payloads.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "MicroPython module to format sensor readings for BTHome BLE advertising payloads",
-                    "homepage": null,
-                    "id": 953647213,
-                    "language": "Python",
-                    "license": "BSD-2-Clause",
-                    "last_commit": "2026-07-30T21:33:42Z",
-                    "open_issues": 6,
-                    "owner": "DavesCodeMusings",
-                    "repo": "BTHome-MicroPython",
-                    "stars": 22,
-                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
                 },
@@ -1273,7 +1273,7 @@
                     "open_issues": 2,
                     "owner": "BrianPugh",
                     "repo": "tamp",
-                    "stars": 78,
+                    "stars": 79,
                     "topics": [
                       "c",
                       "compression",
@@ -1384,7 +1384,7 @@
                     "open_issues": 89,
                     "owner": "diybitcoinhardware",
                     "repo": "embit",
-                    "stars": 120,
+                    "stars": 121,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -4168,7 +4168,7 @@
                     "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2866,
+                    "stars": 2867,
                     "topics": [
                       "micropython"
                     ]
@@ -4375,7 +4375,7 @@
                     "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2866,
+                    "stars": 2867,
                     "topics": [
                       "micropython"
                     ]
@@ -5789,7 +5789,7 @@
                     "id": 176615332,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-19T11:20:06Z",
+                    "last_commit": "2026-11-15T18:43:44Z",
                     "open_issues": 0,
                     "owner": "miguelgrinberg",
                     "repo": "microdot",
@@ -7914,7 +7914,7 @@
                     "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2866,
+                    "stars": 2867,
                     "topics": [
                       "micropython"
                     ]
@@ -8189,7 +8189,7 @@
                     "open_issues": 10,
                     "owner": "boochow",
                     "repo": "MicroPython-ST7735",
-                    "stars": 277,
+                    "stars": 278,
                     "topics": [
                       "micropython",
                       "micropython-esp32"
@@ -9584,7 +9584,7 @@
                     "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2866,
+                    "stars": 2867,
                     "topics": [
                       "micropython"
                     ]
@@ -9607,7 +9607,7 @@
                     "open_issues": 4,
                     "owner": "robert-hh",
                     "repo": "SH1106",
-                    "stars": 253,
+                    "stars": 254,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -13017,7 +13017,7 @@
                     "id": 889204892,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-09T16:59:13Z",
+                    "last_commit": "2026-11-15T00:18:15Z",
                     "open_issues": 0,
                     "owner": "bradcar",
                     "repo": "MicroPython_BMPxxx",
@@ -16678,7 +16678,7 @@
                     "open_issues": 231,
                     "owner": "micropython",
                     "repo": "micropython-lib",
-                    "stars": 2866,
+                    "stars": 2867,
                     "topics": [
                       "micropython"
                     ]
@@ -18277,7 +18277,7 @@
                 "open_issues": 0,
                 "owner": "lorcap",
                 "repo": "micropython-suntime",
-                "stars": 1,
+                "stars": 2,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:05.246Z"
@@ -19130,7 +19130,7 @@
             "open_issues": 0,
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1583,
+            "stars": 1585,
             "topics": [
               "100daysofcode",
               "adafruit",
@@ -19381,8 +19381,8 @@
             "id": 1236345182,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-13T14:20:21Z",
-            "open_issues": 33,
+            "last_commit": "2026-11-15T20:18:08Z",
+            "open_issues": 31,
             "owner": "elixpo",
             "repo": "oreo",
             "stars": 12,
@@ -19507,11 +19507,11 @@
             "id": 15337142,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T12:22:11Z",
-            "open_issues": 1605,
+            "last_commit": "2026-11-15T13:11:20Z",
+            "open_issues": 1610,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22198,
+            "stars": 22203,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19533,11 +19533,11 @@
             "id": 15337142,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T12:22:11Z",
-            "open_issues": 1605,
+            "last_commit": "2026-11-15T13:11:20Z",
+            "open_issues": 1610,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22198,
+            "stars": 22203,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19627,7 +19627,7 @@
                 "id": 304969957,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-13T02:18:05Z",
+                "last_commit": "2026-11-15T11:39:35Z",
                 "open_issues": 20,
                 "owner": "Josverl",
                 "repo": "micropython-stubs",
@@ -20245,11 +20245,11 @@
                     "id": 15337142,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-12T12:22:11Z",
-                    "open_issues": 1605,
+                    "last_commit": "2026-11-15T13:11:20Z",
+                    "open_issues": 1610,
                     "owner": "micropython",
                     "repo": "micropython",
-                    "stars": 22198,
+                    "stars": 22203,
                     "topics": [
                       "embedded",
                       "microcontroller",
@@ -20275,7 +20275,7 @@
                     "open_issues": 132,
                     "owner": "dhylands",
                     "repo": "rshell",
-                    "stars": 1038,
+                    "stars": 1039,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -20317,7 +20317,7 @@
                     "open_issues": 24,
                     "owner": "wendlers",
                     "repo": "mpfshell",
-                    "stars": 419,
+                    "stars": 420,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -20589,7 +20589,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:57:39.294Z",
+    "last_updated": "2026-11-15T20:25:40.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
@@ -20601,7 +20601,7 @@
       "open_issues": 8,
       "owner": "mcauser",
       "repo": "awesome-micropython",
-      "stars": 1815,
+      "stars": 1816,
       "topics": [
         "awesome",
         "awesome-list",
