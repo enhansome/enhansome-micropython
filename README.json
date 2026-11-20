@@ -342,6 +342,48 @@
             },
             {
               "node_type": "item",
+              "title": "yx5300",
+              "description": "MP3 player that can be controlled via a serial interface.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Internet-of-Things made easy",
+                "homepage": null,
+                "id": 547209317,
+                "language": "JavaScript",
+                "license": "GPL-3.0",
+                "last_commit": "2026-11-11T11:49:21Z",
+                "open_issues": 3,
+                "owner": "QuirkyCort",
+                "repo": "IoTy",
+                "stars": 18,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:02:05.246Z"
+            },
+            {
+              "node_type": "item",
+              "title": "IoTy vs1003",
+              "description": "Driver for the VS1003 MP3 decoder / encoder. Supports playing of MP3, WMA, MIDI, ADPCM, and recording of ADPCM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Internet-of-Things made easy",
+                "homepage": null,
+                "id": 547209317,
+                "language": "JavaScript",
+                "license": "GPL-3.0",
+                "last_commit": "2026-11-11T11:49:21Z",
+                "open_issues": 3,
+                "owner": "QuirkyCort",
+                "repo": "IoTy",
+                "stars": 18,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:02:05.246Z"
+            },
+            {
+              "node_type": "item",
               "title": "KT403A-MP3",
               "description": "Driver for KT403A, used by DFPlayer Mini and Grove MP3 v2.0.",
               "children": [],
@@ -373,48 +415,6 @@
                   "sound",
                   "wipy"
                 ]
-              },
-              "first_seen": "2026-08-29T00:02:05.246Z"
-            },
-            {
-              "node_type": "item",
-              "title": "yx5300",
-              "description": "MP3 player that can be controlled via a serial interface.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Internet-of-Things made easy",
-                "homepage": null,
-                "id": 547209317,
-                "language": "JavaScript",
-                "license": "GPL-3.0",
-                "last_commit": "2026-11-11T11:49:21Z",
-                "open_issues": 3,
-                "owner": "QuirkyCort",
-                "repo": "IoTy",
-                "stars": 17,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:02:05.246Z"
-            },
-            {
-              "node_type": "item",
-              "title": "IoTy vs1003",
-              "description": "Driver for the VS1003 MP3 decoder / encoder. Supports playing of MP3, WMA, MIDI, ADPCM, and recording of ADPCM.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Internet-of-Things made easy",
-                "homepage": null,
-                "id": 547209317,
-                "language": "JavaScript",
-                "license": "GPL-3.0",
-                "last_commit": "2026-11-11T11:49:21Z",
-                "open_issues": 3,
-                "owner": "QuirkyCort",
-                "repo": "IoTy",
-                "stars": 17,
-                "topics": []
               },
               "first_seen": "2026-08-29T00:02:05.246Z"
             },
@@ -1269,7 +1269,7 @@
                     "id": 628000508,
                     "language": "C",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-16T19:28:37Z",
+                    "last_commit": "2026-11-20T12:37:49Z",
                     "open_issues": 2,
                     "owner": "BrianPugh",
                     "repo": "tamp",
@@ -2057,8 +2057,8 @@
                     "id": 79956479,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2025-05-03T13:24:21Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-11-20T17:03:43Z",
+                    "open_issues": 1,
                     "owner": "SpotlightKid",
                     "repo": "micropython-ftplib",
                     "stars": 41,
@@ -3312,7 +3312,7 @@
                     "open_issues": 15,
                     "owner": "ehong-tl",
                     "repo": "micropySX126X",
-                    "stars": 168,
+                    "stars": 169,
                     "topics": [
                       "circuitpython",
                       "lora",
@@ -7398,11 +7398,11 @@
                     "id": 146632615,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-19T18:11:07Z",
+                    "last_commit": "2026-11-20T16:07:15Z",
                     "open_issues": 3,
                     "owner": "peterhinch",
                     "repo": "micropython-nano-gui",
-                    "stars": 670,
+                    "stars": 671,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -7445,7 +7445,7 @@
                     "id": 374629205,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-17T10:30:14Z",
+                    "last_commit": "2026-11-20T16:08:38Z",
                     "open_issues": 12,
                     "owner": "peterhinch",
                     "repo": "micropython-micro-gui",
@@ -10798,7 +10798,7 @@
                     "open_issues": 3,
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -13531,7 +13531,7 @@
                     "open_issues": 3,
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -13685,7 +13685,7 @@
                     "open_issues": 3,
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -13706,7 +13706,7 @@
                     "open_issues": 3,
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -14305,7 +14305,7 @@
                     "open_issues": 3,
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -14326,7 +14326,7 @@
                     "open_issues": 3,
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -14347,7 +14347,7 @@
                     "open_issues": 3,
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -14368,7 +14368,7 @@
                     "open_issues": 3,
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -15015,7 +15015,7 @@
                     "open_issues": 3,
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -15395,7 +15395,7 @@
                     "open_issues": 3,
                     "owner": "SergeyPiskunov",
                     "repo": "micropython-hx711",
-                    "stars": 88,
+                    "stars": 89,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -15437,7 +15437,7 @@
                     "open_issues": 3,
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -15458,7 +15458,7 @@
                     "open_issues": 3,
                     "owner": "HowManyOliversAreThere",
                     "repo": "hx711_mpy-driver",
-                    "stars": 8,
+                    "stars": 9,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -16305,7 +16305,7 @@
                     "open_issues": 3,
                     "owner": "QuirkyCort",
                     "repo": "IoTy",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
@@ -19130,7 +19130,7 @@
             "open_issues": 0,
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1593,
+            "stars": 1599,
             "topics": [
               "100daysofcode",
               "adafruit",
@@ -19303,7 +19303,7 @@
             "open_issues": 0,
             "owner": "BxNxM",
             "repo": "micrOS",
-            "stars": 139,
+            "stars": 140,
             "topics": [
               "asyncio",
               "diy",
@@ -19381,8 +19381,8 @@
             "id": 1236345182,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-19T17:08:14Z",
-            "open_issues": 36,
+            "last_commit": "2026-11-20T22:11:27Z",
+            "open_issues": 33,
             "owner": "elixpo",
             "repo": "falera",
             "stars": 14,
@@ -19511,10 +19511,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-11-19T02:54:09Z",
-            "open_issues": 1593,
+            "open_issues": 1595,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22212,
+            "stars": 22215,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19537,10 +19537,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-11-19T02:54:09Z",
-            "open_issues": 1593,
+            "open_issues": 1595,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22212,
+            "stars": 22215,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19630,7 +19630,7 @@
                 "id": 304969957,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-19T02:57:09Z",
+                "last_commit": "2026-11-20T02:49:13Z",
                 "open_issues": 20,
                 "owner": "Josverl",
                 "repo": "micropython-stubs",
@@ -19946,7 +19946,7 @@
                 "open_issues": 33,
                 "owner": "jczic",
                 "repo": "ESP32-MPY-Jama",
-                "stars": 503,
+                "stars": 502,
                 "topics": [
                   "app",
                   "boot",
@@ -20249,10 +20249,10 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-19T02:54:09Z",
-                    "open_issues": 1593,
+                    "open_issues": 1595,
                     "owner": "micropython",
                     "repo": "micropython",
-                    "stars": 22212,
+                    "stars": 22215,
                     "topics": [
                       "embedded",
                       "microcontroller",
@@ -20592,7 +20592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:40:56.385Z",
+    "last_updated": "2026-11-20T22:15:29.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
@@ -20601,7 +20601,7 @@
       "language": "HTML",
       "license": "CC0-1.0",
       "last_commit": "2026-11-04T02:55:40Z",
-      "open_issues": 9,
+      "open_issues": 10,
       "owner": "mcauser",
       "repo": "awesome-micropython",
       "stars": 1817,
