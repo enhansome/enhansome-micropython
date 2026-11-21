@@ -990,8 +990,8 @@
                     "id": 348060965,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-11T07:30:37Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-11-21T09:52:35Z",
+                    "open_issues": 0,
                     "owner": "Heerkog",
                     "repo": "MicroPythonBLEHID",
                     "stars": 329,
@@ -1381,7 +1381,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-14T13:08:24Z",
-                    "open_issues": 93,
+                    "open_issues": 94,
                     "owner": "diybitcoinhardware",
                     "repo": "embit",
                     "stars": 121,
@@ -7378,6 +7378,48 @@
                     ]
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "RV565",
+                  "description": "Native module and C library for playing frame-independent RGB565 video on SPI displays such as the ST7789.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Frame-independent RGB565 video for ESP32-S3 and RP2350 SPI displays — dual-core decode + DMA pipeline (arXiv:2610.35935)",
+                    "homepage": "https://falera.elixpo.com/rv565/convert/",
+                    "id": 1440694230,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-11-21T05:06:00Z",
+                    "open_issues": 10,
+                    "owner": "elixpo",
+                    "repo": "rv565",
+                    "stars": 4,
+                    "topics": [
+                      "arduino-library",
+                      "dma",
+                      "embedded",
+                      "esp-idf-component",
+                      "esp32",
+                      "esp32s3",
+                      "falera-badge",
+                      "faleraos",
+                      "microcontroller",
+                      "micropython",
+                      "oreo-badge",
+                      "pico-sdk",
+                      "platformio",
+                      "raspberry-pi-pico",
+                      "rgb565",
+                      "rp2350",
+                      "spi-display",
+                      "st7789",
+                      "video",
+                      "video-player"
+                    ]
+                  },
+                  "first_seen": "2026-11-21T20:55:30.881Z"
                 }
               ],
               "description": null,
@@ -11525,8 +11567,8 @@
                 "id": 205409848,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-27T15:38:29Z",
-                "open_issues": 46,
+                "last_commit": "2026-11-21T16:37:55Z",
+                "open_issues": 45,
                 "owner": "v923z",
                 "repo": "micropython-ulab",
                 "stars": 503,
@@ -13559,7 +13601,7 @@
                     "open_issues": 34,
                     "owner": "lemariva",
                     "repo": "micropython-camera-driver",
-                    "stars": 568,
+                    "stars": 569,
                     "topics": [
                       "esp32",
                       "esp32-cam",
@@ -14511,6 +14553,40 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:05.246Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "erdi-lrf-esp32-micropython",
+                  "description": "UART driver for ERDI 905 nm / 1535 nm laser rangefinder modules on ESP32, with distance readout and Wi-Fi publish examples.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "ESP32 MicroPython driver for ERDI UART laser rangefinder modules: distance readout, Wi-Fi/MQTT publish | ESP32 激光测距模块 MicroPython 驱动 UART 激光雷达",
+                    "homepage": "https://erdilrf.com",
+                    "id": 1447733623,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-11-12T16:56:52Z",
+                    "open_issues": 0,
+                    "owner": "ErdiTech",
+                    "repo": "erdi-lrf-esp32-micropython",
+                    "stars": 0,
+                    "topics": [
+                      "distance-sensor",
+                      "drone",
+                      "erdi",
+                      "esp32",
+                      "iot",
+                      "laser-distance-sensor",
+                      "laser-rangefinder",
+                      "lidar",
+                      "micropython",
+                      "robotics",
+                      "tof",
+                      "uart"
+                    ]
+                  },
+                  "first_seen": "2026-11-21T20:55:30.881Z"
                 }
               ],
               "description": null,
@@ -19130,7 +19206,7 @@
             "open_issues": 0,
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
-            "stars": 1599,
+            "stars": 1600,
             "topics": [
               "100daysofcode",
               "adafruit",
@@ -19371,7 +19447,7 @@
         },
         {
           "node_type": "item",
-          "title": "OreoOS",
+          "title": "FaleraOS",
           "description": "Operating system for an open-hardware ESP32-S3 conference badge, with an app SDK, on-device app store, OTA updates and native video playback.",
           "children": [],
           "repo_info": {
@@ -19381,8 +19457,8 @@
             "id": 1236345182,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-20T22:11:27Z",
-            "open_issues": 33,
+            "last_commit": "2026-11-21T20:47:28Z",
+            "open_issues": 37,
             "owner": "elixpo",
             "repo": "falera",
             "stars": 14,
@@ -19510,11 +19586,11 @@
             "id": 15337142,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T02:54:09Z",
-            "open_issues": 1595,
+            "last_commit": "2026-11-21T05:26:55Z",
+            "open_issues": 1596,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22215,
+            "stars": 22216,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19536,11 +19612,11 @@
             "id": 15337142,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T02:54:09Z",
-            "open_issues": 1595,
+            "last_commit": "2026-11-21T05:26:55Z",
+            "open_issues": 1596,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22215,
+            "stars": 22216,
             "topics": [
               "embedded",
               "microcontroller",
@@ -19630,7 +19706,7 @@
                 "id": 304969957,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-20T02:49:13Z",
+                "last_commit": "2026-11-21T02:59:18Z",
                 "open_issues": 20,
                 "owner": "Josverl",
                 "repo": "micropython-stubs",
@@ -19974,6 +20050,34 @@
             },
             {
               "node_type": "item",
+              "title": "Micro REPL",
+              "description": "MicroPython IDE for Android, desktop and web, with a terminal, a code editor and a visual files explorer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A MicroPython IDE for Mobile, Desktop and the Web",
+                "homepage": "https://ma7moud3ly.github.io/micro-repl",
+                "id": 622698872,
+                "language": "Kotlin",
+                "license": "MIT",
+                "last_commit": "2026-10-26T13:09:07Z",
+                "open_issues": 9,
+                "owner": "Ma7moud3ly",
+                "repo": "micro-repl",
+                "stars": 165,
+                "topics": [
+                  "esp32",
+                  "kotlinmultiplatform",
+                  "micropython",
+                  "nemo-editor",
+                  "python",
+                  "raspberry-pi-pico"
+                ]
+              },
+              "first_seen": "2026-11-21T20:55:30.881Z"
+            },
+            {
+              "node_type": "item",
               "title": "uPIDE",
               "description": "µPIDE is a simple IDE for MicroPython.",
               "children": [],
@@ -20248,11 +20352,11 @@
                     "id": 15337142,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-19T02:54:09Z",
-                    "open_issues": 1595,
+                    "last_commit": "2026-11-21T05:26:55Z",
+                    "open_issues": 1596,
                     "owner": "micropython",
                     "repo": "micropython",
-                    "stars": 22215,
+                    "stars": 22216,
                     "topics": [
                       "embedded",
                       "microcontroller",
@@ -20592,7 +20696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:15:29.299Z",
+    "last_updated": "2026-11-21T20:55:30.881Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
@@ -20600,11 +20704,11 @@
       "id": 123274703,
       "language": "HTML",
       "license": "CC0-1.0",
-      "last_commit": "2026-11-04T02:55:40Z",
-      "open_issues": 10,
+      "last_commit": "2026-11-20T23:12:52Z",
+      "open_issues": 6,
       "owner": "mcauser",
       "repo": "awesome-micropython",
-      "stars": 1817,
+      "stars": 1818,
       "topics": [
         "awesome",
         "awesome-list",
@@ -20612,7 +20716,7 @@
         "micropython"
       ]
     },
-    "original_repository_sha": "82c805b6e8274fc307f7bebbcc78389114003cfa",
+    "original_repository_sha": "32cf5cdf15aa159d58dc60ca28ec6547af54858d",
     "enhanced_repository": "enhansome/enhansome-micropython",
     "enhanced_repository_description": null,
     "title": "Awesome micropython with stars"
